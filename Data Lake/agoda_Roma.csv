@@ -1,0 +1,541 @@
+,titolo,recensione_voto_numerico,recensione_voto_parola,numero_recensioni,date,permanenza,prezzo,indirizzo,valutazione
+0,Raeli Hotel Lazio,"7,7",Ottimo,321 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€159,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+1,Raeli Hotel Noto,"7,8",Ottimo,2.391 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€153,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+2,Hotel King,"8,1",Fantastico,2.109 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€169,"Via Veneto, Roma - In pieno centro",3
+3,Rome Cavalieri A Waldorf Astoria Hotel,"8,9",Fantastico,1.161 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€1.620,"Trionfale, Roma - A 1,2 km dal centro",5
+4,Hotel Taormina,"8,3",Fantastico,1.541 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€105,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+5,B&B Hotel Roma Tuscolana San Giovanni,"8,3",Fantastico,1.064 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€95,"Appio Latino, Roma - A 1,6 km dal centro",3
+6,Sonder by Marriott Bonvoy Piazza Venezia Apartments,"9,2",Eccezionale,4 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€228,"Pantheon, Roma - In pieno centro",3
+7,Hotel American Palace Eur,"8,5",Fantastico,7.282 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€105,"Eur e Garbatella, Roma - A 6,2 km dal centro",4
+8,hu Roma Camping in town,"8,3",Fantastico,18.989 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€69,"Aurelio e Monteverde, Roma - A 4,5 km dal centro",4
+9,B&B Hotel Roma Fiumicino Aeroporto Fiera 2,"8,4",Fantastico,6.546 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€100,"Aeroporto di Fiumicino, Roma - A 17,2 km dal centro",3
+10,Ibis Roma Fiera,"7,6",Ottimo,5.166 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€96,"Roma Ovest, Roma - A 9,3 km dal centro",3
+11,B&B Hotel Roma Fiumicino,"8,3",Fantastico,6.308 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€98,"Aeroporto di Fiumicino, Roma - A 17,2 km dal centro",3
+12,AH ROMA,"7,2",Ottimo,866 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€88,"Roma Nord, Roma - A 7,2 km dal centro",3
+13,Hotel Roma Tor Vergata,"7,8",Ottimo,2.086 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€105,"Roma Est, Roma - A 10,3 km dal centro",4
+14,Hotel Gambrinus,"8,3",Fantastico,864 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€128,"Via Veneto, Roma - In pieno centro",4
+15,Hilton Rome Airport Hotel,"7,6",Ottimo,11.241 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€250,"Aeroporto di Fiumicino, Roma - A 20,4 km dal centro",4
+16,Giglio Dell'opera Hotel,"6,9",Buono,2.955 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€87,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+17,Maison delle Naiadi Guest House,"8,6",Fantastico,482 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€110,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+18,Hotel Nord Nuova Roma,"8,4",Fantastico,7.083 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€198,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+19,Corot Hotel,"7,9",Ottimo,1.051 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€119,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+20,Hotel Oriente,"7,2",Ottimo,444 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€80,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+21,Raeli Hotel Siracusa,"7,7",Ottimo,4.169 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€160,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+22,The Kennedy Hotel,"7,6",Ottimo,1.260 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€117,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+23,Raeli Hotel Archimede,"7,6",Ottimo,334 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€112,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+24,Hotel Villa Rosa,"7,6",Ottimo,468 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€113,"Trastevere, Roma - A 1,5 km dal centro",3
+25,Air Rooms Rome Airport by HelloSky,"8,0",Fantastico,749 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€238,"Aeroporto di Fiumicino, Roma - A 20,5 km dal centro",4
+26,Hotel Nazionale,"9,2",Eccezionale,3.632 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€167,"Pantheon, Roma - In pieno centro",4
+27,Hotel Raganelli,"8,3",Fantastico,1.250 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€92,"Aurelio e Monteverde, Roma - A 3,6 km dal centro",4
+28,Trevi Hotel,"8,1",Fantastico,2.050 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€154,"Fontana di Trevi, Roma - In pieno centro",3
+29,Adriatic Hotel,"7,9",Ottimo,992 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€105,"Città del Vaticano, Roma - In pieno centro",2
+30,Quirinale Hotel,"8,3",Fantastico,8.240 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€201,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+31,Roma Resort Termini,"7,0",Ottimo,807 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€115,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+32,Hotel Isola Sacra Rome Airport,"8,8",Fantastico,8.292 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€213,"Aeroporto di Fiumicino, Roma - A 21,6 km dal centro",4
+33,Locanda Delle Corse,"8,3",Fantastico,62 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€224,"Appio Latino, Roma - A 8,7 km dal centro",3
+34,Hotel Artis,"7,9",Ottimo,446 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€85,"Appio Latino, Roma - A 6,0 km dal centro",4
+35,Hotel Villafranca,"8,1",Fantastico,1.956 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€162,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+36,Genova Hotel,"8,3",Fantastico,2.602 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€179,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+37,Family House Hotel,"7,1",Ottimo,480 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€76,"Stazione centrale Roma Termini, Roma - In pieno centro",1
+38,Hotel Ripa Roma,"8,2",Fantastico,3.462 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€122,"Trastevere, Roma - A 0,5 km dal centro",4
+39,Hotel Tiber,"8,5",Fantastico,4.909 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€156,"Aeroporto di Fiumicino, Roma - A 23,9 km dal centro",4
+40,LH Hotel Roma Montemario,"7,9",Ottimo,3.973 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€75,"Trionfale, Roma - A 3,0 km dal centro",4
+41,Hilton Garden Inn Rome Airport,"7,9",Ottimo,329 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€191,"Aeroporto di Fiumicino, Roma - A 18,8 km dal centro",4
+42,Grand Hotel Fleming by OMNIA hotels,"7,8",Ottimo,2.798 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€121,"Flaminio e Parioli, Roma - A 3,2 km dal centro",4
+43,Hotel Napoleon,"8,1",Fantastico,1.187 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€122,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+44,Hotel Champagne Palace,"6,8",Buono,1.557 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€151,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+45,SOTEL NOMENTANA,"6,8",Buono,1.550 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€74,"Roma Est, Roma - A 5,3 km dal centro",3
+46,Windrose Hotel,"8,4",Fantastico,506 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€169,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+47,Gialel B&B,"7,3",Ottimo,152 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€91,"Via Veneto, Roma - In pieno centro",4
+48,Hotel Relais Castrum Boccea,"8,0",Fantastico,705 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€156,"Boccea, Roma - A 13,1 km dal centro",4
+49,Hotel Varese,"8,7",Fantastico,3.121 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€150,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+50,Hotel Agora,"7,5",Ottimo,2.638 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€92,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+51,Torino Hotel,"7,0",Ottimo,2.016 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€112,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+52,Hotel Igea,"7,7",Ottimo,3.916 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€139,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+53,THE INDEPENDENT HOTEL,"8,8",Fantastico,2.496 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€162,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+54,Isa Fiumicino Airport Residence,"8,1",Fantastico,3.230 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€102,"Aeroporto di Fiumicino, Roma - A 23,3 km dal centro",3
+55,Mercure Rome Leonardo da Vinci Airport,"8,0",Fantastico,9.501 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€127,"Aeroporto di Fiumicino, Roma - A 22,8 km dal centro",4
+56,Hotel Shangri-La Roma by OMNIA hotels,"8,6",Fantastico,2.139 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€199,"Eur e Garbatella, Roma - A 7,2 km dal centro",4
+57,B&B Hotel Roma San Lorenzo Termini,"8,4",Fantastico,1.883 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€129,"Stazione centrale Roma Termini, Roma - A 0,7 km dal centro",3
+58,Residenza Ki,"7,9",Ottimo,1.593 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€166,"Fontana di Trevi, Roma - In pieno centro",3
+59,Hotel Cilicia,"7,6",Ottimo,168 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€110,"Appio Latino, Roma - A 1,1 km dal centro",3
+60,Hotel Des Epoques,"7,9",Ottimo,612 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€89,"Nomentano, Roma - A 0,2 km dal centro",4
+61,Luxury Rooms H 2000 Roma,"7,5",Ottimo,206 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€121,"Fontana di Trevi, Roma - In pieno centro",3
+62,Aparthotel Colombo Roma,"8,9",Fantastico,78 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€172,"Eur e Garbatella, Roma - A 1,6 km dal centro",3
+63,Hotel Sant'Angelo,"8,0",Fantastico,22 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€144,"Città del Vaticano, Roma - In pieno centro",3
+64,The Cross hotel,"8,5",Fantastico,4.188 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€222,"Stazione centrale Roma Termini, Roma - A 0,2 km dal centro",4
+65,Hotel Antico Acquedotto,"6,7",Buono,289 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€81,"Roma Est, Roma - A 1,8 km dal centro",3
+66,Hotel Tempio Di Pallade,"7,8",Ottimo,1.332 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€89,"Stazione centrale Roma Termini, Roma - A 71 m dal centro",3
+67,Guest House La Casa Di Amy,"9,0",Eccezionale,2.743 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€153,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+68,Camplus Hotel Roma Centro,"8,8",Fantastico,4.074 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€178,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+69,Hotel Bolognese,"6,9",Buono,813 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€104,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+70,Bettoja Massimo D'Azeglio Hotel,"8,5",Fantastico,2.116 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€168,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+71,Genio Hotel,"8,3",Fantastico,432 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€146,"Piazza Navona, Roma - In pieno centro",4
+72,Hotel Caravel,"8,2",Fantastico,1.649 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€116,"Eur e Garbatella, Roma - A 1,6 km dal centro",4
+73,Hotel St Martin by OMNIA hotels,"8,7",Fantastico,1.513 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€159,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+74,Noba Hotel e Residenze,"8,3",Fantastico,1.948 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€117,"Nomentano, Roma - A 3,2 km dal centro",3
+75,Hotel Valle,"6,9",Buono,377 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€114,"Monti, Roma - In pieno centro",3
+76,BV Hotel Oly,"7,8",Ottimo,1.745 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€130,"Eur e Garbatella, Roma - A 3,3 km dal centro",4
+77,Hotel Pace Helvezia,"8,2",Fantastico,689 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€209,"Colosseo e Foro Romano, Roma - In pieno centro",4
+78,Infinity Hotel St. Peter,"8,2",Fantastico,44 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€79,"Città del Vaticano, Roma - In pieno centro",3
+79,LH Hotel Andreotti,"8,7",Fantastico,3.714 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€108,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+80,Bettoja Atlantico Hotel,"8,5",Fantastico,1.636 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€504,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+81,Hotel Farini,"7,4",Ottimo,315 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€105,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+82,Hotel Piemonte,"7,9",Ottimo,2.021 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€155,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+83,Hotel Center 2,"6,9",Buono,3.539 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€142,"Stazione centrale Roma Termini, Roma - A 0,2 km dal centro",3
+84,Colonna Palace Hotel,"8,5",Fantastico,840 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€203,"Pantheon, Roma - In pieno centro",4
+85,The Hive Hotel,"8,9",Fantastico,7.787 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€174,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+86,Generator Rome,"8,1",Fantastico,537 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€173,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+87,Hotel Center 3,"7,3",Ottimo,1.607 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€124,"Stazione centrale Roma Termini, Roma - A 0,2 km dal centro",3
+88,Prati 25.7 Suites in Rome,"8,2",Fantastico,379 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€132,"Città del Vaticano, Roma - In pieno centro",4
+89,Palazzo Sant'Antonio,"8,4",Fantastico,1.362 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€63,"Trionfale, Roma - A 2,3 km dal centro",3
+90,Hotel Best Roma,"7,4",Ottimo,112 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€126,"Stazione centrale Roma Termini, Roma - A 49 m dal centro",4
+91,Rome Garden Hotel,"8,1",Fantastico,295 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€152,"Nomentano, Roma - A 0,4 km dal centro",3
+92,Precise House Mantegna Roma,"8,8",Fantastico,1.968 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€177,"Eur e Garbatella, Roma - A 3,0 km dal centro",4
+93,LH Hotel Lloyd Rome,"8,0",Fantastico,1.688 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€120,"Nomentano, Roma - A 0,4 km dal centro",3
+94,Hotel Philia,"6,3",Buono,418 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€89,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+95,Occidental Aran Park Hotel,"7,8",Ottimo,4.451 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€124,"Eur e Garbatella, Roma - A 6,6 km dal centro",4
+96,Hotel Villa San Lorenzo Maria,"8,2",Fantastico,3.684 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€166,"Stazione centrale Roma Termini, Roma - A 0,4 km dal centro",3
+97,Adesso Hotel,"9,1",Eccezionale,3.375 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€161,"Nomentano, Roma - A 1,9 km dal centro",4
+98,TH Roma - Carpegna Palace,"8,2",Fantastico,490 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€112,"Aurelio e Monteverde, Roma - A 2,5 km dal centro",4
+99,Hotel Boomerang Roma,"7,7",Ottimo,1.296 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€81,"Roma Ovest, Roma - A 6,7 km dal centro",3
+100,La Griffe Hotel Roma,"7,8",Ottimo,5.347 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€139,"Stazione centrale Roma Termini, Roma - In pieno centro",5
+101,Best Western Hotel Globus,"8,2",Fantastico,3.462 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€138,"Policlinico, Roma - A 0,9 km dal centro",3
+102,All Time Relais & Sport Hotel,"8,3",Fantastico,303 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€851,"Eur e Garbatella, Roma - A 8,8 km dal centro",4
+103,The RomeHello,"9,2",Eccezionale,10.024 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€146,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+104,Hotel Buenos Aires,"7,9",Ottimo,1.084 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€128,"Nomentano, Roma - A 1,2 km dal centro",3
+105,Hotel Gabriella,"7,3",Ottimo,436 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€96,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+106,Hotel Milani,"8,4",Fantastico,3.827 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€164,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+107,Rome  Ciampino Smart Hotel,"8,8",Fantastico,366 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€81,"Aeroporto di Ciampino, Roma - A 11,9 km dal centro",3
+108,Hotel Il Cantico St. Peter,"8,7",Fantastico,536 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€85,"Città del Vaticano, Roma - A 1,0 km dal centro",3
+109,Hotel Residence Magnolia,"7,7",Ottimo,11 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€93,"Trionfale, Roma - A 1,2 km dal centro",3
+110,Albergo Ottocento,"8,7",Fantastico,244 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€213,"Via Veneto, Roma - In pieno centro",4
+111,Hotel Dei Congressi,"8,7",Fantastico,3.304 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€172,"Eur e Garbatella, Roma - A 5,8 km dal centro",4
+112,UNA HOTELS Decò Roma,"8,8",Fantastico,5.083 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€231,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+113,La Villetta Fiera Airport,"8,7",Fantastico,137 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€95,"Aeroporto di Fiumicino, Roma - A 12,7 km dal centro",3
+114,Hotel Altavilla,"6,6",Buono,377 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€102,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+115,Ginevra Palace Hotel,"7,0",Ottimo,235 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€87,"Aurelio e Monteverde, Roma - A 3,7 km dal centro",3
+116,Freedom Traveller Hostel,"6,9",Buono,553 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€119,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+117,Hotel Filippo Roma,"7,7",Ottimo,942 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€83,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+118,Urban Garden Hotel,"7,9",Ottimo,1.501 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€154,"Roma Est, Roma - A 5,7 km dal centro",3
+119,Fabulous Village,"8,3",Fantastico,6.458 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€213,"Ostia, Roma - A 13,5 km dal centro",4
+120,Casa I Cappuccini,"8,8",Fantastico,1.585 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€133,"Via Veneto, Roma - In pieno centro",4
+121,Hotel Imperatori,"7,7",Ottimo,845 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€77,"Roma Nord, Roma - A 8,2 km dal centro",4
+122,Golden Tulip Rome Piram,"8,2",Fantastico,2.886 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€204,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+123,Hampton Inn Rome East,"8,4",Fantastico,38 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€103,"Roma Est, Roma - A 8,2 km dal centro",4
+124,Glamour Spanish Steps,"6,9",Buono,448 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€78,"Flaminio e Parioli, Roma - In pieno centro",4
+125,Gioberti Hotel,"8,2",Fantastico,1.365 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€181,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+126,Suite Opera Rooms                                                               ,"7,9",Ottimo,94 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€117,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+127,Albergo Marisa                                                                  ,"8,0",Fantastico,5.332 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€137,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+128,Relais Monti,"8,7",Fantastico,1.784 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€214,"Monti, Roma - In pieno centro",4
+129,Augusta Lucilla Palace Hotel,"8,6",Fantastico,8.084 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€166,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+130,Rome Marriott Park Hotel,"7,7",Ottimo,2.873 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€200,"Roma Ovest, Roma - A 9,2 km dal centro",4
+131,Hotel Artemide,"9,3",Eccezionale,2.798 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€368,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+132,Domus 21 Luxury Suites,"9,2",Eccezionale,634 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€338,"Pantheon, Roma - In pieno centro",5
+133,Bettoja Mediterraneo Hotel,"8,7",Fantastico,2.813 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€198,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+134,Argentina Residenza Style Hotel,"9,2",Eccezionale,463 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€208,"Pantheon, Roma - In pieno centro",4
+135,Hotel Homs,"8,2",Fantastico,78 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€152,"Piazza di Spagna, Roma - In pieno centro",4
+136,Hostel Trastevere,"7,7",Ottimo,4.474 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€163,"Trastevere, Roma - A 0,9 km dal centro",2
+137,Cardinal St Peter Hotel,"7,5",Ottimo,3.816 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€162,"Aurelio e Monteverde, Roma - A 2,1 km dal centro",4
+138,Leonardo Boutique Hotel Rome Termini,"8,4",Fantastico,1.729 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€185,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+139,citizenM Rome Isola Tiberina,"9,0",Eccezionale,2.197 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€304,"Pantheon, Roma - In pieno centro",4
+140,Orazio Palace Hotel,"8,9",Fantastico,1.678 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€204,"Città del Vaticano, Roma - In pieno centro",4
+141,Holiday Inn Rome - Eur Parco Dei Medici By IHG,"8,0",Fantastico,4.844 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€190,"Roma Ovest, Roma - A 8,4 km dal centro",4
+142,Hotel Relais Dei Papi,"8,8",Fantastico,34 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€226,"Città del Vaticano, Roma - In pieno centro",3
+143,Ostello Bello Roma,"8,9",Fantastico,2.474 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€232,"Colosseo e Foro Romano, Roma - In pieno centro",3
+144,Hotel Tex,"7,3",Ottimo,144 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€125,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+145,Grand Hotel Tiberio,"8,3",Fantastico,2.843 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€114,"Trionfale, Roma - A 1,0 km dal centro",4
+146,Hotel Marcantonio,"8,4",Fantastico,1.142 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€155,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+147,Albani Roma Hotel,"8,0",Fantastico,2.065 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€124,"Flaminio e Parioli, Roma - A 0,5 km dal centro",4
+148,Mama Shelter Roma,"8,7",Fantastico,3.109 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€307,"Città del Vaticano, Roma - A 0,5 km dal centro",4
+149,B&B Dream Station,"9,2",Eccezionale,361 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€108,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+150,B&B Destinazione Roma,"8,9",Fantastico,3 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€116,"Trionfale, Roma - A 2,4 km dal centro",3
+151,Hotel Mirage,"6,8",Buono,682 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€112,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+152,Hotel Villa Delle Rose,"7,9",Ottimo,1.432 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€933,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+153,Hotel Cecil,"8,4",Fantastico,463 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€281,"Piazza di Spagna, Roma - In pieno centro",3
+154,C-hotels Club House Roma,"8,9",Fantastico,6.773 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€141,"Trionfale, Roma - A 2,1 km dal centro",4
+155,Hotel Villa Glori,"8,6",Fantastico,2.417 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€752,"Flaminio e Parioli, Roma - A 1,2 km dal centro",4
+156,A.Roma Lifestyle Hotel,"8,9",Fantastico,4.613 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€207,"Aurelio e Monteverde, Roma - A 3,1 km dal centro",4
+157,Hotel Accademia,"8,4",Fantastico,2.560 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€123,"Fontana di Trevi, Roma - In pieno centro",3
+158,NH Roma Villa Carpegna,"8,4",Fantastico,2.816 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€194,"Trastevere, Roma - A 1,9 km dal centro",4
+159,Hotel Infinito,"8,2",Fantastico,1.769 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€83,"Stazione centrale Roma Termini, Roma - A 0,1 km dal centro",3
+160,Warmthotel,"8,5",Fantastico,2.778 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€128,"Eur e Garbatella, Roma - A 7,6 km dal centro",4
+161,Hotel Della Conciliazione,"9,0",Eccezionale,2.274 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€288,"Città del Vaticano, Roma - In pieno centro",4
+162,Hotel Tirreno,"7,8",Ottimo,201 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€134,"Monti, Roma - In pieno centro",3
+163,Romoli Hotel,"8,4",Fantastico,1.923 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€264,"Appio Latino, Roma - A 1,9 km dal centro",3
+164,Hotel Degli Aranci,"8,9",Fantastico,1.561 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€127,"Flaminio e Parioli, Roma - A 1,4 km dal centro",4
+165,Hotel Contilia,"8,3",Fantastico,2.167 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€153,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+166,Star Vatican Rooms Rome,"8,1",Fantastico,54 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€154,"Città del Vaticano, Roma - In pieno centro",3
+167,Crossroad Hotel,"7,9",Ottimo,178 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€96,"Eur e Garbatella, Roma - A 1,3 km dal centro",3
+168,Starhotels Metropole,"8,6",Fantastico,2.971 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€246,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+169,Litus Roma Hostel,"7,3",Ottimo,2.182 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€100,"Ostia, Roma - A 23,7 km dal centro",3
+170,Impero Hotel,"8,2",Fantastico,6.639 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€142,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+171,Sheraton Rome Parco de' Medici,"7,5",Ottimo,3.240 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€185,"Roma Ovest, Roma - A 9,2 km dal centro",4
+172,Navona Palace Luxury Inn,"8,9",Fantastico,102 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€151,"Piazza Navona, Roma - In pieno centro",4
+173,Hotel Milton Roma,"8,4",Fantastico,8.759 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€145,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+174,iQ Hotel Roma,"9,3",Eccezionale,3.797 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€269,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+175,Pratinn Vatican Guest House,"8,3",Fantastico,117 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€112,"Città del Vaticano, Roma - In pieno centro",3
+176,Domus Julia,"8,2",Fantastico,573 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€103,"Fontana di Trevi, Roma - In pieno centro",3
+177,SuiteSistina for Brave Lovers,"9,1",Eccezionale,2.165 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€228,"Piazza di Spagna, Roma - In pieno centro",4
+178,Madison Hotel,"8,7",Fantastico,6 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€124,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+179,Hotel Santa Costanza by OMNIA hotels,"7,7",Ottimo,547 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",€133,"Nomentano, Roma - A 1,8 km dal centro",4
+180,Hotel San Remo,"8,1",Fantastico,3.394 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",127 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+181,Hotel Saint John,"7,8",Ottimo,375 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",167 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+182,Hotel Chopin,"7,3",Ottimo,3.031 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",147 €,"Aeroporto di Fiumicino, Roma - A 21,5 km dal centro",3
+183,Hotel Mozart,"8,6",Fantastico,294 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",232 €,"Piazza di Spagna, Roma - In pieno centro",4
+184,Camelia Hotel,"8,4",Fantastico,1.819 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",133 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+185,Donna Camilla Savelli,"9,2",Eccezionale,2.858 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",216 €,"Trastevere, Roma - A 73 m dal centro",4
+186,RESIDENZA 62,"9,4",Eccezionale,916 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",234 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+187,Hotel 87 eighty-seven,"8,2",Fantastico,3.253 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",215 €,"Piazza di Spagna, Roma - In pieno centro",4
+188,Hotel Domidea,"8,9",Fantastico,1.240 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",174 €,"Roma Est, Roma - A 6,8 km dal centro",4
+189,Navona Stay,"8,7",Fantastico,96 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",206 €,"Pantheon, Roma - In pieno centro",3
+190,Roma Scout Center,"8,5",Fantastico,3.532 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",172 €,"Nomentano, Roma - A 1,6 km dal centro",3
+191,Floris Hotel,"8,4",Fantastico,412 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",215 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+192,Four Rivers Suites,"8,9",Fantastico,1.305 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",226 €,"Piazza Navona, Roma - In pieno centro",4
+193,Boutique Hotel Trevi,"8,0",Fantastico,300 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",185 €,"Fontana di Trevi, Roma - In pieno centro",4
+194,Sleep'n go Hotel,"8,3",Fantastico,1.692 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",123 €,"Aeroporto di Fiumicino, Roma - A 21,5 km dal centro",3
+195,Pineta Palace Hotel,"8,2",Fantastico,1.437 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",124 €,"Trionfale, Roma - A 2,7 km dal centro",4
+196,Palace Rome,"7,6",Ottimo,95 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",73 €,"Roma Est, Roma - A 7,3 km dal centro",3
+197,San Giusto Hotel,"7,6",Ottimo,4.123 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",171 €,"Nomentano, Roma - A 1,5 km dal centro",3
+198,Relais Tiburtina,"8,2",Fantastico,774 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",132 €,"Nomentano, Roma - A 1,9 km dal centro",3
+199,Aphrodite Hotel,"7,8",Ottimo,1.024 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",165 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+200,Hostel Mosaic,"7,5",Ottimo,237 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",109 €,"Stazione centrale Roma Termini, Roma - In pieno centro",1
+201,Flower Garden Hotel,"8,3",Fantastico,2.367 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",177 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+202,Hotel Navona,"8,9",Fantastico,415 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",178 €,"Pantheon, Roma - In pieno centro",3
+203,Rome Life Hotel,"9,0",Eccezionale,743 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",239 €,"Monti, Roma - In pieno centro",4
+204,FoffoSuite,"9,5",Eccezionale,15 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",129 €,"Stazione centrale Roma Termini, Roma - In pieno centro",5
+205,Hotel Geo,"7,5",Ottimo,456 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",92 €,"Roma Est, Roma - A 1,4 km dal centro",3
+206,Yes Hotel,"8,6",Fantastico,1.401 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",171 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+207,Hotel Virgilio,"8,9",Fantastico,39 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",156 €,"Monti, Roma - In pieno centro",3
+208,CC Palace Hotel,"9,0",Eccezionale,921 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",314 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+209,Residenza Giustiniani,"7,7",Ottimo,333 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",140 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+210,Maison Spagna Suite,"9,3",Eccezionale,676 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",165 €,"Piazza di Spagna, Roma - In pieno centro",5
+211,Al Manthia Hotel,"8,3",Fantastico,983 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",161 €,"Fontana di Trevi, Roma - In pieno centro",4
+212,Casa San Giuseppe,"8,8",Fantastico,2.439 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",120 €,"Appio Latino, Roma - A 0,6 km dal centro",3
+213,Hotel Rimini,"7,8",Ottimo,1.636 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",96 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+214,The Place to be &B,"8,6",Fantastico,15 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",98 €,"Nomentano, Roma - A 3,2 km dal centro",3
+215,Domus Sessoriana,"8,1",Fantastico,104 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",118 €,"Appio Latino, Roma ",3
+216,Hotel 55 Fiftyfive,"8,1",Fantastico,208 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",188 €,"Piazza di Spagna, Roma - In pieno centro",4
+217,Profumo Maison Colosseo,"8,7",Fantastico,143 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",163 €,"Colosseo e Foro Romano, Roma - In pieno centro",3
+218,Kolbe Rome Hotel,"9,0",Eccezionale,582 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",220 €,"Colosseo e Foro Romano, Roma - In pieno centro",4
+219,"Hotel Midas Roma, a member of Barceló Hotel Group","7,9",Ottimo,2.066 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",350 €,"Aurelio e Monteverde, Roma - A 4,6 km dal centro",4
+220,Best Western Hotel President,"8,5",Fantastico,4.057 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",215 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+221,At Home Townhouse - Filiberto,"9,4",Eccezionale,1.243 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",164 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+222,Domus Getsemani,"7,8",Ottimo,1.544 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",129 €,"Città del Vaticano, Roma - A 0,4 km dal centro",3
+223,Hotel Smeraldo,"9,5",Eccezionale,27 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",217 €,"Pantheon, Roma - In pieno centro",3
+224,c-hotels Fiume,"9,1",Eccezionale,1.911 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",136 €,"Via Veneto, Roma - A 97 m dal centro",4
+225,Hotel Arcangelo,"8,3",Fantastico,1.560 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",153 €,"Città del Vaticano, Roma - In pieno centro",3
+226,Dei Mellini Hotel,"8,9",Fantastico,620 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",191 €,"Città del Vaticano, Roma - In pieno centro",4
+227,Hotel Hiberia,"9,1",Eccezionale,4.641 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",228 €,"Colosseo e Foro Romano, Roma - In pieno centro",3
+228,Tullia and Prisca Relais Guest House,"8,9",Fantastico,690 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",145 €,"Colosseo e Foro Romano, Roma - In pieno centro",3
+229,Terminal guest house 24,"6,0",Buono,10 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",64 €,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+230,Trastevere Gallery Suites,"9,3",Eccezionale,818 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",138 €,"Trastevere, Roma - A 1,2 km dal centro",4
+231,Hotel Dina,"7,0",Ottimo,93 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",92 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+232,UNA HOTELS Trastevere Roma,"8,8",Fantastico,2.543 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",244 €,"Trastevere, Roma - In pieno centro",4
+233,Hotel Area,"8,2",Fantastico,5.586 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",133 €,"Eur e Garbatella, Roma - A 4,2 km dal centro",4
+234,Novotel Roma Est,"7,9",Ottimo,420 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",143 €,"Roma Est, Roma - A 9,7 km dal centro",4
+235,Eliseo Hotel,"7,8",Ottimo,355 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",144 €,"Piazza di Spagna, Roma - In pieno centro",4
+236,The Liberty Boutique Hotel,"9,3",Eccezionale,1.130 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",317 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+237,Best Western Hotel Astrid,"7,9",Ottimo,3.012 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",123 €,"Flaminio e Parioli, Roma - A 1,1 km dal centro",3
+238,Villa Eur Parco Dei Pini,"7,9",Ottimo,4.784 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",129 €,"Eur e Garbatella, Roma - A 6,6 km dal centro",3
+239,Hotel Martini,"8,0",Fantastico,868 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",135 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+240,Hotel Santa Maura,"8,1",Fantastico,1.496 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",117 €,"Appio Latino, Roma - A 6,9 km dal centro",3
+241,B&B Evergreen,"8,8",Fantastico,1.165 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",120 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+242,Courtyard Rome Central Park,"8,4",Fantastico,1.415 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",215 €,"Trionfale, Roma - A 2,7 km dal centro",4
+243,Grand Hotel Plaza,"8,2",Fantastico,565 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",345 €,"Piazza di Spagna, Roma - In pieno centro",5
+244,Splendor Suite Rome Guest House,"9,1",Eccezionale,42 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",218 €,"Piazza di Spagna, Roma - In pieno centro",4
+245,Hotel Medici,"8,0",Fantastico,2.697 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",156 €,"Via Veneto, Roma - In pieno centro",3
+246,Relais Indipendenza,"9,0",Eccezionale,13 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",111 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+247,Bhr Cavour 150,"8,7",Fantastico,332 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",122 €,"Monti, Roma - In pieno centro",5
+248,Palladium Palace Hotel,"8,4",Fantastico,1.031 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",164 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+249,Hotel Tritone,"8,5",Fantastico,788 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",382 €,"Fontana di Trevi, Roma - In pieno centro",3
+250,Hilton Rome Eur La Lama,"8,5",Fantastico,2.144 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",172 €,"Eur e Garbatella, Roma - A 5,9 km dal centro",4
+251,QC Termeroma Spa and Resort,"8,8",Fantastico,2.131 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",318 €,"Aeroporto di Fiumicino, Roma - A 20,2 km dal centro",5
+252,Hotel Assisi,"8,1",Fantastico,559 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",92 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+253,Gialli Vatican Guesthouse,"8,6",Fantastico,677 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",139 €,"Città del Vaticano, Roma - In pieno centro",4
+254,Roma Resort Colosseum,"7,7",Ottimo,118 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",145 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+255,Orange Hotel,"7,4",Ottimo,163 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",178 €,"Città del Vaticano, Roma - In pieno centro",4
+256,Hotel Orlanda,"8,3",Fantastico,996 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",143 €,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+257,Katrina's Home alloggio turistico,"9,3",Eccezionale,231 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",100 €,"Aeroporto di Fiumicino, Roma - A 22,5 km dal centro",4
+258,Hotel 77 Seventy-seven,"8,1",Fantastico,45 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",172 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+259,Hotel Villa Pinciana,"8,9",Fantastico,799 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",165 €,"Via Veneto, Roma - In pieno centro",4
+260,FH Grand Hotel Palatino,"8,8",Fantastico,5.131 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",247 €,"Monti, Roma - In pieno centro",4
+261,B&B Domus Liberius Roma,"8,7",Fantastico,468 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",193 €,"Monti, Roma - In pieno centro",3
+262,Quality Hotel Nova Domus,"7,7",Ottimo,105 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",94 €,"Città del Vaticano, Roma - A 0,3 km dal centro",4
+263,Imperium Suite Navona,"8,6",Fantastico,567 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",116 €,"Piazza Navona, Roma - In pieno centro",3
+264,Hotel Intorno Al Fico,"8,6",Fantastico,1.448 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",170 €,"Aeroporto di Fiumicino, Roma - A 22,6 km dal centro",3
+265,Seven Kings Relais,"8,0",Fantastico,122 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",204 €,"Via Veneto, Roma - In pieno centro",3
+266,AmoromaSuite,"8,3",Fantastico,12 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",117 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+267,Hotel Concordia,"8,2",Fantastico,567 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",147 €,"Piazza di Spagna, Roma - In pieno centro",3
+268,Hotel Sirenetta,"8,6",Fantastico,5.464 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",151 €,"Ostia, Roma - A 23,4 km dal centro",3
+269,Residence Maximus,"8,4",Fantastico,1.170 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",182 €,"Colosseo e Foro Romano, Roma - In pieno centro",3
+270,Fly Deco Hotel,"8,7",Fantastico,1.412 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",228 €,"Ostia, Roma - A 23,4 km dal centro",4
+271,Hotel principe,"7,4",Ottimo,1.391 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",119 €,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+272,Hotel Centro Cavour,"9,0",Eccezionale,5.035 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",172 €,"Monti, Roma - In pieno centro",3
+273,Hotel Giardino Europa,"8,0",Fantastico,1.556 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",113 €,"Appio Latino, Roma - A 8,8 km dal centro",3
+274,Trevi Palace Luxury Inn,"8,6",Fantastico,188 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",266 €,"Fontana di Trevi, Roma - In pieno centro",5
+275,Hotel Barberini,"9,0",Eccezionale,2.165 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",359 €,"Fontana di Trevi, Roma - In pieno centro",4
+276,Hotel Cambridge,"7,2",Ottimo,1.092 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",153 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+277,L'antica Locanda Dell'Orso,"8,3",Fantastico,1.880 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",135 €,"Piazza Navona, Roma - In pieno centro",3
+278,Hotel Everest Inn Rome,"8,5",Fantastico,1.543 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",139 €,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+279,Hotel Ponte Sisto,"8,8",Fantastico,1.780 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",207 €,"Piazza Navona, Roma - In pieno centro",4
+280,Hotel Ping Pong,"7,8",Ottimo,2.591 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",171 €,"Ostia, Roma - A 23,5 km dal centro",3
+281,Dei Borgognoni Hotel,"8,8",Fantastico,704 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",290 €,"Piazza di Spagna, Roma - In pieno centro",4
+282,Hotel Balilla,"8,8",Fantastico,970 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",139 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+283,Aran Blu,"7,6",Ottimo,1.299 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",226 €,"Ostia, Roma - A 24,3 km dal centro",4
+284,Twenty One Hotel,"8,2",Fantastico,7.122 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",202 €,"Città del Vaticano, Roma - In pieno centro",4
+285,Pinewood Rome Hotel,"7,9",Ottimo,2.113 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",142 €,"Trionfale, Roma - A 2,1 km dal centro",4
+286,Eurostars Roma Aeterna Hotel,"8,5",Fantastico,2.432 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",185 €,"Roma Est, Roma - A 1,1 km dal centro",4
+287,Relais Villa Coppede,"8,4",Fantastico,51 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",152 €,"Nomentano, Roma - A 1,1 km dal centro",4
+288,Suite Art Navona,"8,2",Fantastico,1.295 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",162 €,"Piazza Navona, Roma - In pieno centro",4
+289,Hotel Latinum,"8,3",Fantastico,611 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",123 €,"Stazione centrale Roma Termini, Roma - A 0,3 km dal centro",4
+290,The Fifteen Keys Hotel,"9,5",Eccezionale,680 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",407 €,"Monti, Roma - In pieno centro",4
+291,Hotel Gravina San Pietro,"8,0",Fantastico,190 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",133 €,"Città del Vaticano, Roma - A 0,9 km dal centro",3
+292,Hotel Paolo II,"8,9",Fantastico,1.770 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",133 €,"Città del Vaticano, Roma - A 0,6 km dal centro",3
+293,Relais Palazzo Taverna,"8,0",Fantastico,703 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",135 €,"Piazza Navona, Roma - In pieno centro",3
+294,Hotel Anfiteatro Flavio,"8,1",Fantastico,35 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",184 €,"Monti, Roma - In pieno centro",3
+295,Hotel Oxford,"7,7",Ottimo,400 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",111 €,"Via Veneto, Roma - In pieno centro",4
+296,B&B Ventisei Scalini a Trastevere,"8,7",Fantastico,79 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",152 €,"Trastevere, Roma - In pieno centro",3
+297,Hotel Milo,"7,7",Ottimo,2.776 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",144 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+298,Residenze Argileto,"8,7",Fantastico,9 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",281 €,"Colosseo e Foro Romano, Roma - In pieno centro",4
+299,HOTEL DELLE CIVETTE,"9,1",Eccezionale,1.176 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",177 €,"Nomentano, Roma - A 1,1 km dal centro",3
+300,THE REPUBLIC,"8,9",Fantastico,1.364 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",269 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+301,Parker Hotel,"8,3",Fantastico,3.679 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",133 €,"Stazione centrale Roma Termini, Roma - A 0,1 km dal centro",3
+302,City Mood Guesthouse,"5,8",Punteggio,1.054 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",107 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+303,Mercure Roma Piazza Bologna Hotel,"8,5",Fantastico,1.088 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",183 €,"Nomentano, Roma - A 1,3 km dal centro",3
+304,Delle Muse Hotel,"8,3",Fantastico,1.642 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",181 €,"Flaminio e Parioli, Roma - A 2,1 km dal centro",3
+305,HOTEL RIVIERA FIUMICINO,"8,0",Fantastico,1.926 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",143 €,"Aeroporto di Fiumicino, Roma - A 24,4 km dal centro",3
+306,Radio Hotel,"7,8",Ottimo,2.599 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",107 €,"Eur e Garbatella, Roma - A 1,6 km dal centro",2
+307,Hotel Eurorooms,"5,9",Punteggio,35 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",174 €,"Stazione centrale Roma Termini, Roma - In pieno centro",1
+308,Hotel Morgana,"8,0",Fantastico,877 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",177 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+309,Les Chambres D'Or Hotel,"7,5",Ottimo,342 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",319 €,"Città del Vaticano, Roma - In pieno centro",1
+310,Hotel Mecenate Palace,"8,7",Fantastico,2.219 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",230 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+311,Corso Suite 107 Rooms Wellness&SPA ,"8,4",Fantastico,77 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",270 €,"Piazza di Spagna, Roma - In pieno centro",4
+312,Sofitel Rome Villa Borghese Hotel,"8,7",Fantastico,1.024 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",581 €,"Via Veneto, Roma - In pieno centro",5
+313,HOTEL TREVI COLLECTION,"8,0",Fantastico,1.005 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",255 €,"Piazza di Spagna, Roma - In pieno centro",4
+314,Best Western Plus Hotel Universo,"8,7",Fantastico,5.312 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",265 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+315,Charme & Chic,"8,8",Fantastico,629 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",131 €,"Piazza di Spagna, Roma - In pieno centro",4
+316,Royal Court Hotel,"8,1",Fantastico,2.175 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",180 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+317,Ateneo Garden Palace Hotel,"8,1",Fantastico,1.703 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",160 €,"Stazione centrale Roma Termini, Roma - A 0,2 km dal centro",4
+318,A&C Much More II,"7,9",Ottimo,758 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",188 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+319,Hotel Cherubini,"7,4",Ottimo,82 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",104 €,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+320,NH Collection Palazzo Cinquecento,"8,8",Fantastico,2.067 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",411 €,"Stazione centrale Roma Termini, Roma - In pieno centro",5
+321,Casa De' Fiori,"9,0",Eccezionale,2 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",200 €,"Piazza Navona, Roma - In pieno centro",3
+322,Hotel Campidoglio,"7,2",Ottimo,24 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",185 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+323,Hotel Lella,"6,4",Buono,1.380 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",106 €,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+324,Capitani Guest House,"9,5",Eccezionale,783 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",129 €,"Aeroporto di Fiumicino, Roma - A 23,1 km dal centro",4
+325,Vatican Rome,"7,6",Ottimo,275 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",120 €,"Città del Vaticano, Roma - A 0,3 km dal centro",3
+326,MARCELLA ROYAL HOTEL – ROOFTOP GARDEN,"8,5",Fantastico,744 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",237 €,"Via Veneto, Roma - In pieno centro",4
+327,Best Western Premier Hotel Royal Santina,"8,7",Fantastico,4.614 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",231 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+328,Mondo House,"8,6",Fantastico,1.447 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",123 €,"Aeroporto di Fiumicino, Roma - A 23,7 km dal centro",3
+329,Hotel Caravita,"8,9",Fantastico,1.091 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",311 €,"Pantheon, Roma - In pieno centro",5
+330,Hotel Maryelen,"7,9",Ottimo,825 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",134 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+331,Euro House Rome Airport,"8,0",Fantastico,248 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",113 €,"Aeroporto di Fiumicino, Roma - A 22,6 km dal centro",3
+332,Roma Boutique Hotel,"8,1",Fantastico,127 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",143 €,"Via Veneto, Roma - In pieno centro",4
+333,The Social Hub Rome,"8,8",Fantastico,197 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",148 €,"Roma Est, Roma - A 0,5 km dal centro",4
+334,Amazing Piazza Venezia Suites,"9,1",Eccezionale,916 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",329 €,"Pantheon, Roma - In pieno centro",4
+335,Cortina Hotel,"8,7",Fantastico,186 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",187 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+336,La Villetta Suite,"8,6",Fantastico,2.002 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",117 €,"Aeroporto di Ciampino, Roma - A 13,8 km dal centro",3
+337,Euro House Inn,"8,0",Fantastico,745 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",118 €,"Aeroporto di Fiumicino, Roma - A 21,6 km dal centro",4
+338,Hotel Ferrari,"6,4",Buono,69 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",113 €,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+339,Baltik Guest House,"8,1",Fantastico,980 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",100 €,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+340,Moderno Hotel Roma,"8,4",Fantastico,1.764 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",138 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+341,Relais Teatro Argentina,"8,8",Fantastico,671 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",177 €,"Pantheon, Roma - In pieno centro",4
+342,Aida Charming Rooms,"7,5",Ottimo,529 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",132 €,"Roma Ovest, Roma - A 2,8 km dal centro",2
+343,Residence La Maison Jolie,"8,2",Fantastico,2.785 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",112 €,"Aeroporto di Fiumicino, Roma - A 22,3 km dal centro",3
+344,Crowne Plaza Rome St. Peter's By IHG,"8,2",Fantastico,2.264 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",245 €,"Aurelio e Monteverde, Roma - A 3,0 km dal centro",4
+345,Academy Hotel,"8,1",Fantastico,1.931 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",154 €,"Aeroporto di Fiumicino, Roma - A 23,3 km dal centro",3
+346,MF Hotel,"7,8",Ottimo,1.007 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",125 €,"Nomentano, Roma - A 0,2 km dal centro",3
+347,Hotel Dei Consoli,"8,6",Fantastico,966 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",149 €,"Città del Vaticano, Roma - In pieno centro",4
+348,Hotel Della Torre Argentina,"8,9",Fantastico,4.418 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",294 €,"Pantheon, Roma - In pieno centro",3
+349,Navona Theatre Hotel,"8,9",Fantastico,1.360 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",222 €,"Piazza Navona, Roma - In pieno centro",3
+350,Roman Holidays Hostel Rome,"7,7",Ottimo,127 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",112 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+351,Domus Valadier Luxury,"8,5",Fantastico,1.698 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",191 €,"Aeroporto di Fiumicino, Roma - A 23,2 km dal centro",3
+352,Hotel White,"8,6",Fantastico,944 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",279 €,"Fontana di Trevi, Roma - In pieno centro",4
+353,Novotel Roma EUR Hotel,"8,3",Fantastico,2.190 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",192 €,"Eur e Garbatella, Roma - A 7,1 km dal centro",4
+354,Trilussa Palace Hotel Congress & Spa,"8,3",Fantastico,776 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",169 €,"Trastevere, Roma - A 0,7 km dal centro",4
+355,Target Inn,"8,4",Fantastico,88 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",159 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+356,Hotel Athena,"7,8",Ottimo,615 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",102 €,"Policlinico, Roma - A 1,2 km dal centro",3
+357,Ergife Palace Hotel,"7,6",Ottimo,3.298 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",382 €,"Aurelio e Monteverde, Roma - A 3,2 km dal centro",4
+358,Mercure Roma Centro Colosseo Hotel,"8,2",Fantastico,2.276 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",353 €,"Colosseo e Foro Romano, Roma - In pieno centro",4
+359,Hotel Patria,"8,6",Fantastico,1.841 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",125 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+360,MEININGER Roma Termini,"8,7",Fantastico,142 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",159 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+361,Laurentia Roma Hotel,"8,2",Fantastico,2.868 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",152 €,"Stazione centrale Roma Termini, Roma - A 0,3 km dal centro",3
+362,Hotel Nardizzi Americana,"8,6",Fantastico,1.568 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",240 €,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+363,Hotel Sisto V,"8,3",Fantastico,1.542 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",114 €,"Trionfale, Roma - A 2,8 km dal centro",3
+364,Hotel Kent,"8,1",Fantastico,1.333 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",120 €,"Nomentano, Roma - A 0,3 km dal centro",3
+365,Hotel Julia,"8,1",Fantastico,1.944 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",128 €,"Fontana di Trevi, Roma - In pieno centro",3
+366,DoubleTree by Hilton Rome Monti,"8,8",Fantastico,1.740 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",373 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+367,Hotel Labelle,"8,9",Fantastico,1.254 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",164 €,"Colosseo e Foro Romano, Roma - In pieno centro",2
+368,Maison Tritone,"9,5",Eccezionale,1.156 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",321 €,"Fontana di Trevi, Roma - In pieno centro",4
+369,DA ME Suites,"9,1",Eccezionale,1.272 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",175 €,"Piazza di Spagna, Roma - In pieno centro",4
+370,Lh Royal Suites Terrace,"9,3",Eccezionale,767 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",311 €,"Pantheon, Roma - In pieno centro",4
+371,Hotel Condotti,"8,9",Fantastico,1.324 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",262 €,"Piazza di Spagna, Roma - In pieno centro",3
+372,Mario de' Fiori 37 Luxury Suites,"9,6",Eccezionale,753 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",316 €,"Piazza di Spagna, Roma - In pieno centro",4
+373,Hotel La Scaletta,"8,7",Fantastico,28 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",144 €,"Ostia, Roma - A 23,6 km dal centro",3
+374,Residenza dei Principi Bed and Breakfast,"8,7",Fantastico,27 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",113 €,"Monti, Roma - In pieno centro",3
+375,Hotel Croce Di Malta,"8,3",Fantastico,2.267 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",165 €,"Piazza di Spagna, Roma - In pieno centro",2
+376,The Major Hotel,"8,9",Fantastico,1.381 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",243 €,"Monti, Roma - In pieno centro",4
+377,Hotel Mariano,"8,7",Fantastico,36 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",130 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+378,Hotel Villa Pamphili Roma,"8,7",Fantastico,4.994 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",243 €,"Aurelio e Monteverde, Roma - A 2,8 km dal centro",4
+379,Nazionale Palace Suites,"8,6",Fantastico,365 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",154 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+380,Hotel Ostia Antica Park,"7,8",Ottimo,170 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",233 €,"Ostia, Roma - A 18,3 km dal centro",3
+381,The Sanctuary Urban Retreat,"9,4",Eccezionale,6 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",184 €,"Colosseo e Foro Romano, Roma - A 0,3 km dal centro",3
+382,Tritone Top House,"8,4",Fantastico,1.829 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",140 €,"Piazza di Spagna, Roma - In pieno centro",3
+383,Hostel Beautiful,"6,8",Buono,96 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",103 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+384,St. Peter' Six Guest House,"8,8",Fantastico,53 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",241 €,"Città del Vaticano, Roma - In pieno centro",3
+385,Leonardo Boutique Hotel Rome Monti,"8,8",Fantastico,10 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",188 €,"Monti, Roma - In pieno centro",4
+386,Occidental Aurelia,"8,4",Fantastico,1.906 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",148 €,"Aurelio e Monteverde, Roma - A 2,7 km dal centro",4
+387,Triviho Luxury Hotel Rome,"9,0",Eccezionale,798 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",230 €,"Fontana di Trevi, Roma - In pieno centro",3
+388,Colazione Al Vaticano Guest House,"8,4",Fantastico,1.474 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",75 €,"Città del Vaticano, Roma - A 0,7 km dal centro",3
+389,Des Artistes Hotel,"8,1",Fantastico,2.520 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",170 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+390,Exe Domus Aurea Hotel,"8,7",Fantastico,2.129 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",146 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+391,ASTORIA GOLDEN GATE,"9,1",Eccezionale,1.512 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",110 €,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+392,Hotel Albergo Santa Chiara,"9,2",Eccezionale,57 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",213 €,"Pantheon, Roma - In pieno centro",3
+393,Hotel La Residenza,"8,8",Fantastico,1.330 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",240 €,"Via Veneto, Roma - In pieno centro",4
+394,Hotel Garda,"8,0",Fantastico,1.891 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",178 €,"Via Veneto, Roma - In pieno centro",3
+395,Il Faro Gianicolense,"9,6",Eccezionale,2 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",132 €,"Trastevere, Roma - A 0,8 km dal centro",3
+396,9Hotel Cesari,"8,7",Fantastico,1.756 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",248 €,"Pantheon, Roma - In pieno centro",4
+397,Starhotels Michelangelo Rome,"8,9",Fantastico,2.299 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",211 €,"Città del Vaticano, Roma - A 1,5 km dal centro",4
+398,Apollo Boutique Hotel,"9,3",Eccezionale,39 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",145 €,"Città del Vaticano, Roma - A 0,1 km dal centro",4
+399,Relais Orso,"8,5",Fantastico,1.786 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",152 €,"Piazza Navona, Roma - In pieno centro",5
+400,Le Boutique Luxury Rooms diffused in Historic Center,"9,0",Eccezionale,21 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",180 €,"Aeroporto di Fiumicino, Roma - A 23,4 km dal centro",4
+401,Hotel Columbia,"8,8",Fantastico,601 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",179 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+402,Roma 2B (Roma2b Bed&Breakfast),"9,1",Eccezionale,888 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",135 €,"Via Veneto, Roma - In pieno centro",3
+403,Sweet Life Guesthouse,"8,3",Fantastico,16 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",136 €,"Stazione centrale Roma Termini, Roma - A 0,3 km dal centro",3
+404,Best Western Hotel Rome Airport,"7,9",Ottimo,3.856 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",162 €,"Aeroporto di Fiumicino, Roma - A 22,6 km dal centro",4
+405,InternoRoma,"8,5",Fantastico,430 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",123 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+406,The Independent Suites,"8,4",Fantastico,435 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",138 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+407,Hotel Grifo,"9,0",Eccezionale,2.259 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",190 €,"Monti, Roma - In pieno centro",3
+408,"Cardo Roma, Autograph Collection","8,1",Fantastico,376 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",210 €,"Eur e Garbatella, Roma - A 4,6 km dal centro",4
+409,W Rome,"9,8",Eccezionale,7 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",500 €,"Via Veneto, Roma - In pieno centro",5
+410,Salotto Piramide guesthouse,"7,2",Ottimo,501 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",105 €,"Eur e Garbatella, Roma - A 1,2 km dal centro",5
+411,Albergo delle Regioni,"9,5",Eccezionale,1.205 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",302 €,"Piazza di Spagna, Roma - In pieno centro",3
+412,Atlante Garden Hotel,"8,4",Fantastico,53 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",396 €,"Città del Vaticano, Roma - In pieno centro",4
+413,Hotel Diocleziano,"9,1",Eccezionale,3.805 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",161 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+414,Tmark Hotel Vaticano,"8,4",Fantastico,96 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",173 €,"Città del Vaticano, Roma - In pieno centro",4
+415,Viminale Hotel,"9,2",Eccezionale,1.527 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",367 €,"Monti, Roma - In pieno centro",4
+416,Residenza Paolo VI,"9,0",Eccezionale,198 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",427 €,"Città del Vaticano, Roma - A 0,2 km dal centro",4
+417,Bhr Brancaccio 83,"9,6",Eccezionale,1 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",150 €,"Monti, Roma - In pieno centro",4
+418,Hotel Termini,"6,8",Buono,30 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",130 €,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+419,Ludus Rooms,"9,2",Eccezionale,515 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",412 €,"Colosseo e Foro Romano, Roma - In pieno centro",5
+420,Marta Inn,"8,8",Fantastico,651 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",113 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+421,Hotel Barocco,"9,2",Eccezionale,1.584 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",349 €,"Via Veneto, Roma - In pieno centro",4
+422,Aelius                                                                                          ,"8,8",Fantastico,671 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",130 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+423,Excellence Suite,"8,4",Fantastico,1.646 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",148 €,"Via Veneto, Roma - In pieno centro",3
+424,Hotel Locanda Cairoli,"8,4",Fantastico,652 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",280 €,"Pantheon, Roma - In pieno centro",4
+425,Babuino 181 - Small Luxury Hotels of the World,"9,1",Eccezionale,959 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",242 €,"Piazza di Spagna, Roma - In pieno centro",4
+426,Anas Prime Place,"8,1",Fantastico,1.191 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",162 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+427,Trevi 41 Hotel,"8,4",Fantastico,96 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",177 €,"Fontana di Trevi, Roma - In pieno centro",3
+428,Piazza Di Spagna Prestige,"8,7",Fantastico,524 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",194 €,"Piazza di Spagna, Roma - In pieno centro",4
+429,room Select Via Veneto,"8,5",Fantastico,2.634 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",158 €,"Via Veneto, Roma - In pieno centro",4
+430,Ibis Styles Roma Aurelia,"8,3",Fantastico,1.529 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",130 €,"Aurelio e Monteverde, Roma - A 3,1 km dal centro",4
+431,Hotel California,"7,9",Ottimo,439 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",149 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+432,Locanda Del Sole-Roma Piazza Di Spagna Ripetta,"8,6",Fantastico,199 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",222 €,"Piazza di Spagna, Roma - In pieno centro",4
+433,InnVatican,"9,2",Eccezionale,23 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",121 €,"Città del Vaticano, Roma - A 0,4 km dal centro",3
+434,UNA HOTELS Empire Roma,"8,5",Fantastico,2.505 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",165 €,"Via Veneto, Roma - In pieno centro",4
+435,Borgo Pio Suites Inn,"9,0",Eccezionale,628 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",292 €,"Città del Vaticano, Roma - In pieno centro",4
+436,Seiler Hotel,"8,0",Fantastico,2.409 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",168 €,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+437,Hotel Villa San Pio,"8,8",Fantastico,6.936 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",252 €,"Colosseo e Foro Romano, Roma - A 0,6 km dal centro",3
+438,Gasometer Urban Suites,"9,1",Eccezionale,1.363 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",209 €,"Eur e Garbatella, Roma - A 1,5 km dal centro",4
+439,Grand Hotel Palace Rome,"8,6",Fantastico,50 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",332 €,"Via Veneto, Roma - In pieno centro",5
+440,Hotel Valadier,"8,6",Fantastico,3.009 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",206 €,"Piazza di Spagna, Roma - In pieno centro",4
+441,Rhea Silvia Luxury Navona,"9,3",Eccezionale,1.308 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",513 €,"Pantheon, Roma - In pieno centro",4
+442,B&B Hotel Roma Trastevere,"8,5",Fantastico,971 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",125 €,"Trastevere, Roma - A 1,2 km dal centro",3
+443,Rome Times Hotel,"8,7",Fantastico,796 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",232 €,"Monti, Roma - In pieno centro",4
+444,Hotel Stendhal,"8,5",Fantastico,723 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",312 €,"Piazza di Spagna, Roma - In pieno centro",4
+445,Lungotevere Suite Residence,"8,8",Fantastico,1.722 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",118 €,"Trastevere, Roma - A 1,3 km dal centro",4
+446,"Radisson Blu GHR Hotel, Rome","8,2",Fantastico,2.464 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",284 €,"Flaminio e Parioli, Roma - A 1,4 km dal centro",4
+447,Charme & Chic Luxury,"8,8",Fantastico,871 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",221 €,"Pantheon, Roma - In pieno centro",4
+448,Capo d´Africa – Colosseo,"9,0",Eccezionale,42 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",208 €,"Colosseo e Foro Romano, Roma - In pieno centro",4
+449,Grand Master Suites Guest House,"8,7",Fantastico,56 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",192 €,"Piazza di Spagna, Roma - In pieno centro",4
+450,Hotel Pulitzer,"8,5",Fantastico,2.651 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",133 €,"Eur e Garbatella, Roma - A 4,0 km dal centro",4
+451,La Casa di Elena,"6,8",Buono,841 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",89 €,"Stazione centrale Roma Termini, Roma - A 0,2 km dal centro",3
+452,Hotel Romanico Palace,"8,0",Fantastico,312 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",226 €,"Via Veneto, Roma - In pieno centro",4
+453,GP Hotel,"7,9",Ottimo,2.390 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",130 €,"Roma Est, Roma - A 4,9 km dal centro",4
+454,THAT'S AMORE FIUMICINO Airport,"8,0",Fantastico,937 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",183 €,"Aeroporto di Fiumicino, Roma - A 23,3 km dal centro",3
+455,nhow Roma,"8,3",Fantastico,1.080 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",248 €,"Via Veneto, Roma - In pieno centro",4
+456,Hotel Trecento,"9,7",Eccezionale,6 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",206 €,"Pantheon, Roma - In pieno centro",3
+457,Donatello Hotel,"7,7",Ottimo,1.186 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",110 €,"Stazione centrale Roma Termini, Roma - A 0,2 km dal centro",3
+458,Hotel Palazzo Manfredi – Small Luxury Hotels of the World,"9,0",Eccezionale,147 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",624 €,"Colosseo e Foro Romano, Roma - In pieno centro",5
+459,Hotel Prati,"8,2",Fantastico,2.129 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",129 €,"Città del Vaticano, Roma - In pieno centro",2
+460,Vanity Navona,"9,1",Eccezionale,2.068 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",227 €,"Piazza Navona, Roma - In pieno centro",2
+461,Hotel Virginia,"8,0",Fantastico,2.460 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",107 €,"Stazione centrale Roma Termini, Roma - In pieno centro",2
+462,Heart of San Lorenzo,"7,5",Ottimo,533 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",104 €,"Stazione centrale Roma Termini, Roma - A 0,3 km dal centro",4
+463,Villa Angeli - Casa per Ferie,"7,6",Ottimo,1 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",132 €,"Aurelio e Monteverde, Roma - A 1,2 km dal centro",3
+464,Hello Roma B&B,"7,5",Ottimo,884 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",120 €,"Eur e Garbatella, Roma - A 2,7 km dal centro",3
+465,Hotel Emona Aquaeductus,"8,8",Fantastico,2.040 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",158 €,"Stazione centrale Roma Termini, Roma - A 0,2 km dal centro",4
+466,Lirico Hotel,"8,6",Fantastico,2.446 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",143 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+467,Navona Comfort Rooms,"9,5",Eccezionale,115 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",174 €,"Piazza Navona, Roma - In pieno centro",4
+468,Hotel Elite,"8,5",Fantastico,939 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",140 €,"Piazza di Spagna, Roma - In pieno centro",3
+469,Hotel Il Papavero,"8,3",Fantastico,858 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",116 €,"Stazione centrale Roma Termini, Roma - In pieno centro",1
+470,Exe International Palace,"8,2",Fantastico,4.337 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",1.155 €,"Monti, Roma - In pieno centro",4
+471,AFFITTACAMERE ROMANSTYLE,"8,0",Fantastico,1.712 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",160 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+472,Relais Santa Maria Maggiore,"8,2",Fantastico,692 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",154 €,"Monti, Roma - In pieno centro",3
+473,The Spanish Suite Campo de' Fiori,"8,1",Fantastico,47 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",316 €,"Pantheon, Roma - In pieno centro",3
+474,Hotel San Giovanni Roma,"8,4",Fantastico,2.142 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",159 €,"Appio Latino, Roma - A 0,5 km dal centro",4
+475,DG Prestige room,"8,3",Fantastico,1.083 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",140 €,"Via Veneto, Roma - In pieno centro",3
+476,Hotel Artorius,"9,4",Eccezionale,5 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",139 €,"Monti, Roma - In pieno centro",2
+477,Mercure Roma Corso Trieste Hotel,"8,5",Fantastico,1.342 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",115 €,"Nomentano, Roma - A 1,6 km dal centro",4
+478,Hotel Pantheon,"8,5",Fantastico,216 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",335 €,"Pantheon, Roma - In pieno centro",4
+479,Hotel Lodi Roma,"8,2",Fantastico,595 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",117 €,"Appio Latino, Roma - A 1,2 km dal centro",2
+480,The Right Place - Guest House,"8,9",Fantastico,22 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",129 €,"San Giovanni, Roma - A 0,7 km dal centro",4
+481,Giuturna Boutique Hotel,"8,7",Fantastico,1.237 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",179 €,"Fontana di Trevi, Roma - In pieno centro",3
+482,Residence Regola,"9,2",Eccezionale,896 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",187 €,"Piazza Navona, Roma - In pieno centro",3
+483,Hotel Cinquantatre,"8,4",Fantastico,1.467 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",179 €,"Via Veneto, Roma - In pieno centro",3
+484,Best Western Artdeco Hotel,"8,1",Fantastico,1.514 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",139 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+485,AT FORTY-ONE,"9,2",Eccezionale,605 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",208 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+486,Palm Gallery Hotel,"8,8",Fantastico,13 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",227 €,"Nomentano, Roma - A 1,0 km dal centro",3
+487,Terrace Pantheon Relais,"9,2",Eccezionale,1.286 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",366 €,"Pantheon, Roma - In pieno centro",4
+488,Hotel Erdarelli,"8,4",Fantastico,383 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",197 €,"Piazza di Spagna, Roma - In pieno centro",3
+489,Hotel Vespasiano,"9,2",Eccezionale,226 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",209 €,"Città del Vaticano, Roma - In pieno centro",4
+490,InnsideRome,"8,8",Fantastico,379 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",139 €,"Città del Vaticano, Roma - A 0,3 km dal centro",4
+491,Marco Polo Rome Hotel,"8,0",Fantastico,714 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",196 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+492,Rose Garden Palace by OMNIA hotels,"9,1",Eccezionale,94 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",192 €,"Via Veneto, Roma - In pieno centro",4
+493,"Hotel Canada, BW Premier Collection","9,0",Eccezionale,2.002 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",177 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+494,Rosa Italia Hotel Roma,"8,6",Fantastico,5 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",103 €,"Policlinico, Roma - A 0,8 km dal centro",3
+495,Vatican Luxury Suite,"8,7",Fantastico,583 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",136 €,"Città del Vaticano, Roma - A 0,9 km dal centro",3
+496,The Dream,"8,9",Fantastico,572 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",130 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+497,Corso Boutique Luxury Rooms,"9,5",Eccezionale,23 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",198 €,"Piazza di Spagna, Roma - In pieno centro",4
+498,Hotel Porta Pia,"8,7",Fantastico,20 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",113 €,"Nomentano, Roma - A 0,2 km dal centro",3
+499,tagliaferri lucia,"8,6",Fantastico,1.283 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",132 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+500,THE GUARDIAN,"8,7",Fantastico,685 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",157 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+501,Villa Riari,"8,9",Fantastico,2.294 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",385 €,"Trastevere, Roma - A 0,2 km dal centro",3
+502,Martius Private Suites,"9,4",Eccezionale,43 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",711 €,"Pantheon, Roma - In pieno centro",4
+503,La Vite Vaticana,"9,0",Eccezionale,752 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",135 €,"Città del Vaticano, Roma - In pieno centro",3
+504,Suite della Pigna,"9,1",Eccezionale,695 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",326 €,"Fontana di Trevi, Roma - In pieno centro",4
+505,Rooms da Pisicchio,"9,5",Eccezionale,9 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",109 €,"Aeroporto di Fiumicino, Roma - A 23,2 km dal centro",3
+506,Residenza Frattina,"8,7",Fantastico,919 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",172 €,"Piazza di Spagna, Roma - In pieno centro",3
+507,Otivm Hotel,"9,1",Eccezionale,1.371 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",324 €,"Colosseo e Foro Romano, Roma - In pieno centro",4
+508,Garner Hotel Rome Aurelia,"8,1",Fantastico,1.750 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",149 €,"Aurelio e Monteverde, Roma - A 3,1 km dal centro",4
+509,Hotel The Building,"8,5",Fantastico,13 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",185 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+510,Torre Argentina Relais - Residenze di Charme,"9,4",Eccezionale,1.812 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",282 €,"Pantheon, Roma - In pieno centro",4
+511,Al Pantheon Con Thomas Mann,"7,6",Ottimo,634 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",142 €,"Pantheon, Roma - In pieno centro",3
+512,Alpi Hotel,"8,8",Fantastico,2.511 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",204 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+513,Hotel Domus Rome,"8,4",Fantastico,562 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",192 €,"Stazione centrale Roma Termini, Roma - In pieno centro",1
+514,Prassede Palace Hotel,"8,4",Fantastico,627 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",238 €,"Stazione centrale Roma Termini, Roma - In pieno centro",4
+515,Boutique Hotel Campo de' Fiori,"9,3",Eccezionale,7 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",470 €,"Piazza Navona, Roma - In pieno centro",3
+516,Abitart Hotel,"8,6",Fantastico,2.640 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",156 €,"Eur e Garbatella, Roma - A 1,4 km dal centro",4
+517,Ripetta Central Suites,"8,7",Fantastico,9 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",163 €,"Piazza di Spagna, Roma - In pieno centro",4
+518,The H'All Tailor Suite Roma,"8,5",Fantastico,110 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",351 €,"Flaminio e Parioli, Roma - A 99 m dal centro",5
+519,Fanti B&B,"6,8",Buono,456 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",109 €,"Stazione centrale Roma Termini, Roma - In pieno centro",3
+520,I Fiumi Di Navona,"8,5",Fantastico,595 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",183 €,"Pantheon, Roma - In pieno centro",4
+521,Atlante Star Hotel,"8,2",Fantastico,2.091 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",345 €,"Città del Vaticano, Roma - In pieno centro",4
+522,Arch Rome Suites,"9,2",Eccezionale,1.657 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",225 €,"Pantheon, Roma - In pieno centro",3
+523,Hotel Locarno,"9,4",Eccezionale,859 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",500 €,"Piazza di Spagna, Roma - In pieno centro",5
+524,The B Place,"8,1",Fantastico,1.607 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",143 €,"Città del Vaticano, Roma - In pieno centro",3
+525,Antico Albergo Sole Al Pantheon,"9,1",Eccezionale,1.849 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",462 €,"Pantheon, Roma - In pieno centro",4
+526,Porto Romano - The Marina Resort,"9,3",Eccezionale,3 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",282 €,"Aeroporto di Fiumicino, Roma - A 23,9 km dal centro",4
+527,Arenula Suites,"8,7",Fantastico,926 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",221 €,"Pantheon, Roma - In pieno centro",4
+528,River Chateau Hotel,"8,7",Fantastico,1.148 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",143 €,"Flaminio e Parioli, Roma - A 2,8 km dal centro",4
+529,504 Corso Suites Roma,"9,4",Eccezionale,19 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",206 €,"Piazza di Spagna, Roma - In pieno centro",4
+530,"Room Mate Collection Filippo, Rome-Fontana di Trevi","9,4",Eccezionale,1.335 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",358 €,"Via Veneto, Roma - In pieno centro",4
+531,Adelaide Suite Dreams,"9,6",Eccezionale,6 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",277 €,"Piazza di Spagna, Roma - In pieno centro",4
+532,Hotel Mosaic Central Rome,"7,7",Ottimo,3.082 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",156 €,"Monti, Roma - In pieno centro",3
+533,Mosaic Central Guest House,"8,5",Fantastico,31 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",136 €,"Monti, Roma - In pieno centro",3
+534,Hotel Teatro Pace,"8,8",Fantastico,321 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",213 €,"Piazza Navona, Roma - In pieno centro",3
+535,Hotel Fiori,"8,3",Fantastico,1.572 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",150 €,"Monti, Roma - In pieno centro",2
+536,Forum Hotel,"8,4",Fantastico,2.534 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",273 €,"Colosseo e Foro Romano, Roma - In pieno centro",4
+537,Hotel Farnese,"8,0",Fantastico,48 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",186 €,"Città del Vaticano, Roma - A 51 m dal centro",4
+538,Guest House Grazioli,"8,7",Fantastico,457 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",246 €,"Pantheon, Roma - In pieno centro",3
+539,Hotel San Francesco,"8,9",Fantastico,15 recensioni,1 agosto - 2 agosto,"1 notte, 2 adulti",245 €,"Trastevere, Roma - A 0,1 km dal centro",3
