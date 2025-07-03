@@ -1,6 +1,8 @@
 import re
 import string
 
+#%%% Funzioni data product 
+
 def alfabeto(x: str) -> str:
    """ Funzione che presa una stringa in input:
       - Ordina le parole all'interno di essa;
@@ -29,6 +31,26 @@ def alfabeto(x: str) -> str:
    # Ricomporre
    stringa = ' '.join(parole_ordinate).strip()
 
-   # sof è super bellonata
-
    return stringa
+
+
+
+def pulisci_prezzo(colonna):
+    return (
+        colonna
+        .str.replace('€', '', regex=False)   # rimuove il simbolo €
+        .str.replace('.', '', regex=False)   # rimuove i punti migliaia
+        .str.strip()                         # rimuove spazi
+        .astype(int)                        # converte in intero (float se preferisci)
+    )
+#%%%
+
+
+#%%% Funzioni record linkage
+
+
+
+#%%%
+
+
+
