@@ -29,4 +29,6 @@ def alfabeto(x: str) -> str:
    # Ricomporre
    stringa = ' '.join(parole_ordinate).strip()
 
+   # sof è super bellonata
+
    return stringa
