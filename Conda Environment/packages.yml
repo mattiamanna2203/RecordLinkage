@@ -2,12 +2,19 @@ name: RecordLinkage
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
+  - python=3.10
   - pip >=19.0 
   - jupyter
   - seaborn = 0.13.2 
   - scikit-learn=1.3
-  - pandas
   - numpy 
   - recordlinkage
-
+  - pandas
+  - pandas-datareader 
+  - matplotlib
+  - tqdm 
+  - requests
+  - ipykernel
+  - selenium
+  - beautifulsoup4
+  - wget

@@ -1,5 +1,3 @@
 #!/bin/bash
-# conda env remove -n datascience
-cd "/Users/mattia/Desktop/MatchAnalysis_Imputation/Progetto/Conda Environment"
-conda env create -f packages.yml -n RecordLinkage
-
+cd ".../Conda Environment" # Path della cartella over il file setup-env.yml è collocato
+conda env create -f setup-env.yml -n recordlinkage # Per creare un conda environment adatto al web scraping ed al record linkage, i pacchetti necessari sono inseriti nel file 'setup-env.yml'
