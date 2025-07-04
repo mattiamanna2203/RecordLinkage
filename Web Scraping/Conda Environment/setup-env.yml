@@ -1,0 +1,16 @@
+name: Scraper
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip >=19.0 
+  - jupyter
+  - pandas
+  - pandas-datareader 
+  - matplotlib
+  - tqdm 
+  - requests
+  - ipykernel
+  - selenium
+  - beautifulsoup4
+  - wget

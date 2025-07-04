@@ -6,7 +6,8 @@ from selenium.webdriver.common.by import By
 # Funzioni utilizzate dal bot selenium.
 def click_cookie_button(driver):
     """
-    Questa funzione si occupa di accettare i cookies quando si accede ad agoda
+    Questa funzione accetta i cookies quando si accede ad agoda.
+    In input prende un selenium driver.
     """
     try:
         # Metodo di accettazione 1
