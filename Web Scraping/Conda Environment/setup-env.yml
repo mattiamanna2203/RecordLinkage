@@ -1,4 +1,4 @@
-name: Scraper
+name: scraper
 channels:
   - conda-forge
 dependencies:
