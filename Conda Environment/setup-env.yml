@@ -18,3 +18,4 @@ dependencies:
   - selenium
   - beautifulsoup4
   - wget
+  - dateparser
