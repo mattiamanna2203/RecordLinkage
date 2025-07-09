@@ -75,14 +75,19 @@ def pulisci_recensione(riga: str) -> int :
       - rimuove separatore migliaia;
       - Se la recensione risulta 'novità su agoda' o  'Novità su booking' assegna 0.
    """
-   if riga == 'Novità su Agoda':
+   # Operazioni per rendere la stringa compatibile con gli if statement.
+   riga = riga.strip() # Rimozione spazi ad inizio e fine della stringa
+   riga = riga.lower() # Rendere tutto il testo minuscolo  
+   
+   if riga == 'novità su agoda':
       return 0 
    
-   elif riga == 'Novità su booking':
+   elif riga == 'novità su booking':
       return 0  
 
    else:
       riga = riga.replace('recensioni','') # Sostituire la parola 'recensioni'
+      riga = riga.replace('recensione','') # Sostituire la parola 'recensioni'
       riga = riga.replace('.','') # Rimuovere separatore migliaia
       riga = riga.strip() # Rimuovere spazi finali ed iniziali non necessari
       return int(riga) # Ritornare il valore pulito in formato int
@@ -97,7 +102,6 @@ def pulisci_distanza_centro(riga : str) -> float:
    """
    if not isinstance(riga,str): # Se non è una stringa la distanza non è specificata.
       return np.nan   
-
 
    # Operazioni per rendere la stringa compatibile con gli if statement.
    riga = riga.strip() # Rimozione spazi ad inizio e fine della stringa
@@ -114,7 +118,6 @@ def pulisci_distanza_centro(riga : str) -> float:
       distanza = float(riga)     
       return distanza
 
-      
    else: # Pulire i metri
       riga =  re.sub(f'[a m dal centro]', '', riga)
       riga = riga.replace(",",".") # Se c'è la virgola come separatore dei decimali convertirla in punto perchè è il formato che python accetta
