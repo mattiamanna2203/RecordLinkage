@@ -1,0 +1,275 @@
+id_booking,id_agoda,titolo_booking,titolo_agoda,similarity,pair,città_booking,città_agoda,prezzo_booking,prezzo_agoda
+1,6,sonder by marriott bonvoy piazza venezia apartments,sonder by marriott bonvoy piazza venezia apartments,1.0,1#6, Roma, Roma ,322,228
+3,391,astoria golden gate,astoria golden gate,1.0,3#391, Roma, Roma ,110,110
+17,288,suite art navona,suite art navona,1.0,17#288, Roma, Roma ,162,162
+27,487,terrace pantheon relais,terrace pantheon relais,1.0,27#487, Roma, Roma ,366,366
+29,535,hotel fiori,hotel fiori,1.0,29#535, Roma, Roma ,150,150
+31,247,bhr cavour 150,bhr cavour 150,1.0,31#247, Roma, Roma ,170,122
+33,530,room mate collection filippo rome fontana di trevi,room mate collection filippo rome fontana di trevi,1.0,33#530, Roma, Roma ,384,358
+44,142,hotel relais dei papi,hotel relais dei papi,1.0,44#142, Roma, Roma ,264,226
+58,510,torre argentina relais residenze di charme,torre argentina relais residenze di charme,1.0,58#510, Roma, Roma ,282,282
+61,217,profumo maison colosseo,profumo maison colosseo,1.0,61#217, Roma, Roma ,194,163
+74,447,charme chic luxury,charme chic luxury,1.0,74#447, Roma, Roma ,304,221
+79,497,corso boutique luxury rooms,corso boutique luxury rooms,1.0,79#497, Roma, Roma ,306,198
+85,103,the romehello,the romehello,1.0,85#103, Roma, Roma ,161,146
+88,140,orazio palace hotel,orazio palace hotel,1.0,88#140, Roma, Roma ,234,204
+91,42,grand hotel fleming by omnia hotels,grand hotel fleming by omnia hotels,1.0,91#42, Roma, Roma ,156,121
+102,340,moderno hotel roma,moderno hotel roma,1.0,102#340, Roma, Roma ,175,138
+103,72,hotel caravel,hotel caravel,1.0,103#72, Roma, Roma ,140,116
+115,212,casa san giuseppe,casa san giuseppe,1.0,115#212, Roma, Roma ,154,120
+121,473,the spanish suite campo de fiori,the spanish suite campo de fiori,1.0,121#473, Roma, Roma ,255,316
+139,7,hotel american palace eur,hotel american palace eur,1.0,139#7, Roma, Roma ,135,105
+140,419,ludus rooms,ludus rooms,1.0,140#419, Roma, Roma ,414,412
+143,68,camplus hotel roma centro,camplus hotel roma centro,1.0,143#68, Roma, Roma ,180,178
+145,178,madison hotel,madison hotel,1.0,145#178, Roma, Roma ,184,124
+149,527,arenula suites,arenula suites,1.0,149#527, Roma, Roma ,221,221
+152,243,grand hotel plaza,grand hotel plaza,1.0,152#243, Roma, Roma ,376,345
+158,289,hotel latinum,hotel latinum,1.0,158#289, Roma, Roma ,152,123
+161,141,holiday inn rome eur parco dei medici by ihg,holiday inn rome eur parco dei medici by ihg,1.0,161#141, Roma, Roma ,190,190
+162,344,crowne plaza rome st peters by ihg,crowne plaza rome st peters by ihg,1.0,162#344,, Roma ,245,245
+164,95,occidental aran park,occidental aran park hotel,0.9538461538461538,164#95, Roma, Roma ,128,124
+167,420,marta inn,marta inn,1.0,167#420, Roma, Roma ,193,113
+169,10,ibis roma fiera,ibis roma fiera,1.0,169#10, Roma, Roma ,108,96
+174,368,maison tritone,maison tritone,1.0,174#368, Roma, Roma ,321,321
+181,310,hotel mecenate palace,hotel mecenate palace,1.0,181#310, Roma, Roma ,271,230
+183,120,casa i cappuccini,casa i cappuccini,1.0,183#120, Roma, Roma ,164,133
+187,147,albani hotel roma,albani roma hotel,0.9529411764705882,187#147,, Roma ,150,124
+188,379,nazionale palace suites,nazionale palace suites,1.0,188#379, Roma, Roma ,206,154
+197,38,hotel ripa roma,hotel ripa roma,1.0,197#38, Roma, Roma ,179,122
+204,430,ibis styles roma eur,ibis styles roma aurelia,0.9566666666666667,204#430, Roma, Roma ,178,130
+205,86,generator rome,generator rome,1.0,205#86, Roma, Roma ,173,173
+213,375,hotel croce di malta,hotel croce di malta,1.0,213#375, Roma, Roma ,165,165
+219,129,augusta lucilla palace,augusta lucilla palace hotel,0.9571428571428571,219#129, Roma, Roma ,201,166
+222,155,hotel villa glori,hotel villa glori,1.0,222#155, Roma, Roma ,802,752
+231,82,hotel piemonte,hotel piemonte,1.0,231#82, Roma, Roma ,176,155
+238,440,hotel valeri,hotel valadier,0.9547619047619047,238#440, Roma, Roma ,178,206
+239,292,hotel paolo ii,hotel paolo ii,1.0,239#292, Roma, Roma ,206,133
+247,227,hotel hiberia,hotel hiberia,1.0,247#227, Roma, Roma ,237,228
+253,503,la vite vaticana,la vite vaticana,1.0,253#503, Roma, Roma ,146,135
+257,215,domus sessoriana,domus sessoriana,1.0,257#215, Roma, Roma ,268,118
+262,156,aroma lifestyle hotel,aroma lifestyle hotel,1.0,262#156,, Roma ,248,207
+264,245,hotel medici,hotel medici,1.0,264#245, Roma, Roma ,183,156
+266,524,the b place,the b place,1.0,266#524, Roma, Roma ,166,143
+267,277,lantica locanda dellorso,lantica locanda dellorso,1.0,267#277, Roma, Roma ,135,135
+271,138,leonardo boutique hotel rome termini,leonardo boutique hotel rome termini,1.0,271#138, Roma, Roma ,194,185
+271,385,leonardo boutique hotel rome termini,leonardo boutique hotel rome monti,0.9653297682709447,271#385, Roma, Roma ,194,188
+273,296,bb ventisei scalini a trastevere,bb ventisei scalini a trastevere,1.0,273#296, Roma, Roma ,205,152
+276,148,mama shelter roma,mama shelter roma,1.0,276#148, Roma, Roma ,307,307
+279,79,lh hotel andreotti,lh hotel andreotti,1.0,279#79, Roma, Roma ,130,108
+282,478,hotel pantheon,hotel pantheon,1.0,282#478, Roma, Roma ,384,335
+287,349,navona theatre hotel,navona theatre hotel,1.0,287#349, Roma, Roma ,261,222
+289,425,babuino 181 small luxury hotels of the world,babuino 181 small luxury hotels of the world,1.0,289#425, Roma, Roma ,285,242
+291,73,hotel st martin by omnia hotels,hotel st martin by omnia hotels,1.0,291#73, Roma, Roma ,191,159
+293,314,best western plus hotel universo,best western plus hotel universo,1.0,293#314, Roma, Roma ,265,265
+297,405,interno roma,internoroma,0.9833333333333333,297#405, Roma, Roma ,123,123
+301,521,atlante star hotel,atlante star hotel,1.0,301#521, Roma, Roma ,410,345
+302,534,hotel teatro pace,hotel teatro pace,1.0,302#534, Roma, Roma ,213,213
+303,333,the social hub rome,the social hub rome,1.0,303#333,, Roma ,148,148
+306,161,hotel della conciliazione,hotel della conciliazione,1.0,306#161, Roma, Roma ,312,288
+308,236,the liberty boutique hotel,the liberty boutique hotel,1.0,308#236, Roma, Roma ,354,317
+310,101,best western hotel globus,best western hotel globus,1.0,310#101, Roma, Roma ,178,138
+312,168,starhotels metropole,starhotels metropole,1.0,312#168, Roma, Roma ,262,246
+319,18,hotel nord nuova roma,hotel nord nuova roma,1.0,319#18, Roma, Roma ,242,198
+320,223,hotel smeraldo,hotel smeraldo,1.0,320#223, Roma, Roma ,222,217
+329,164,hotel degli aranci,hotel degli aranci,1.0,329#164, Roma, Roma ,153,127
+337,529,504 corso suites,504 corso suites roma,0.9523809523809523,337#529, Roma, Roma ,208,206
+340,171,sheraton rome parco de medici,sheraton rome parco de medici,1.0,340#171, Roma, Roma ,185,185
+341,130,rome marriott park hotel,rome marriott park hotel,1.0,341#130, Roma, Roma ,200,200
+354,431,hotel california,hotel california,1.0,354#431, Roma, Roma ,149,149
+356,402,roma 2b,roma 2b,1.0,356#402, Roma, Roma ,135,135
+359,315,charme chic,charme chic,1.0,359#315, Roma, Roma ,159,131
+363,523,hotel locarno,hotel locarno,1.0,363#523, Roma, Roma ,599,500
+370,137,cardinal hotel st peter,cardinal st peter hotel,0.9565217391304348,370#137, Roma, Roma ,177,162
+371,426,anas prime place,anas prime place,1.0,371#426, Roma, Roma ,162,162
+373,430,ibis styles roma aurelia,ibis styles roma aurelia,1.0,373#430, Roma, Roma ,130,130
+374,522,arch rome suites,arch rome suites,1.0,374#522, Roma, Roma ,251,225
+380,210,maison spagna suites,maison spagna suite,0.99,380#210, Roma, Roma ,194,165
+381,416,residenza paolo vi,residenza paolo vi,1.0,381#416, Roma, Roma ,502,427
+392,172,navona palace luxury inn,navona palace luxury inn,1.0,392#172, Roma, Roma ,241,151
+404,237,best western hotel astrid,best western hotel astrid,1.0,404#237, Roma, Roma ,124,123
+406,202,hotel navona,hotel navona,1.0,406#202, Roma, Roma ,230,178
+411,189,navona stay,navona stay,1.0,411#189, Roma, Roma ,232,206
+412,165,hotel contilia,hotel contilia,1.0,412#165, Roma, Roma ,166,153
+413,12,ah roma,ah roma,1.0,413#12,, Roma ,88,88
+415,136,hostel trastevere,hostel trastevere,1.0,415#136, Roma, Roma ,201,163
+422,63,hotel santangelo,hotel santangelo,1.0,422#63, Roma, Roma ,144,144
+425,392,hotel albergo santa chiara,hotel albergo santa chiara,1.0,425#392, Roma, Roma ,233,213
+428,191,floris hotel,floris hotel,1.0,428#191, Roma, Roma ,250,215
+433,440,hotel valadier,hotel valadier,1.0,433#440, Roma, Roma ,249,206
+435,100,la griffe hotel roma,la griffe hotel roma,1.0,435#100, Roma, Roma ,210,139
+440,327,best western premier hotel royal santina,best western premier hotel royal santina,1.0,440#327, Roma, Roma ,231,231
+447,284,twentyone hotel,twenty one hotel,0.9608333333333333,447#284, Roma, Roma ,239,202
+448,278,hotel everest inn rome,hotel everest inn rome,1.0,448#278, Roma, Roma ,170,139
+450,376,the major hotel,the major hotel,1.0,450#376, Roma, Roma ,332,243
+457,74,noba hotel e residenze,noba hotel e residenze,1.0,457#74, Roma, Roma ,139,117
+458,369,da me suites,da me suites,1.0,458#369, Roma, Roma ,175,175
+462,234,novotel roma est,novotel roma est,1.0,462#234,, Roma ,143,143
+467,221,at home townhouse filiberto,at home townhouse filiberto,1.0,467#221, Roma, Roma ,177,164
+468,200,hostel mosaic,hostel mosaic,1.0,468#200, Roma, Roma ,109,109
+472,311,corso suite 107 rooms wellness spa,corso suite 107 rooms wellnessspa,0.9941176470588236,472#311, Roma, Roma ,240,270
+475,139,citizenm rome isola tiberina,citizenm rome isola tiberina,1.0,475#139, Roma, Roma ,304,304
+477,429,room select via veneto,room select via veneto,1.0,477#429, Roma, Roma ,187,158
+481,275,hotel barberini,hotel barberini,1.0,481#275, Roma, Roma ,364,359
+486,509,hotel the building,hotel the building,1.0,486#509, Roma, Roma ,216,185
+489,285,pinewood hotel rome,pinewood rome hotel,0.9578947368421054,489#285, Roma, Roma ,153,142
+490,162,hotel tirreno,hotel tirreno,1.0,490#162, Roma, Roma ,172,134
+492,132,domus 21 luxury suites,domus 21 luxury suites,1.0,492#132, Roma, Roma ,421,338
+495,34,hotel artis,hotel artis,1.0,495#34,, Roma ,118,85
+495,476,hotel artis,hotel artorius,0.9571428571428571,495#476,, Roma ,118,139
+496,363,hotel sisto v,hotel sisto v,1.0,496#363,, Roma ,142,114
+497,58,residenza ki,residenza ki,1.0,497#58, Roma, Roma ,166,166
+500,254,roma resort colosseum,roma resort colosseum,1.0,500#254, Roma, Roma ,164,145
+502,122,golden tulip rome piram,golden tulip rome piram,1.0,502#122, Roma, Roma ,242,204
+503,192,four rivers suites,four rivers suites,1.0,503#192, Roma, Roma ,236,226
+505,112,una hotels dec roma,una hotels dec roma,1.0,505#112, Roma, Roma ,273,231
+508,520,i fiumi di navona,i fiumi di navona,1.0,508#520, Roma, Roma ,183,183
+533,96,hotel villa san lorenzo maria,hotel villa san lorenzo maria,1.0,533#96, Roma, Roma ,197,166
+535,508,garner hotel rome aurelia by ihg,garner hotel rome aurelia,0.95625,535#508, Roma, Roma ,151,149
+536,272,hotel centro cavour roma,hotel centro cavour,0.9583333333333333,536#272, Roma, Roma ,172,172
+538,326,marcella royal hotel rooftop garden,marcella royal hotel rooftop garden,1.0,538#326, Roma, Roma ,270,237
+539,154,c hotels club house roma,c hotels club house roma,1.0,539#154, Roma, Roma ,151,141
+540,421,hotel barocco,hotel barocco,1.0,540#421, Roma, Roma ,349,349
+541,97,adesso hotel,adesso hotel,1.0,541#97, Roma, Roma ,195,161
+549,158,nh roma villa carpegna,nh roma villa carpegna,1.0,549#158, Roma, Roma ,194,194
+552,238,villa eur parco dei pini,villa eur parco dei pini,1.0,552#238, Roma, Roma ,145,129
+559,259,hotel villa pinciana,hotel villa pinciana,1.0,559#259, Roma, Roma ,253,165
+560,490,innsiderome,innsiderome,1.0,560#490, Roma, Roma ,158,139
+562,128,relais monti,relais monti,1.0,562#128, Roma, Roma ,252,214
+564,318,ac much more ii,ac much more ii,1.0,564#318, Roma, Roma ,188,188
+565,323,hotel labelle,hotel lella,0.9510489510489512,565#323, Roma, Roma ,164,106
+565,367,hotel labelle,hotel labelle,1.0,565#367, Roma, Roma ,164,164
+566,188,hotel domidea,hotel domidea,1.0,566#188,, Roma ,207,174
+567,145,grand hotel tiberio,grand hotel tiberio,1.0,567#145, Roma, Roma ,141,114
+568,134,argentina residenza style hotel,argentina residenza style hotel,1.0,568#134, Roma, Roma ,260,208
+570,434,una hotels empire roma,una hotels empire roma,1.0,570#434, Roma, Roma ,201,165
+572,213,hotel rimini,hotel rimini,1.0,572#213, Roma, Roma ,104,96
+573,50,hotel agor,hotel agora,0.9818181818181818,573#50, Roma, Roma ,122,92
+574,118,urban garden hotel,urban garden hotel,1.0,574#118, Roma, Roma ,171,154
+577,225,hotel arcangelo,hotel arcangelo,1.0,577#225, Roma, Roma ,215,153
+581,512,alpi hotel,alpi hotel,1.0,581#512, Roma, Roma ,204,204
+584,365,hotel julia,hotel julia,1.0,584#365, Roma, Roma ,155,128
+586,360,meininger roma termini,meininger roma termini,1.0,586#360, Roma, Roma ,159,159
+588,493,hotel canada bw premier collection,hotel canada bw premier collection,1.0,588#493, Roma, Roma ,177,177
+594,76,bv hotel oly,bv hotel oly,1.0,594#76, Roma, Roma ,189,130
+595,306,radio hotel,radio hotel,1.0,595#306, Roma, Roma ,107,107
+603,528,river chateau hotel,river chateau hotel,1.0,603#528, Roma, Roma ,192,143
+611,329,hotel caravita,hotel caravita,1.0,611#329, Roma, Roma ,377,311
+618,359,hotel patria,hotel patria,1.0,618#359, Roma, Roma ,164,125
+618,459,hotel patria,hotel prati,0.9651515151515152,618#459, Roma, Roma ,164,129
+619,92,precise house mantegna roma,precise house mantegna roma,1.0,619#92, Roma, Roma ,177,177
+626,183,hotel mozart,hotel mozart,1.0,626#183, Roma, Roma ,254,232
+631,438,gasometer urban suites,gasometer urban suites,1.0,631#438, Roma, Roma ,209,209
+636,89,palazzo santantonio,palazzo santantonio,1.0,636#89, Roma, Roma ,85,63
+644,84,colonna palace hotel,colonna palace hotel,1.0,644#84, Roma, Roma ,331,203
+645,201,flower garden hotel,flower garden hotel,1.0,645#201, Roma, Roma ,177,177
+649,59,hotel cilicia,hotel cilicia,1.0,649#59, Roma, Roma ,110,110
+651,532,hotel mosaic central rome,hotel mosaic central rome,1.0,651#532, Roma, Roma ,156,156
+653,352,hotel white,hotel white,1.0,653#352, Roma, Roma ,322,279
+654,397,starhotels michelangelo rome,starhotels michelangelo rome,1.0,654#397, Roma, Roma ,219,211
+659,20,hotel oriente,hotel oriente,1.0,659#20, Roma, Roma ,158,80
+659,249,hotel oriente,hotel tritone,0.9525641025641025,659#249, Roma, Roma ,158,382
+660,27,hotel raganelli,hotel raganelli,1.0,660#27, Roma, Roma ,116,92
+674,533,mosaic central guest house,mosaic central guest house,1.0,674#533, Roma, Roma ,136,136
+676,461,hotel virginia,hotel virginia,1.0,676#461, Roma, Roma ,107,107
+678,499,tagliaferri lucia,tagliaferri lucia,1.0,678#499, Roma, Roma ,132,132
+689,177,suitesistina for brave lovers,suitesistina for brave lovers,1.0,689#177, Roma, Roma ,255,228
+692,300,the republic,the republic,1.0,692#300, Roma, Roma ,316,269
+697,250,hilton rome eur la lama,hilton rome eur la lama,1.0,697#250, Roma, Roma ,172,172
+699,362,hotel nardizzi americana,hotel nardizzi americana,1.0,699#362, Roma, Roma ,240,240
+701,146,hotel marcantonio,hotel marcantonio,1.0,701#146, Roma, Roma ,180,155
+702,104,hotel buenos aires,hotel buenos aires,1.0,702#104,, Roma ,165,128
+703,121,hotel imperatori,hotel imperatori,1.0,703#121, Roma, Roma ,96,77
+707,3,rome cavalieri a waldorf astoria hotel,rome cavalieri a waldorf astoria hotel,1.0,707#3, Roma, Roma ,1620,1620
+709,205,hotel genio,hotel geo,0.9636363636363636,709#205, Roma, Roma ,213,92
+711,179,hotel santa costanza by omnia hotels,hotel santa costanza by omnia hotels,1.0,711#179, Roma, Roma ,228,133
+726,455,nhow roma,nhow roma,1.0,726#455, Roma, Roma ,250,248
+728,293,relais palazzo taverna,relais palazzo taverna,1.0,728#293, Roma, Roma ,135,135
+730,540,hotel aventino,hotel valentino,0.9723809523809525,730#540, Roma, Terni ,241,258
+732,90,hotel best roma,hotel best roma,1.0,732#90, Roma, Roma ,188,126
+735,207,hotel virgilio,hotel virgilio,1.0,735#207, Roma, Roma ,163,156
+740,28,trevi 41 hotel,trevi hotel,0.9571428571428571,740#28, Roma, Roma ,210,154
+740,427,trevi 41 hotel,trevi 41 hotel,1.0,740#427, Roma, Roma ,210,177
+742,506,residenza frattina,residenza frattina,1.0,742#506, Roma, Roma ,210,172
+745,348,hotel della torre argentina,hotel della torre argentina,1.0,745#348, Roma, Roma ,294,294
+751,282,hotel balilla,hotel balilla,1.0,751#282, Roma, Roma ,160,139
+759,346,mf hotel,mf hotel,1.0,759#346,, Roma ,125,125
+760,160,warmthotel,warmthotel,1.0,760#160, Roma, Roma ,164,128
+765,111,hotel dei congressi,hotel dei congressi,1.0,765#111, Roma, Roma ,197,172
+769,274,trevi palace luxury inn,trevi palace luxury inn,1.0,769#274, Roma, Roma ,416,266
+770,181,hotel saint john,hotel saint john,1.0,770#181, Roma, Roma ,228,167
+774,62,aparthotel colombo roma,aparthotel colombo roma,1.0,774#62, Roma, Roma ,172,172
+775,53,the independent hotel,the independent hotel,1.0,775#53, Roma, Roma ,275,162
+779,364,hotel kent,hotel kent,1.0,779#364,, Roma ,150,120
+783,273,hotel giardino deuropa,hotel giardino europa,0.990909090909091,783#273, Roma, Roma ,123,113
+792,64,the cross hotel,the cross hotel,1.0,792#64, Roma, Roma ,283,222
+793,232,una hotels trastevere roma,una hotels trastevere roma,1.0,793#232, Roma, Roma ,289,244
+798,110,albergo ottocento,albergo ottocento,1.0,798#110, Roma, Roma ,248,213
+800,439,grand hotel palace rome,grand hotel palace rome,1.0,800#439, Roma, Roma ,332,332
+804,43,hotel napoleon,hotel napoleon,1.0,804#43, Roma, Roma ,256,122
+811,515,boutique hotel campo de fiori,boutique hotel campo de fiori,1.0,811#515, Roma, Roma ,499,470
+816,544,hotel de paris,hotel de paris,1.0,816#544,Terni, Terni ,69,69
+817,545,cospea bb,cospea bb,1.0,817#545,Terni, Terni ,55,55
+818,624,rosy bedbreakfast,rosy bedbreakfast,1.0,818#624,Terni, Terni ,77,77
+819,566,bb angolo verde,bb angolo verde,1.0,819#566,Terni, Terni ,69,69
+820,668,santa filomena guest house,santa filomena guest house,1.0,820#668,Terni, Terni ,74,74
+821,596,asso residence,asso residence,1.0,821#596,Terni, Terni ,79,79
+822,552,asso residence ospedale,asso residence ospedale,1.0,822#552,Terni, Terni ,89,89
+824,574,asso residence gold,asso residence gold,1.0,824#574,Terni, Terni ,94,94
+825,561,asso residence centro,asso residence centro,1.0,825#561,Terni, Terni ,81,81
+826,621,residence viviverde,residence viviverde,1.0,826#621,Terni, Terni ,76,76
+827,572,civico 100,civico 100,1.0,827#572,Terni, Terni ,72,72
+828,543,classic hotel tulipano,classic hotel tulipano,1.0,828#543,Terni, Terni ,128,98
+829,657,angolo verde,angolo verde,1.0,829#657,Terni, Terni ,63,63
+830,587,via roma,via roma,1.0,830#587,Terni, Terni ,84,84
+831,623,a casa di alma,a casa di alma,1.0,831#623,Terni, Terni ,81,81
+832,557,welcome home,welcome home,1.0,832#557,Terni, Terni ,87,87
+833,542,hotel michelangelo palace spa,hotel michelangelo palace spa,1.0,833#542,Terni, Terni ,174,174
+834,540,hotel valentino,hotel valentino,1.0,834#540,Terni, Terni ,258,258
+835,629,le camere di ettore,le camere di ettore,1.0,835#629,Terni, Terni ,79,79
+836,640,as maison,as maison,1.0,836#640,Terni, Terni ,89,89
+837,632,la casa di alan,la casa di alan,1.0,837#632,Terni, Terni ,80,80
+838,615,appartamenti il cerqueto 2,appartamenti il cerqueto 2,1.0,838#615,Terni, Terni ,74,74
+840,567,white,white,1.0,840#567,Terni, Terni ,67,67
+841,541,hotel garden terni,hotel garden terni,1.0,841#541,Terni, Terni ,138,138
+842,675,aryhouse,aryhouse,1.0,842#675,Terni, Terni ,85,85
+843,554,tre colonne,tre colonne,1.0,843#554,Terni, Terni ,76,76
+844,663,asso residence stazione,asso residence stazione,1.0,844#663,Terni, Terni ,94,94
+845,593,ggapartment,ggapartment,1.0,845#593,Terni, Terni ,129,129
+846,588,il giardino di venere,il giardino di venere,1.0,846#588,Terni, Terni ,74,74
+847,550,casa nel verde,casa nel verde,1.0,847#550,Terni, Terni ,59,59
+848,622,la casetta bilocale con giardino privato,la casetta bilocale con giardino privato,1.0,848#622,Terni, Terni ,109,109
+849,594,mms home,mms home,1.0,849#594,Terni, Terni ,85,85
+850,669,appartamenti natura e terra marmore,appartamenti natura e terra marmore,1.0,850#669,Terni, Terni ,113,113
+851,575,san francesco home,san francesco home,1.0,851#575,Terni, Terni ,84,84
+852,582,tre monumenti luxury suites,tre monumenti luxury suites,1.0,852#582,Terni, Terni ,113,113
+853,641,il teatro alloggi,il teatro alloggi,1.0,853#641,Terni, Terni ,93,93
+854,608,palmira house delizioso bilocale for two,palmira house delizioso bilocale for two,1.0,854#608,Terni, Terni ,94,94
+855,626,white 2,white 2,1.0,855#626,Terni, Terni ,73,73
+856,635,la casa nella contea,la casa nella contea,1.0,856#635,Terni, Terni ,92,92
+857,645,la casa di emma,la casa di emma,1.0,857#645,Terni, Terni ,94,94
+858,625,interamna house intero appartamento exclusive use,interamna house intero appartamento exclusive use,1.0,858#625,Terni, Terni ,97,97
+859,609,la collina dei castagni,la collina dei castagni,1.0,859#609,Terni, Terni ,134,134
+860,583,civico sessantasei,civico sessantasei,1.0,860#583,Terni, Terni ,104,104
+861,618,civico 66,civico 66,1.0,861#618,Terni, Terni ,100,100
+862,611,alloggi primavera matilde,alloggi primavera matilde,1.0,862#611,Terni, Papigno ,115,115
+863,578,rio bed,rio bed,1.0,863#578,Terni, Terni ,94,94
+864,584,af house,af house,1.0,864#584,Terni, Terni ,107,107
+865,649,the lover house,the lover house,1.0,865#649,Terni, Terni ,82,82
+866,579,tana per gli ospiti,tana per gli ospiti,1.0,866#579,Terni, Terni ,81,81
+867,660,terni in centro,terni in centro,1.0,867#660,Terni, Terni ,124,124
+868,606,alloggi primavera anna,alloggi primavera anna,1.0,868#606,Terni, Papigno ,141,141
+869,637,casa di milly,casa di milly,1.0,869#637,Terni, Papigno ,80,80
+870,605,la severa,la severa 2,0.9636363636363636,870#605,Terni, Terni ,94,96
+870,634,la severa,la severa,1.0,870#634,Terni, Terni ,94,94
+871,564,bed and breakfast san valentino,bed and breakfast san valentino,1.0,871#564,Terni, Terni ,99,99
+872,559,acqua marmore,acqua marmore,1.0,872#559,Terni, Terni ,125,125
+873,560,bice house,bice house,1.0,873#560,Terni, Terni ,144,144
+874,589,belvedere valenza,belvedere valenza,1.0,874#589,Terni, Terni ,97,97
+875,647,alloggio tra terni e narni,alloggio tra terni e narni,1.0,875#647,Terni, Terni ,128,128
+876,580,casa vacanze chiara,casa vacanze chiara,1.0,876#580,Terni, Terni ,104,104
+877,595,la casa di glenda bis alloggio zona ospedale,la casa di glenda bis alloggio zona ospedale,1.0,877#595,Terni, Terni ,94,94
+879,639,la casa di glenda ospedale,la casa di glenda ospedale,1.0,879#639,Terni, Terni ,90,90
+880,674,bilocale degli innamorati,bilocale degli innamorati,1.0,880#674,Terni, Terni ,107,107
+883,633,favolosa dimora del capriolo con giardino e parcheggio,favolosa dimora del capriolo con giardino e parcheggio,1.0,883#633,Terni, Terni ,216,228
+884,605,la severa 2,la severa 2,1.0,884#605,Terni, Terni ,96,96
+884,634,la severa 2,la severa,0.9636363636363636,884#634,Terni, Terni ,96,94
