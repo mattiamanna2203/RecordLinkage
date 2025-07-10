@@ -22,7 +22,7 @@ def alfabeto(x: str) -> str:
    # Rimuovere caratteri speciali, punteggiatura & ecc...,
    # https://stackoverflow.com/questions/23996118/replace-special-characters-in-a-string-in-python
    chars = re.escape(string.punctuation)
-   x = re.sub(f'[{chars}]', '', x)
+   x = re.sub(f'[{chars}]', ' ', x)
 
    # Suddividere in parole
    parole = x.split()

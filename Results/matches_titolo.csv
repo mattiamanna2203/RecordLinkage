@@ -1,275 +1,275 @@
-id_booking,id_agoda,titolo_booking,titolo_agoda,similarity,pair,città_booking,città_agoda,prezzo_booking,prezzo_agoda
-1,6,sonder by marriott bonvoy piazza venezia apartments,sonder by marriott bonvoy piazza venezia apartments,1.0,1#6, Roma, Roma ,322,228
-3,391,astoria golden gate,astoria golden gate,1.0,3#391, Roma, Roma ,110,110
-17,288,suite art navona,suite art navona,1.0,17#288, Roma, Roma ,162,162
-27,487,terrace pantheon relais,terrace pantheon relais,1.0,27#487, Roma, Roma ,366,366
-29,535,hotel fiori,hotel fiori,1.0,29#535, Roma, Roma ,150,150
-31,247,bhr cavour 150,bhr cavour 150,1.0,31#247, Roma, Roma ,170,122
-33,530,room mate collection filippo rome fontana di trevi,room mate collection filippo rome fontana di trevi,1.0,33#530, Roma, Roma ,384,358
-44,142,hotel relais dei papi,hotel relais dei papi,1.0,44#142, Roma, Roma ,264,226
-58,510,torre argentina relais residenze di charme,torre argentina relais residenze di charme,1.0,58#510, Roma, Roma ,282,282
-61,217,profumo maison colosseo,profumo maison colosseo,1.0,61#217, Roma, Roma ,194,163
-74,447,charme chic luxury,charme chic luxury,1.0,74#447, Roma, Roma ,304,221
-79,497,corso boutique luxury rooms,corso boutique luxury rooms,1.0,79#497, Roma, Roma ,306,198
-85,103,the romehello,the romehello,1.0,85#103, Roma, Roma ,161,146
-88,140,orazio palace hotel,orazio palace hotel,1.0,88#140, Roma, Roma ,234,204
-91,42,grand hotel fleming by omnia hotels,grand hotel fleming by omnia hotels,1.0,91#42, Roma, Roma ,156,121
-102,340,moderno hotel roma,moderno hotel roma,1.0,102#340, Roma, Roma ,175,138
-103,72,hotel caravel,hotel caravel,1.0,103#72, Roma, Roma ,140,116
-115,212,casa san giuseppe,casa san giuseppe,1.0,115#212, Roma, Roma ,154,120
-121,473,the spanish suite campo de fiori,the spanish suite campo de fiori,1.0,121#473, Roma, Roma ,255,316
-139,7,hotel american palace eur,hotel american palace eur,1.0,139#7, Roma, Roma ,135,105
-140,419,ludus rooms,ludus rooms,1.0,140#419, Roma, Roma ,414,412
-143,68,camplus hotel roma centro,camplus hotel roma centro,1.0,143#68, Roma, Roma ,180,178
-145,178,madison hotel,madison hotel,1.0,145#178, Roma, Roma ,184,124
-149,527,arenula suites,arenula suites,1.0,149#527, Roma, Roma ,221,221
-152,243,grand hotel plaza,grand hotel plaza,1.0,152#243, Roma, Roma ,376,345
-158,289,hotel latinum,hotel latinum,1.0,158#289, Roma, Roma ,152,123
-161,141,holiday inn rome eur parco dei medici by ihg,holiday inn rome eur parco dei medici by ihg,1.0,161#141, Roma, Roma ,190,190
-162,344,crowne plaza rome st peters by ihg,crowne plaza rome st peters by ihg,1.0,162#344,, Roma ,245,245
-164,95,occidental aran park,occidental aran park hotel,0.9538461538461538,164#95, Roma, Roma ,128,124
-167,420,marta inn,marta inn,1.0,167#420, Roma, Roma ,193,113
-169,10,ibis roma fiera,ibis roma fiera,1.0,169#10, Roma, Roma ,108,96
-174,368,maison tritone,maison tritone,1.0,174#368, Roma, Roma ,321,321
-181,310,hotel mecenate palace,hotel mecenate palace,1.0,181#310, Roma, Roma ,271,230
-183,120,casa i cappuccini,casa i cappuccini,1.0,183#120, Roma, Roma ,164,133
-187,147,albani hotel roma,albani roma hotel,0.9529411764705882,187#147,, Roma ,150,124
-188,379,nazionale palace suites,nazionale palace suites,1.0,188#379, Roma, Roma ,206,154
-197,38,hotel ripa roma,hotel ripa roma,1.0,197#38, Roma, Roma ,179,122
-204,430,ibis styles roma eur,ibis styles roma aurelia,0.9566666666666667,204#430, Roma, Roma ,178,130
-205,86,generator rome,generator rome,1.0,205#86, Roma, Roma ,173,173
-213,375,hotel croce di malta,hotel croce di malta,1.0,213#375, Roma, Roma ,165,165
-219,129,augusta lucilla palace,augusta lucilla palace hotel,0.9571428571428571,219#129, Roma, Roma ,201,166
-222,155,hotel villa glori,hotel villa glori,1.0,222#155, Roma, Roma ,802,752
-231,82,hotel piemonte,hotel piemonte,1.0,231#82, Roma, Roma ,176,155
-238,440,hotel valeri,hotel valadier,0.9547619047619047,238#440, Roma, Roma ,178,206
-239,292,hotel paolo ii,hotel paolo ii,1.0,239#292, Roma, Roma ,206,133
-247,227,hotel hiberia,hotel hiberia,1.0,247#227, Roma, Roma ,237,228
-253,503,la vite vaticana,la vite vaticana,1.0,253#503, Roma, Roma ,146,135
-257,215,domus sessoriana,domus sessoriana,1.0,257#215, Roma, Roma ,268,118
-262,156,aroma lifestyle hotel,aroma lifestyle hotel,1.0,262#156,, Roma ,248,207
-264,245,hotel medici,hotel medici,1.0,264#245, Roma, Roma ,183,156
-266,524,the b place,the b place,1.0,266#524, Roma, Roma ,166,143
-267,277,lantica locanda dellorso,lantica locanda dellorso,1.0,267#277, Roma, Roma ,135,135
-271,138,leonardo boutique hotel rome termini,leonardo boutique hotel rome termini,1.0,271#138, Roma, Roma ,194,185
-271,385,leonardo boutique hotel rome termini,leonardo boutique hotel rome monti,0.9653297682709447,271#385, Roma, Roma ,194,188
-273,296,bb ventisei scalini a trastevere,bb ventisei scalini a trastevere,1.0,273#296, Roma, Roma ,205,152
-276,148,mama shelter roma,mama shelter roma,1.0,276#148, Roma, Roma ,307,307
-279,79,lh hotel andreotti,lh hotel andreotti,1.0,279#79, Roma, Roma ,130,108
-282,478,hotel pantheon,hotel pantheon,1.0,282#478, Roma, Roma ,384,335
-287,349,navona theatre hotel,navona theatre hotel,1.0,287#349, Roma, Roma ,261,222
-289,425,babuino 181 small luxury hotels of the world,babuino 181 small luxury hotels of the world,1.0,289#425, Roma, Roma ,285,242
-291,73,hotel st martin by omnia hotels,hotel st martin by omnia hotels,1.0,291#73, Roma, Roma ,191,159
-293,314,best western plus hotel universo,best western plus hotel universo,1.0,293#314, Roma, Roma ,265,265
-297,405,interno roma,internoroma,0.9833333333333333,297#405, Roma, Roma ,123,123
-301,521,atlante star hotel,atlante star hotel,1.0,301#521, Roma, Roma ,410,345
-302,534,hotel teatro pace,hotel teatro pace,1.0,302#534, Roma, Roma ,213,213
-303,333,the social hub rome,the social hub rome,1.0,303#333,, Roma ,148,148
-306,161,hotel della conciliazione,hotel della conciliazione,1.0,306#161, Roma, Roma ,312,288
-308,236,the liberty boutique hotel,the liberty boutique hotel,1.0,308#236, Roma, Roma ,354,317
-310,101,best western hotel globus,best western hotel globus,1.0,310#101, Roma, Roma ,178,138
-312,168,starhotels metropole,starhotels metropole,1.0,312#168, Roma, Roma ,262,246
-319,18,hotel nord nuova roma,hotel nord nuova roma,1.0,319#18, Roma, Roma ,242,198
-320,223,hotel smeraldo,hotel smeraldo,1.0,320#223, Roma, Roma ,222,217
-329,164,hotel degli aranci,hotel degli aranci,1.0,329#164, Roma, Roma ,153,127
-337,529,504 corso suites,504 corso suites roma,0.9523809523809523,337#529, Roma, Roma ,208,206
-340,171,sheraton rome parco de medici,sheraton rome parco de medici,1.0,340#171, Roma, Roma ,185,185
-341,130,rome marriott park hotel,rome marriott park hotel,1.0,341#130, Roma, Roma ,200,200
-354,431,hotel california,hotel california,1.0,354#431, Roma, Roma ,149,149
-356,402,roma 2b,roma 2b,1.0,356#402, Roma, Roma ,135,135
-359,315,charme chic,charme chic,1.0,359#315, Roma, Roma ,159,131
-363,523,hotel locarno,hotel locarno,1.0,363#523, Roma, Roma ,599,500
-370,137,cardinal hotel st peter,cardinal st peter hotel,0.9565217391304348,370#137, Roma, Roma ,177,162
-371,426,anas prime place,anas prime place,1.0,371#426, Roma, Roma ,162,162
-373,430,ibis styles roma aurelia,ibis styles roma aurelia,1.0,373#430, Roma, Roma ,130,130
-374,522,arch rome suites,arch rome suites,1.0,374#522, Roma, Roma ,251,225
-380,210,maison spagna suites,maison spagna suite,0.99,380#210, Roma, Roma ,194,165
-381,416,residenza paolo vi,residenza paolo vi,1.0,381#416, Roma, Roma ,502,427
-392,172,navona palace luxury inn,navona palace luxury inn,1.0,392#172, Roma, Roma ,241,151
-404,237,best western hotel astrid,best western hotel astrid,1.0,404#237, Roma, Roma ,124,123
-406,202,hotel navona,hotel navona,1.0,406#202, Roma, Roma ,230,178
-411,189,navona stay,navona stay,1.0,411#189, Roma, Roma ,232,206
-412,165,hotel contilia,hotel contilia,1.0,412#165, Roma, Roma ,166,153
-413,12,ah roma,ah roma,1.0,413#12,, Roma ,88,88
-415,136,hostel trastevere,hostel trastevere,1.0,415#136, Roma, Roma ,201,163
-422,63,hotel santangelo,hotel santangelo,1.0,422#63, Roma, Roma ,144,144
-425,392,hotel albergo santa chiara,hotel albergo santa chiara,1.0,425#392, Roma, Roma ,233,213
-428,191,floris hotel,floris hotel,1.0,428#191, Roma, Roma ,250,215
-433,440,hotel valadier,hotel valadier,1.0,433#440, Roma, Roma ,249,206
-435,100,la griffe hotel roma,la griffe hotel roma,1.0,435#100, Roma, Roma ,210,139
-440,327,best western premier hotel royal santina,best western premier hotel royal santina,1.0,440#327, Roma, Roma ,231,231
-447,284,twentyone hotel,twenty one hotel,0.9608333333333333,447#284, Roma, Roma ,239,202
-448,278,hotel everest inn rome,hotel everest inn rome,1.0,448#278, Roma, Roma ,170,139
-450,376,the major hotel,the major hotel,1.0,450#376, Roma, Roma ,332,243
-457,74,noba hotel e residenze,noba hotel e residenze,1.0,457#74, Roma, Roma ,139,117
-458,369,da me suites,da me suites,1.0,458#369, Roma, Roma ,175,175
-462,234,novotel roma est,novotel roma est,1.0,462#234,, Roma ,143,143
-467,221,at home townhouse filiberto,at home townhouse filiberto,1.0,467#221, Roma, Roma ,177,164
-468,200,hostel mosaic,hostel mosaic,1.0,468#200, Roma, Roma ,109,109
-472,311,corso suite 107 rooms wellness spa,corso suite 107 rooms wellnessspa,0.9941176470588236,472#311, Roma, Roma ,240,270
-475,139,citizenm rome isola tiberina,citizenm rome isola tiberina,1.0,475#139, Roma, Roma ,304,304
-477,429,room select via veneto,room select via veneto,1.0,477#429, Roma, Roma ,187,158
-481,275,hotel barberini,hotel barberini,1.0,481#275, Roma, Roma ,364,359
-486,509,hotel the building,hotel the building,1.0,486#509, Roma, Roma ,216,185
-489,285,pinewood hotel rome,pinewood rome hotel,0.9578947368421054,489#285, Roma, Roma ,153,142
-490,162,hotel tirreno,hotel tirreno,1.0,490#162, Roma, Roma ,172,134
-492,132,domus 21 luxury suites,domus 21 luxury suites,1.0,492#132, Roma, Roma ,421,338
-495,34,hotel artis,hotel artis,1.0,495#34,, Roma ,118,85
-495,476,hotel artis,hotel artorius,0.9571428571428571,495#476,, Roma ,118,139
-496,363,hotel sisto v,hotel sisto v,1.0,496#363,, Roma ,142,114
-497,58,residenza ki,residenza ki,1.0,497#58, Roma, Roma ,166,166
-500,254,roma resort colosseum,roma resort colosseum,1.0,500#254, Roma, Roma ,164,145
-502,122,golden tulip rome piram,golden tulip rome piram,1.0,502#122, Roma, Roma ,242,204
-503,192,four rivers suites,four rivers suites,1.0,503#192, Roma, Roma ,236,226
-505,112,una hotels dec roma,una hotels dec roma,1.0,505#112, Roma, Roma ,273,231
-508,520,i fiumi di navona,i fiumi di navona,1.0,508#520, Roma, Roma ,183,183
-533,96,hotel villa san lorenzo maria,hotel villa san lorenzo maria,1.0,533#96, Roma, Roma ,197,166
-535,508,garner hotel rome aurelia by ihg,garner hotel rome aurelia,0.95625,535#508, Roma, Roma ,151,149
-536,272,hotel centro cavour roma,hotel centro cavour,0.9583333333333333,536#272, Roma, Roma ,172,172
-538,326,marcella royal hotel rooftop garden,marcella royal hotel rooftop garden,1.0,538#326, Roma, Roma ,270,237
-539,154,c hotels club house roma,c hotels club house roma,1.0,539#154, Roma, Roma ,151,141
-540,421,hotel barocco,hotel barocco,1.0,540#421, Roma, Roma ,349,349
-541,97,adesso hotel,adesso hotel,1.0,541#97, Roma, Roma ,195,161
-549,158,nh roma villa carpegna,nh roma villa carpegna,1.0,549#158, Roma, Roma ,194,194
-552,238,villa eur parco dei pini,villa eur parco dei pini,1.0,552#238, Roma, Roma ,145,129
-559,259,hotel villa pinciana,hotel villa pinciana,1.0,559#259, Roma, Roma ,253,165
-560,490,innsiderome,innsiderome,1.0,560#490, Roma, Roma ,158,139
-562,128,relais monti,relais monti,1.0,562#128, Roma, Roma ,252,214
-564,318,ac much more ii,ac much more ii,1.0,564#318, Roma, Roma ,188,188
-565,323,hotel labelle,hotel lella,0.9510489510489512,565#323, Roma, Roma ,164,106
-565,367,hotel labelle,hotel labelle,1.0,565#367, Roma, Roma ,164,164
-566,188,hotel domidea,hotel domidea,1.0,566#188,, Roma ,207,174
-567,145,grand hotel tiberio,grand hotel tiberio,1.0,567#145, Roma, Roma ,141,114
-568,134,argentina residenza style hotel,argentina residenza style hotel,1.0,568#134, Roma, Roma ,260,208
-570,434,una hotels empire roma,una hotels empire roma,1.0,570#434, Roma, Roma ,201,165
-572,213,hotel rimini,hotel rimini,1.0,572#213, Roma, Roma ,104,96
-573,50,hotel agor,hotel agora,0.9818181818181818,573#50, Roma, Roma ,122,92
-574,118,urban garden hotel,urban garden hotel,1.0,574#118, Roma, Roma ,171,154
-577,225,hotel arcangelo,hotel arcangelo,1.0,577#225, Roma, Roma ,215,153
-581,512,alpi hotel,alpi hotel,1.0,581#512, Roma, Roma ,204,204
-584,365,hotel julia,hotel julia,1.0,584#365, Roma, Roma ,155,128
-586,360,meininger roma termini,meininger roma termini,1.0,586#360, Roma, Roma ,159,159
-588,493,hotel canada bw premier collection,hotel canada bw premier collection,1.0,588#493, Roma, Roma ,177,177
-594,76,bv hotel oly,bv hotel oly,1.0,594#76, Roma, Roma ,189,130
-595,306,radio hotel,radio hotel,1.0,595#306, Roma, Roma ,107,107
-603,528,river chateau hotel,river chateau hotel,1.0,603#528, Roma, Roma ,192,143
-611,329,hotel caravita,hotel caravita,1.0,611#329, Roma, Roma ,377,311
-618,359,hotel patria,hotel patria,1.0,618#359, Roma, Roma ,164,125
-618,459,hotel patria,hotel prati,0.9651515151515152,618#459, Roma, Roma ,164,129
-619,92,precise house mantegna roma,precise house mantegna roma,1.0,619#92, Roma, Roma ,177,177
-626,183,hotel mozart,hotel mozart,1.0,626#183, Roma, Roma ,254,232
-631,438,gasometer urban suites,gasometer urban suites,1.0,631#438, Roma, Roma ,209,209
-636,89,palazzo santantonio,palazzo santantonio,1.0,636#89, Roma, Roma ,85,63
-644,84,colonna palace hotel,colonna palace hotel,1.0,644#84, Roma, Roma ,331,203
-645,201,flower garden hotel,flower garden hotel,1.0,645#201, Roma, Roma ,177,177
-649,59,hotel cilicia,hotel cilicia,1.0,649#59, Roma, Roma ,110,110
-651,532,hotel mosaic central rome,hotel mosaic central rome,1.0,651#532, Roma, Roma ,156,156
-653,352,hotel white,hotel white,1.0,653#352, Roma, Roma ,322,279
-654,397,starhotels michelangelo rome,starhotels michelangelo rome,1.0,654#397, Roma, Roma ,219,211
-659,20,hotel oriente,hotel oriente,1.0,659#20, Roma, Roma ,158,80
-659,249,hotel oriente,hotel tritone,0.9525641025641025,659#249, Roma, Roma ,158,382
-660,27,hotel raganelli,hotel raganelli,1.0,660#27, Roma, Roma ,116,92
-674,533,mosaic central guest house,mosaic central guest house,1.0,674#533, Roma, Roma ,136,136
-676,461,hotel virginia,hotel virginia,1.0,676#461, Roma, Roma ,107,107
-678,499,tagliaferri lucia,tagliaferri lucia,1.0,678#499, Roma, Roma ,132,132
-689,177,suitesistina for brave lovers,suitesistina for brave lovers,1.0,689#177, Roma, Roma ,255,228
-692,300,the republic,the republic,1.0,692#300, Roma, Roma ,316,269
-697,250,hilton rome eur la lama,hilton rome eur la lama,1.0,697#250, Roma, Roma ,172,172
-699,362,hotel nardizzi americana,hotel nardizzi americana,1.0,699#362, Roma, Roma ,240,240
-701,146,hotel marcantonio,hotel marcantonio,1.0,701#146, Roma, Roma ,180,155
-702,104,hotel buenos aires,hotel buenos aires,1.0,702#104,, Roma ,165,128
-703,121,hotel imperatori,hotel imperatori,1.0,703#121, Roma, Roma ,96,77
-707,3,rome cavalieri a waldorf astoria hotel,rome cavalieri a waldorf astoria hotel,1.0,707#3, Roma, Roma ,1620,1620
-709,205,hotel genio,hotel geo,0.9636363636363636,709#205, Roma, Roma ,213,92
-711,179,hotel santa costanza by omnia hotels,hotel santa costanza by omnia hotels,1.0,711#179, Roma, Roma ,228,133
-726,455,nhow roma,nhow roma,1.0,726#455, Roma, Roma ,250,248
-728,293,relais palazzo taverna,relais palazzo taverna,1.0,728#293, Roma, Roma ,135,135
-730,540,hotel aventino,hotel valentino,0.9723809523809525,730#540, Roma, Terni ,241,258
-732,90,hotel best roma,hotel best roma,1.0,732#90, Roma, Roma ,188,126
-735,207,hotel virgilio,hotel virgilio,1.0,735#207, Roma, Roma ,163,156
-740,28,trevi 41 hotel,trevi hotel,0.9571428571428571,740#28, Roma, Roma ,210,154
-740,427,trevi 41 hotel,trevi 41 hotel,1.0,740#427, Roma, Roma ,210,177
-742,506,residenza frattina,residenza frattina,1.0,742#506, Roma, Roma ,210,172
-745,348,hotel della torre argentina,hotel della torre argentina,1.0,745#348, Roma, Roma ,294,294
-751,282,hotel balilla,hotel balilla,1.0,751#282, Roma, Roma ,160,139
-759,346,mf hotel,mf hotel,1.0,759#346,, Roma ,125,125
-760,160,warmthotel,warmthotel,1.0,760#160, Roma, Roma ,164,128
-765,111,hotel dei congressi,hotel dei congressi,1.0,765#111, Roma, Roma ,197,172
-769,274,trevi palace luxury inn,trevi palace luxury inn,1.0,769#274, Roma, Roma ,416,266
-770,181,hotel saint john,hotel saint john,1.0,770#181, Roma, Roma ,228,167
-774,62,aparthotel colombo roma,aparthotel colombo roma,1.0,774#62, Roma, Roma ,172,172
-775,53,the independent hotel,the independent hotel,1.0,775#53, Roma, Roma ,275,162
-779,364,hotel kent,hotel kent,1.0,779#364,, Roma ,150,120
-783,273,hotel giardino deuropa,hotel giardino europa,0.990909090909091,783#273, Roma, Roma ,123,113
-792,64,the cross hotel,the cross hotel,1.0,792#64, Roma, Roma ,283,222
-793,232,una hotels trastevere roma,una hotels trastevere roma,1.0,793#232, Roma, Roma ,289,244
-798,110,albergo ottocento,albergo ottocento,1.0,798#110, Roma, Roma ,248,213
-800,439,grand hotel palace rome,grand hotel palace rome,1.0,800#439, Roma, Roma ,332,332
-804,43,hotel napoleon,hotel napoleon,1.0,804#43, Roma, Roma ,256,122
-811,515,boutique hotel campo de fiori,boutique hotel campo de fiori,1.0,811#515, Roma, Roma ,499,470
-816,544,hotel de paris,hotel de paris,1.0,816#544,Terni, Terni ,69,69
-817,545,cospea bb,cospea bb,1.0,817#545,Terni, Terni ,55,55
-818,624,rosy bedbreakfast,rosy bedbreakfast,1.0,818#624,Terni, Terni ,77,77
-819,566,bb angolo verde,bb angolo verde,1.0,819#566,Terni, Terni ,69,69
-820,668,santa filomena guest house,santa filomena guest house,1.0,820#668,Terni, Terni ,74,74
-821,596,asso residence,asso residence,1.0,821#596,Terni, Terni ,79,79
-822,552,asso residence ospedale,asso residence ospedale,1.0,822#552,Terni, Terni ,89,89
-824,574,asso residence gold,asso residence gold,1.0,824#574,Terni, Terni ,94,94
-825,561,asso residence centro,asso residence centro,1.0,825#561,Terni, Terni ,81,81
-826,621,residence viviverde,residence viviverde,1.0,826#621,Terni, Terni ,76,76
-827,572,civico 100,civico 100,1.0,827#572,Terni, Terni ,72,72
-828,543,classic hotel tulipano,classic hotel tulipano,1.0,828#543,Terni, Terni ,128,98
-829,657,angolo verde,angolo verde,1.0,829#657,Terni, Terni ,63,63
-830,587,via roma,via roma,1.0,830#587,Terni, Terni ,84,84
-831,623,a casa di alma,a casa di alma,1.0,831#623,Terni, Terni ,81,81
-832,557,welcome home,welcome home,1.0,832#557,Terni, Terni ,87,87
-833,542,hotel michelangelo palace spa,hotel michelangelo palace spa,1.0,833#542,Terni, Terni ,174,174
-834,540,hotel valentino,hotel valentino,1.0,834#540,Terni, Terni ,258,258
-835,629,le camere di ettore,le camere di ettore,1.0,835#629,Terni, Terni ,79,79
-836,640,as maison,as maison,1.0,836#640,Terni, Terni ,89,89
-837,632,la casa di alan,la casa di alan,1.0,837#632,Terni, Terni ,80,80
-838,615,appartamenti il cerqueto 2,appartamenti il cerqueto 2,1.0,838#615,Terni, Terni ,74,74
-840,567,white,white,1.0,840#567,Terni, Terni ,67,67
-841,541,hotel garden terni,hotel garden terni,1.0,841#541,Terni, Terni ,138,138
-842,675,aryhouse,aryhouse,1.0,842#675,Terni, Terni ,85,85
-843,554,tre colonne,tre colonne,1.0,843#554,Terni, Terni ,76,76
-844,663,asso residence stazione,asso residence stazione,1.0,844#663,Terni, Terni ,94,94
-845,593,ggapartment,ggapartment,1.0,845#593,Terni, Terni ,129,129
-846,588,il giardino di venere,il giardino di venere,1.0,846#588,Terni, Terni ,74,74
-847,550,casa nel verde,casa nel verde,1.0,847#550,Terni, Terni ,59,59
-848,622,la casetta bilocale con giardino privato,la casetta bilocale con giardino privato,1.0,848#622,Terni, Terni ,109,109
-849,594,mms home,mms home,1.0,849#594,Terni, Terni ,85,85
-850,669,appartamenti natura e terra marmore,appartamenti natura e terra marmore,1.0,850#669,Terni, Terni ,113,113
-851,575,san francesco home,san francesco home,1.0,851#575,Terni, Terni ,84,84
-852,582,tre monumenti luxury suites,tre monumenti luxury suites,1.0,852#582,Terni, Terni ,113,113
-853,641,il teatro alloggi,il teatro alloggi,1.0,853#641,Terni, Terni ,93,93
-854,608,palmira house delizioso bilocale for two,palmira house delizioso bilocale for two,1.0,854#608,Terni, Terni ,94,94
-855,626,white 2,white 2,1.0,855#626,Terni, Terni ,73,73
-856,635,la casa nella contea,la casa nella contea,1.0,856#635,Terni, Terni ,92,92
-857,645,la casa di emma,la casa di emma,1.0,857#645,Terni, Terni ,94,94
-858,625,interamna house intero appartamento exclusive use,interamna house intero appartamento exclusive use,1.0,858#625,Terni, Terni ,97,97
-859,609,la collina dei castagni,la collina dei castagni,1.0,859#609,Terni, Terni ,134,134
-860,583,civico sessantasei,civico sessantasei,1.0,860#583,Terni, Terni ,104,104
-861,618,civico 66,civico 66,1.0,861#618,Terni, Terni ,100,100
-862,611,alloggi primavera matilde,alloggi primavera matilde,1.0,862#611,Terni, Papigno ,115,115
-863,578,rio bed,rio bed,1.0,863#578,Terni, Terni ,94,94
-864,584,af house,af house,1.0,864#584,Terni, Terni ,107,107
-865,649,the lover house,the lover house,1.0,865#649,Terni, Terni ,82,82
-866,579,tana per gli ospiti,tana per gli ospiti,1.0,866#579,Terni, Terni ,81,81
-867,660,terni in centro,terni in centro,1.0,867#660,Terni, Terni ,124,124
-868,606,alloggi primavera anna,alloggi primavera anna,1.0,868#606,Terni, Papigno ,141,141
-869,637,casa di milly,casa di milly,1.0,869#637,Terni, Papigno ,80,80
-870,605,la severa,la severa 2,0.9636363636363636,870#605,Terni, Terni ,94,96
-870,634,la severa,la severa,1.0,870#634,Terni, Terni ,94,94
-871,564,bed and breakfast san valentino,bed and breakfast san valentino,1.0,871#564,Terni, Terni ,99,99
-872,559,acqua marmore,acqua marmore,1.0,872#559,Terni, Terni ,125,125
-873,560,bice house,bice house,1.0,873#560,Terni, Terni ,144,144
-874,589,belvedere valenza,belvedere valenza,1.0,874#589,Terni, Terni ,97,97
-875,647,alloggio tra terni e narni,alloggio tra terni e narni,1.0,875#647,Terni, Terni ,128,128
-876,580,casa vacanze chiara,casa vacanze chiara,1.0,876#580,Terni, Terni ,104,104
-877,595,la casa di glenda bis alloggio zona ospedale,la casa di glenda bis alloggio zona ospedale,1.0,877#595,Terni, Terni ,94,94
-879,639,la casa di glenda ospedale,la casa di glenda ospedale,1.0,879#639,Terni, Terni ,90,90
-880,674,bilocale degli innamorati,bilocale degli innamorati,1.0,880#674,Terni, Terni ,107,107
-883,633,favolosa dimora del capriolo con giardino e parcheggio,favolosa dimora del capriolo con giardino e parcheggio,1.0,883#633,Terni, Terni ,216,228
-884,605,la severa 2,la severa 2,1.0,884#605,Terni, Terni ,96,96
-884,634,la severa 2,la severa,0.9636363636363636,884#634,Terni, Terni ,96,94
+pair,name_similarity,titolo_booking,titolo_agoda,zona_booking,zona_agoda,città_booking,città_agoda,prezzo_booking,prezzo_agoda,index_booking,index_agoda,distanza_centro_booking,distanza_centro_agoda,recensione_voto_numerico_booking,recensione_voto_numerico_agoda,recensione_voto_parola_booking,recensione_voto_parola_agoda,numero_recensioni_booking,numero_recensioni_agoda,numero_notti,numero_persone,inizio_permanenza,fine_permanenza
+1#6,1.0,Sonder by Marriott Bonvoy Piazza Venezia Apartments,Sonder by Marriott Bonvoy Piazza Venezia Apartments,Pantheon,Pantheon, Roma, Roma ,322,228,1,6,0.15,0.0,"8,1","9,2",Ottimo ,Eccezionale,321,4.0,1.0,2.0,01-08-25,02-08-25
+3#391,1.0,ASTORIA GOLDEN GATE,ASTORIA GOLDEN GATE,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,110,110,3,391,2.0,0.0,"8,9","9,1",Favoloso ,Eccezionale,1446,1512.0,1.0,2.0,01-08-25,02-08-25
+17#288,1.0,Suite Art Navona,Suite Art Navona,Piazza Navona,Piazza Navona, Roma, Roma ,162,162,17,288,1.0,0.0,"8,1","8,2",Ottimo ,Fantastico,1176,1295.0,1.0,2.0,01-08-25,02-08-25
+27#487,1.0,Terrace Pantheon Relais,Terrace Pantheon Relais,Pantheon,Pantheon, Roma, Roma ,366,366,27,487,0.5,0.0,"9,3","9,2",Eccellente ,Eccezionale,907,1286.0,1.0,2.0,01-08-25,02-08-25
+29#535,1.0,Hotel Fiori,Hotel Fiori,Rione Monti,Monti, Roma, Roma ,150,150,29,535,0.4,0.0,"8,6","8,3",Favoloso ,Fantastico,718,1572.0,1.0,2.0,01-08-25,02-08-25
+31#247,1.0,Bhr Cavour 150,Bhr Cavour 150,Rione Monti,Monti, Roma, Roma ,170,122,31,247,1.1,0.0,"8,6","8,7",Favoloso ,Fantastico,235,332.0,1.0,2.0,01-08-25,02-08-25
+33#530,1.0,"Room Mate Collection Filippo, Rome-Fontana di Trevi","Room Mate Collection Filippo, Rome-Fontana di Trevi",Via Veneto,Via Veneto, Roma, Roma ,384,358,33,530,1.1,0.0,"9,4","9,4",Eccellente ,Eccezionale,1169,1335.0,1.0,2.0,01-08-25,02-08-25
+44#142,1.0,Hotel Relais Dei Papi,Hotel Relais Dei Papi,Vaticano Prati,Città del Vaticano, Roma, Roma ,264,226,44,142,2.1,0.0,"8,2","8,8",Ottimo ,Fantastico,3342,34.0,1.0,2.0,01-08-25,02-08-25
+58#510,1.0,Torre Argentina Relais - Residenze di Charme,Torre Argentina Relais - Residenze di Charme,Pantheon,Pantheon, Roma, Roma ,282,282,58,510,0.5,0.0,"9,4","9,4",Eccellente ,Eccezionale,1647,1812.0,1.0,2.0,01-08-25,02-08-25
+61#217,1.0,Profumo Maison Colosseo,Profumo Maison Colosseo,Rione Monti,Colosseo e Foro Romano, Roma, Roma ,194,163,61,217,1.4,0.0,"8,2","8,7",Ottimo ,Fantastico,403,143.0,1.0,2.0,01-08-25,02-08-25
+74#447,1.0,Charme & Chic Luxury,Charme & Chic Luxury,Pantheon,Pantheon, Roma, Roma ,304,221,74,447,0.7,0.0,"8,7","8,8",Favoloso ,Fantastico,764,871.0,1.0,2.0,01-08-25,02-08-25
+79#497,1.0,Corso Boutique Luxury Rooms,Corso Boutique Luxury Rooms,Spagna,Piazza di Spagna, Roma, Roma ,306,198,79,497,1.5,0.0,"8,9","9,5",Favoloso ,Eccezionale,426,23.0,1.0,2.0,01-08-25,02-08-25
+85#103,1.0,The RomeHello,The RomeHello,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,161,146,85,103,1.3,0.0,"9,3","9,2",Eccellente ,Eccezionale,7166,10024.0,1.0,2.0,01-08-25,02-08-25
+88#140,1.0,Orazio Palace Hotel,Orazio Palace Hotel,Vaticano Prati,Città del Vaticano, Roma, Roma ,234,204,88,140,1.8,0.0,"8,8","8,9",Favoloso ,Fantastico,1470,1678.0,1.0,2.0,01-08-25,02-08-25
+91#42,1.0,Grand Hotel Fleming by OMNIA hotels,Grand Hotel Fleming by OMNIA hotels,Tor Di Quinto,Flaminio e Parioli, Roma, Roma ,156,121,91,42,5.4,3.2,"7,8","7,8",Buono ,Ottimo,2519,2798.0,1.0,2.0,01-08-25,02-08-25
+102#340,1.0,Moderno Hotel Roma,Moderno Hotel Roma,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,175,138,102,340,1.8,0.0,"8,3","8,4",Ottimo ,Fantastico,1381,1764.0,1.0,2.0,01-08-25,02-08-25
+103#72,1.0,Hotel Caravel,Hotel Caravel,Ostiense,Eur e Garbatella, Roma, Roma ,140,116,103,72,3.6,1.6,"8,2","8,2",Ottimo ,Fantastico,1148,1649.0,1.0,2.0,01-08-25,02-08-25
+115#212,1.0,Casa San Giuseppe,Casa San Giuseppe,San Giovanni,Appio Latino, Roma, Roma ,154,120,115,212,2.6,0.6,"8,8","8,8",Favoloso ,Fantastico,2334,2439.0,1.0,2.0,01-08-25,02-08-25
+121#473,1.0,The Spanish Suite Campo de' Fiori,The Spanish Suite Campo de' Fiori,Piazza Navona,Pantheon, Roma, Roma ,255,316,121,473,0.7,0.0,"7,5","8,1",Buono ,Fantastico,1676,47.0,1.0,2.0,01-08-25,02-08-25
+139#7,1.0,Hotel American Palace Eur,Hotel American Palace Eur,Eur,Eur e Garbatella, Roma, Roma ,135,105,139,7,7.8,6.2,"8,5","8,5",Ottimo ,Fantastico,6594,7282.0,1.0,2.0,01-08-25,02-08-25
+140#419,1.0,LUDUS ROOMS,Ludus Rooms,Rione Monti,Colosseo e Foro Romano, Roma, Roma ,414,412,140,419,1.2,0.0,"9,0","9,2",Eccellente ,Eccezionale,484,515.0,1.0,2.0,01-08-25,02-08-25
+143#68,1.0,Camplus Hotel Roma Centro,Camplus Hotel Roma Centro,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,180,178,143,68,1.7,0.0,"9,0","8,8",Eccellente ,Fantastico,1770,4074.0,1.0,2.0,01-08-25,02-08-25
+145#178,1.0,Madison Hotel,Madison Hotel,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,184,124,145,178,1.8,0.0,"7,6","8,7",Buono ,Fantastico,1341,6.0,1.0,2.0,01-08-25,02-08-25
+149#527,1.0,Arenula Suites,Arenula Suites,Piazza Navona,Pantheon, Roma, Roma ,221,221,149,527,0.7,0.0,"8,6","8,7",Favoloso ,Fantastico,881,926.0,1.0,2.0,01-08-25,02-08-25
+152#243,1.0,Grand Hotel Plaza,Grand Hotel Plaza,Spagna,Piazza di Spagna, Roma, Roma ,376,345,152,243,1.1,0.0,"8,0","8,2",Ottimo ,Fantastico,526,565.0,1.0,2.0,01-08-25,02-08-25
+158#289,1.0,Hotel Latinum,Hotel Latinum,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,152,123,158,289,2.6,0.3,"8,3","8,3",Ottimo ,Fantastico,503,611.0,1.0,2.0,01-08-25,02-08-25
+161#141,1.0,Holiday Inn Rome - Eur Parco Dei Medici by IHG,Holiday Inn Rome - Eur Parco Dei Medici By IHG,Magliana Vecchia,Roma Ovest, Roma, Roma ,190,190,161,141,10.0,8.4,"8,0","8,0",Ottimo ,Fantastico,4392,4844.0,1.0,2.0,01-08-25,02-08-25
+162#344,1.0,Crowne Plaza Rome St. Peter's by IHG,Crowne Plaza Rome St. Peter's By IHG,Roma,Aurelio e Monteverde,, Roma ,245,245,162,344,4.8,3.0,"8,2","8,2",Ottimo ,Fantastico,1964,2264.0,1.0,2.0,01-08-25,02-08-25
+164#95,0.9538461538461538,Occidental Aran Park,Occidental Aran Park Hotel,Giuliano-Dalmata,Eur e Garbatella, Roma, Roma ,128,124,164,95,8.6,6.6,"7,8","7,8",Buono ,Ottimo,3993,4451.0,1.0,2.0,01-08-25,02-08-25
+167#420,1.0,Marta Inn,Marta Inn,Rione Monti,Stazione centrale Roma Termini, Roma, Roma ,193,113,167,420,1.4,0.0,"8,8","8,8",Favoloso ,Fantastico,519,651.0,1.0,2.0,01-08-25,02-08-25
+169#10,1.0,Ibis Roma Fiera,Ibis Roma Fiera,Magliana Vecchia,Roma Ovest, Roma, Roma ,108,96,169,10,11.0,9.3,"7,6","7,6",Buono ,Ottimo,4699,5166.0,1.0,2.0,01-08-25,02-08-25
+174#368,1.0,Maison Tritone,Maison Tritone,Trevi,Fontana di Trevi, Roma, Roma ,321,321,174,368,0.9,0.0,"9,4","9,5",Eccellente ,Eccezionale,686,1156.0,1.0,2.0,01-08-25,02-08-25
+181#310,1.0,Hotel Mecenate Palace,Hotel Mecenate Palace,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,271,230,181,310,1.4,0.0,"8,6","8,7",Favoloso ,Fantastico,2115,2219.0,1.0,2.0,01-08-25,02-08-25
+183#120,1.0,Casa I Cappuccini,Casa I Cappuccini,Via Veneto,Via Veneto, Roma, Roma ,164,133,183,120,1.1,0.0,"8,7","8,8",Favoloso ,Fantastico,1284,1585.0,1.0,2.0,01-08-25,02-08-25
+187#147,0.9529411764705882,Albani Hotel Roma,Albani Roma Hotel,Roma,Flaminio e Parioli,, Roma ,150,124,187,147,2.5,0.5,"7,9","8,0",Buono ,Fantastico,1345,2065.0,1.0,2.0,01-08-25,02-08-25
+188#379,1.0,Nazionale Palace Suites,Nazionale Palace Suites,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,206,154,188,379,1.1,0.0,"8,4","8,6",Ottimo ,Fantastico,319,365.0,1.0,2.0,01-08-25,02-08-25
+197#38,1.0,Hotel Ripa Roma,Hotel Ripa Roma,Gianicolense,Trastevere, Roma, Roma ,179,122,197,38,1.8,0.5,"8,2","8,2",Ottimo ,Fantastico,2741,3462.0,1.0,2.0,01-08-25,02-08-25
+204#430,0.9566666666666667,Ibis Styles Roma Eur,Ibis Styles Roma Aurelia,Eur,Aurelio e Monteverde, Roma, Roma ,178,130,204,430,7.6,3.1,"8,0","8,3",Ottimo ,Fantastico,3546,1529.0,1.0,2.0,01-08-25,02-08-25
+205#86,1.0,Generator Rome,Generator Rome,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,173,173,205,86,1.9,0.0,"7,9","8,1",Buono ,Fantastico,4052,537.0,1.0,2.0,01-08-25,02-08-25
+213#375,1.0,Hotel Croce Di Malta,Hotel Croce Di Malta,Spagna,Piazza di Spagna, Roma, Roma ,165,165,213,375,1.0,0.0,"8,0","8,3",Ottimo ,Fantastico,2235,2267.0,1.0,2.0,01-08-25,02-08-25
+219#129,0.9571428571428571,Augusta Lucilla Palace,Augusta Lucilla Palace Hotel,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,201,166,219,129,1.3,0.0,"8,6","8,6",Favoloso ,Fantastico,4924,8084.0,1.0,2.0,01-08-25,02-08-25
+222#155,1.0,Hotel Villa Glori,Hotel Villa Glori,Villa Borghese/Parioli,Flaminio e Parioli, Roma, Roma ,802,752,222,155,3.4,1.2,"8,5","8,6",Ottimo ,Fantastico,2275,2417.0,1.0,2.0,01-08-25,02-08-25
+231#82,1.0,Hotel Piemonte,Hotel Piemonte,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,176,155,231,82,1.9,0.0,"7,6","7,9",Buono ,Ottimo,1851,2021.0,1.0,2.0,01-08-25,02-08-25
+238#440,0.9547619047619047,Hotel Valeri,Hotel Valadier,Rione Monti,Piazza di Spagna, Roma, Roma ,178,206,238,440,2.0,0.0,"9,1","8,6",Eccellente ,Fantastico,1395,3009.0,1.0,2.0,01-08-25,02-08-25
+239#292,1.0,Hotel Paolo II,Hotel Paolo II,Aurelio,Città del Vaticano, Roma, Roma ,206,133,239,292,2.4,0.6,"8,7","8,9",Favoloso ,Fantastico,1582,1770.0,1.0,2.0,01-08-25,02-08-25
+247#227,1.0,Hotel Hiberia,Hotel Hiberia,Trevi,Colosseo e Foro Romano, Roma, Roma ,237,228,247,227,0.4,0.0,"8,9","9,1",Favoloso ,Eccezionale,4388,4641.0,1.0,2.0,01-08-25,02-08-25
+253#503,1.0,La Vite Vaticana,La Vite Vaticana,Vaticano Prati,Città del Vaticano, Roma, Roma ,146,135,253,503,2.5,0.0,"8,9","9,0",Favoloso ,Eccezionale,703,752.0,1.0,2.0,01-08-25,02-08-25
+257#215,1.0,Domus Sessoriana,Domus Sessoriana,Stazione Termini,Appio Latino, Roma, Roma ,268,118,257,215,2.8,,"8,0","8,1",Ottimo ,Fantastico,1273,104.0,1.0,2.0,01-08-25,02-08-25
+262#156,1.0,A.Roma Lifestyle Hotel,A.Roma Lifestyle Hotel,Roma,Aurelio e Monteverde,, Roma ,248,207,262,156,4.7,3.1,"9,0","8,9",Eccellente ,Fantastico,4012,4613.0,1.0,2.0,01-08-25,02-08-25
+264#245,1.0,Hotel Medici,Hotel Medici,Centro di Roma,Via Veneto, Roma, Roma ,183,156,264,245,1.8,0.0,"7,8","8,0",Buono ,Fantastico,2408,2697.0,1.0,2.0,01-08-25,02-08-25
+266#524,1.0,The B Place,The B Place,Vaticano Prati,Città del Vaticano, Roma, Roma ,166,143,266,524,2.1,0.0,"8,0","8,1",Ottimo ,Fantastico,1491,1607.0,1.0,2.0,01-08-25,02-08-25
+267#277,1.0,L'antica Locanda Dell'Orso,L'antica Locanda Dell'Orso,Piazza Navona,Piazza Navona, Roma, Roma ,135,135,267,277,1.1,0.0,"8,0","8,3",Ottimo ,Fantastico,1731,1880.0,1.0,2.0,01-08-25,02-08-25
+271#138,1.0,Leonardo Boutique Hotel Rome Termini,Leonardo Boutique Hotel Rome Termini,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,194,185,271,138,2.0,0.0,"8,2","8,4",Ottimo ,Fantastico,1362,1729.0,1.0,2.0,01-08-25,02-08-25
+271#385,0.9653297682709447,Leonardo Boutique Hotel Rome Termini,Leonardo Boutique Hotel Rome Monti,Stazione Termini,Monti, Roma, Roma ,194,188,271,385,2.0,0.0,"8,2","8,8",Ottimo ,Fantastico,1362,10.0,1.0,2.0,01-08-25,02-08-25
+273#296,1.0,B&B Ventisei Scalini A Trastevere,B&B Ventisei Scalini a Trastevere,Trastevere,Trastevere, Roma, Roma ,205,152,273,296,1.3,0.0,"8,3","8,7",Ottimo ,Fantastico,1143,79.0,1.0,2.0,01-08-25,02-08-25
+276#148,1.0,Mama Shelter Roma,Mama Shelter Roma,Trionfale,Città del Vaticano, Roma, Roma ,307,307,276,148,3.4,0.5,"8,5","8,7",Ottimo ,Fantastico,2995,3109.0,1.0,2.0,01-08-25,02-08-25
+279#79,1.0,LH Hotel Andreotti,LH Hotel Andreotti,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,130,108,279,79,1.9,0.0,"8,5","8,7",Ottimo ,Fantastico,3444,3714.0,1.0,2.0,01-08-25,02-08-25
+282#478,1.0,Hotel Pantheon,Hotel Pantheon,Pantheon,Pantheon, Roma, Roma ,384,335,282,478,0.6,0.0,"8,2","8,5",Ottimo ,Fantastico,746,216.0,1.0,2.0,01-08-25,02-08-25
+287#349,1.0,Navona Theatre Hotel,Navona Theatre Hotel,Piazza Navona,Piazza Navona, Roma, Roma ,261,222,287,349,0.9,0.0,"8,7","8,9",Favoloso ,Fantastico,1191,1360.0,1.0,2.0,01-08-25,02-08-25
+289#425,1.0,Babuino 181 - Small Luxury Hotels of the World,Babuino 181 - Small Luxury Hotels of the World,Spagna,Piazza di Spagna, Roma, Roma ,285,242,289,425,1.5,0.0,"9,0","9,1",Eccellente ,Eccezionale,729,959.0,1.0,2.0,01-08-25,02-08-25
+291#73,1.0,Hotel St Martin by OMNIA hotels,Hotel St Martin by OMNIA hotels,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,191,159,291,73,2.2,0.0,"8,7","8,7",Favoloso ,Fantastico,1395,1513.0,1.0,2.0,01-08-25,02-08-25
+293#314,1.0,Best Western Plus Hotel Universo,Best Western Plus Hotel Universo,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,265,265,293,314,1.3,0.0,"8,7","8,7",Favoloso ,Fantastico,4569,5312.0,1.0,2.0,01-08-25,02-08-25
+297#405,0.9833333333333333,INTERNO ROMA,InternoRoma,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,123,123,297,405,2.3,0.0,"8,3","8,5",Ottimo ,Fantastico,425,430.0,1.0,2.0,01-08-25,02-08-25
+301#521,1.0,Atlante Star Hotel,Atlante Star Hotel,Vaticano Prati,Città del Vaticano, Roma, Roma ,410,345,301,521,2.0,0.0,"8,0","8,2",Ottimo ,Fantastico,1989,2091.0,1.0,2.0,01-08-25,02-08-25
+302#534,1.0,Hotel Teatro Pace,Hotel Teatro Pace,Piazza Navona,Piazza Navona, Roma, Roma ,213,213,302,534,1.0,0.0,"8,1","8,8",Ottimo ,Fantastico,1260,321.0,1.0,2.0,01-08-25,02-08-25
+303#333,1.0,The Social Hub Rome,The Social Hub Rome,Roma,Roma Est,, Roma ,148,148,303,333,2.9,0.5,"8,6","8,8",Favoloso ,Fantastico,319,197.0,1.0,2.0,01-08-25,02-08-25
+306#161,1.0,Hotel Della Conciliazione,Hotel Della Conciliazione,Vaticano Prati,Città del Vaticano, Roma, Roma ,312,288,306,161,2.0,0.0,"8,8","9,0",Favoloso ,Eccezionale,2029,2274.0,1.0,2.0,01-08-25,02-08-25
+308#236,1.0,The Liberty Boutique Hotel,The Liberty Boutique Hotel,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,354,317,308,236,2.1,0.0,"9,5","9,3",Eccezionale ,Eccezionale,943,1130.0,1.0,2.0,01-08-25,02-08-25
+310#101,1.0,Best Western Hotel Globus,Best Western Hotel Globus,Nomentano,Policlinico, Roma, Roma ,178,138,310,101,3.1,0.9,"8,2","8,2",Ottimo ,Fantastico,2727,3462.0,1.0,2.0,01-08-25,02-08-25
+312#168,1.0,Starhotels Metropole,Starhotels Metropole,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,262,246,312,168,1.3,0.0,"8,5","8,6",Ottimo ,Fantastico,2197,2971.0,1.0,2.0,01-08-25,02-08-25
+319#18,1.0,Hotel Nord Nuova Roma,Hotel Nord Nuova Roma,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,242,198,319,18,1.4,0.0,"8,3","8,4",Ottimo ,Fantastico,3441,7083.0,1.0,2.0,01-08-25,02-08-25
+320#223,1.0,Hotel Smeraldo,Hotel Smeraldo,Pantheon,Pantheon, Roma, Roma ,222,217,320,223,0.7,0.0,"9,1","9,5",Eccellente ,Eccezionale,2827,27.0,1.0,2.0,01-08-25,02-08-25
+329#164,1.0,Hotel Degli Aranci,Hotel Degli Aranci,Villa Borghese/Parioli,Flaminio e Parioli, Roma, Roma ,153,127,329,164,3.3,1.4,"8,8","8,9",Favoloso ,Fantastico,1389,1561.0,1.0,2.0,01-08-25,02-08-25
+337#529,0.9523809523809523,504 Corso Suites,504 Corso Suites Roma,Spagna,Piazza di Spagna, Roma, Roma ,208,206,337,529,1.5,0.0,"9,3","9,4",Eccellente ,Eccezionale,304,19.0,1.0,2.0,01-08-25,02-08-25
+340#171,1.0,Sheraton Rome Parco de Medici,Sheraton Rome Parco de' Medici,Magliana Vecchia,Roma Ovest, Roma, Roma ,185,185,340,171,10.8,9.2,"8,0","7,5",Ottimo ,Ottimo,1479,3240.0,1.0,2.0,01-08-25,02-08-25
+341#130,1.0,Rome Marriott Park Hotel,Rome Marriott Park Hotel,Magliana Vecchia,Roma Ovest, Roma, Roma ,200,200,341,130,10.9,9.2,"7,6","7,7",Buono ,Ottimo,2527,2873.0,1.0,2.0,01-08-25,02-08-25
+354#431,1.0,Hotel California,Hotel California,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,149,149,354,431,1.4,0.0,"7,3","7,9",Buono ,Ottimo,4006,439.0,1.0,2.0,01-08-25,02-08-25
+356#402,1.0,Roma 2B,Roma 2B (Roma2b Bed&Breakfast),Centro di Roma,Via Veneto, Roma, Roma ,135,135,356,402,1.8,0.0,"9,0","9,1",Eccellente ,Eccezionale,866,888.0,1.0,2.0,01-08-25,02-08-25
+359#315,1.0,Charme & Chic,Charme & Chic,Spagna,Piazza di Spagna, Roma, Roma ,159,131,359,315,1.1,0.0,"8,8","8,8",Favoloso ,Fantastico,592,629.0,1.0,2.0,01-08-25,02-08-25
+363#523,1.0,Hotel Locarno,Hotel Locarno,Spagna,Piazza di Spagna, Roma, Roma ,599,500,363,523,1.7,0.0,"9,4","9,4",Eccellente ,Eccezionale,734,859.0,1.0,2.0,01-08-25,02-08-25
+370#137,0.9565217391304348,Cardinal Hotel St. Peter,Cardinal St Peter Hotel,Aurelio,Aurelio e Monteverde, Roma, Roma ,177,162,370,137,3.9,2.1,"7,4","7,5",Buono ,Ottimo,3579,3816.0,1.0,2.0,01-08-25,02-08-25
+371#426,1.0,Anas Prime Place,Anas Prime Place,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,162,162,371,426,2.1,0.0,"7,8","8,1",Buono ,Fantastico,1103,1191.0,1.0,2.0,01-08-25,02-08-25
+373#430,1.0,Ibis Styles Roma Aurelia,Ibis Styles Roma Aurelia,Aurelio,Aurelio e Monteverde, Roma, Roma ,130,130,373,430,5.3,3.1,"8,3","8,3",Ottimo ,Fantastico,1384,1529.0,1.0,2.0,01-08-25,02-08-25
+374#522,1.0,Arch Rome Suites,Arch Rome Suites,Pantheon,Pantheon, Roma, Roma ,251,225,374,522,0.5,0.0,"9,0","9,2",Eccellente ,Eccezionale,1444,1657.0,1.0,2.0,01-08-25,02-08-25
+380#210,0.99,Maison Spagna Suites,Maison Spagna Suite,Spagna,Piazza di Spagna, Roma, Roma ,194,165,380,210,0.9,0.0,"9,1","9,3",Eccellente ,Eccezionale,652,676.0,1.0,2.0,01-08-25,02-08-25
+381#416,1.0,Residenza Paolo VI,Residenza Paolo VI,Vaticano Prati,Città del Vaticano, Roma, Roma ,502,427,381,416,2.2,0.2,"8,8","9,0",Favoloso ,Eccezionale,868,198.0,1.0,2.0,01-08-25,02-08-25
+392#172,1.0,Navona Palace Luxury Inn,Navona Palace Luxury Inn,Piazza Navona,Piazza Navona, Roma, Roma ,241,151,392,172,1.0,0.0,"8,7","8,9",Favoloso ,Fantastico,551,102.0,1.0,2.0,01-08-25,02-08-25
+404#237,1.0,Best Western Hotel Astrid,Best Western Hotel Astrid,Villa Borghese/Parioli,Flaminio e Parioli, Roma, Roma ,124,123,404,237,3.3,1.1,"7,8","7,9",Buono ,Ottimo,2615,3012.0,1.0,2.0,01-08-25,02-08-25
+406#202,1.0,Hotel Navona,Hotel Navona,Pantheon,Pantheon, Roma, Roma ,230,178,406,202,0.7,0.0,"8,7","8,9",Favoloso ,Fantastico,2342,415.0,1.0,2.0,01-08-25,02-08-25
+411#189,1.0,Navona Stay,Navona Stay,Piazza Navona,Pantheon, Roma, Roma ,232,206,411,189,0.8,0.0,"8,1","8,7",Ottimo ,Fantastico,497,96.0,1.0,2.0,01-08-25,02-08-25
+412#165,1.0,Hotel Contilia,Hotel Contilia,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,166,153,412,165,1.5,0.0,"8,1","8,3",Ottimo ,Fantastico,1913,2167.0,1.0,2.0,01-08-25,02-08-25
+413#12,1.0,AH Roma,AH ROMA,Roma,Roma Nord,, Roma ,88,88,413,12,9.9,7.2,"6,9","7,2",Punteggio medio ,Ottimo,899,866.0,1.0,2.0,01-08-25,02-08-25
+415#136,1.0,Hostel Trastevere,Hostel Trastevere,Gianicolense,Trastevere, Roma, Roma ,201,163,415,136,2.4,0.9,"7,5","7,7",Buono ,Ottimo,3626,4474.0,1.0,2.0,01-08-25,02-08-25
+422#63,1.0,Hotel Sant'Angelo,Hotel Sant'Angelo,Vaticano Prati,Città del Vaticano, Roma, Roma ,144,144,422,63,1.4,0.0,"7,2","8,0",Buono ,Fantastico,5284,22.0,1.0,2.0,01-08-25,02-08-25
+425#392,1.0,Hotel Albergo Santa Chiara,Hotel Albergo Santa Chiara,Pantheon,Pantheon, Roma, Roma ,233,213,425,392,0.5,0.0,"8,9","9,2",Favoloso ,Eccezionale,1304,57.0,1.0,2.0,01-08-25,02-08-25
+428#191,1.0,Floris Hotel,Floris Hotel,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,250,215,428,191,1.2,0.0,"7,8","8,4",Buono ,Fantastico,2205,412.0,1.0,2.0,01-08-25,02-08-25
+433#440,1.0,Hotel Valadier,Hotel Valadier,Spagna,Piazza di Spagna, Roma, Roma ,249,206,433,440,1.5,0.0,"8,3","8,6",Ottimo ,Fantastico,2733,3009.0,1.0,2.0,01-08-25,02-08-25
+435#100,1.0,La Griffe Hotel Roma,La Griffe Hotel Roma,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,210,139,435,100,1.1,0.0,"7,4","7,8",Buono ,Ottimo,5095,5347.0,1.0,2.0,01-08-25,02-08-25
+440#327,1.0,Best Western Premier Hotel Royal Santina,Best Western Premier Hotel Royal Santina,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,231,231,440,327,1.8,0.0,"8,7","8,7",Favoloso ,Fantastico,3411,4614.0,1.0,2.0,01-08-25,02-08-25
+447#284,0.9608333333333333,Twentyone Hotel,Twenty One Hotel,Vaticano Prati,Città del Vaticano, Roma, Roma ,239,202,447,284,1.8,0.0,"8,3","8,2",Ottimo ,Fantastico,3883,7122.0,1.0,2.0,01-08-25,02-08-25
+448#278,1.0,Hotel Everest Inn Rome,Hotel Everest Inn Rome,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,170,139,448,278,1.1,0.0,"8,2","8,5",Ottimo ,Fantastico,1302,1543.0,1.0,2.0,01-08-25,02-08-25
+450#376,1.0,The Major Hotel,The Major Hotel,Rione Monti,Monti, Roma, Roma ,332,243,450,376,1.2,0.0,"8,8","8,9",Favoloso ,Fantastico,1154,1381.0,1.0,2.0,01-08-25,02-08-25
+457#74,1.0,Noba Hotel e Residenze,Noba Hotel e Residenze,Monte Sacro,Nomentano, Roma, Roma ,139,117,457,74,5.4,3.2,"8,3","8,3",Ottimo ,Fantastico,1821,1948.0,1.0,2.0,01-08-25,02-08-25
+458#369,1.0,DA ME Suites,DA ME Suites,Spagna,Piazza di Spagna, Roma, Roma ,175,175,458,369,1.8,0.0,"8,9","9,1",Favoloso ,Eccezionale,1146,1272.0,1.0,2.0,01-08-25,02-08-25
+462#234,1.0,Novotel Roma Est,Novotel Roma Est,Roma,Roma Est,, Roma ,143,143,462,234,11.3,9.7,"8,0","7,9",Ottimo ,Ottimo,280,420.0,1.0,2.0,01-08-25,02-08-25
+467#221,1.0,At Home Townhouse - Filiberto,At Home Townhouse - Filiberto,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,177,164,467,221,2.0,0.0,"9,5","9,4",Eccezionale ,Eccezionale,662,1243.0,1.0,2.0,01-08-25,02-08-25
+468#200,1.0,Hostel Mosaic,Hostel Mosaic,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,109,109,468,200,1.9,0.0,"7,1","7,5",Buono ,Ottimo,5242,237.0,1.0,2.0,01-08-25,02-08-25
+472#311,0.9941176470588236,Corso Suite 107 Rooms Wellness & Spa,Corso Suite 107 Rooms Wellness&SPA ,Spagna,Piazza di Spagna, Roma, Roma ,240,270,472,311,1.2,0.0,"8,6","8,4",Favoloso ,Fantastico,754,77.0,1.0,2.0,01-08-25,02-08-25
+475#139,1.0,citizenM Rome Isola Tiberina,citizenM Rome Isola Tiberina,Pantheon,Pantheon, Roma, Roma ,304,304,475,139,0.7,0.0,"8,9","9,0",Favoloso ,Eccezionale,2077,2197.0,1.0,2.0,01-08-25,02-08-25
+477#429,1.0,room Select Via Veneto,room Select Via Veneto,Via Veneto,Via Veneto, Roma, Roma ,187,158,477,429,1.7,0.0,"8,4","8,5",Ottimo ,Fantastico,2505,2634.0,1.0,2.0,01-08-25,02-08-25
+481#275,1.0,Hotel Barberini,Hotel Barberini,Trevi,Fontana di Trevi, Roma, Roma ,364,359,481,275,0.9,0.0,"8,9","9,0",Favoloso ,Eccezionale,1996,2165.0,1.0,2.0,01-08-25,02-08-25
+486#509,1.0,Hotel The Building,Hotel The Building,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,216,185,486,509,2.2,0.0,"7,8","8,5",Buono ,Fantastico,2520,13.0,1.0,2.0,01-08-25,02-08-25
+489#285,0.9578947368421054,Pinewood Hotel Rome,Pinewood Rome Hotel,Aurelio,Trionfale, Roma, Roma ,153,142,489,285,5.0,2.1,"7,8","7,9",Buono ,Ottimo,1826,2113.0,1.0,2.0,01-08-25,02-08-25
+490#162,1.0,Hotel Tirreno,Hotel Tirreno,Rione Monti,Monti, Roma, Roma ,172,134,490,162,1.3,0.0,"7,4","7,8",Buono ,Ottimo,809,201.0,1.0,2.0,01-08-25,02-08-25
+492#132,1.0,Domus 21 Luxury Suites,Domus 21 Luxury Suites,Pantheon,Pantheon, Roma, Roma ,421,338,492,132,0.35,0.0,"9,1","9,2",Eccellente ,Eccezionale,454,634.0,1.0,2.0,01-08-25,02-08-25
+495#34,1.0,Hotel Artis,Hotel Artis,Roma,Appio Latino,, Roma ,118,85,495,34,8.4,6.0,"7,8","7,9",Buono ,Ottimo,1300,446.0,1.0,2.0,01-08-25,02-08-25
+495#476,0.9571428571428571,Hotel Artis,Hotel Artorius,Roma,Monti,, Roma ,118,139,495,476,8.4,0.0,"7,8","9,4",Buono ,Eccezionale,1300,5.0,1.0,2.0,01-08-25,02-08-25
+496#363,1.0,Hotel Sisto V,Hotel Sisto V,Roma,Trionfale,, Roma ,142,114,496,363,5.8,2.8,"8,2","8,3",Ottimo ,Fantastico,1332,1542.0,1.0,2.0,01-08-25,02-08-25
+497#58,1.0,Residenza Ki,Residenza Ki,Trevi,Fontana di Trevi, Roma, Roma ,166,166,497,58,0.8,0.0,"7,5","7,9",Buono ,Ottimo,1476,1593.0,1.0,2.0,01-08-25,02-08-25
+500#254,1.0,Roma Resort Colosseum,Roma Resort Colosseum,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,164,145,500,254,2.1,0.0,"7,4","7,7",Buono ,Ottimo,3153,118.0,1.0,2.0,01-08-25,02-08-25
+502#122,1.0,Golden Tulip Rome Piram,Golden Tulip Rome Piram,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,242,204,502,122,1.4,0.0,"7,9","8,2",Buono ,Fantastico,2682,2886.0,1.0,2.0,01-08-25,02-08-25
+503#192,1.0,Four Rivers Suites,Four Rivers Suites,Piazza Navona,Piazza Navona, Roma, Roma ,236,226,503,192,0.9,0.0,"8,8","8,9",Favoloso ,Fantastico,1276,1305.0,1.0,2.0,01-08-25,02-08-25
+505#112,1.0,UNA HOTELS Decò Roma,UNA HOTELS Decò Roma,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,273,231,505,112,1.5,0.0,"8,7","8,8",Favoloso ,Fantastico,3068,5083.0,1.0,2.0,01-08-25,02-08-25
+508#520,1.0,I Fiumi Di Navona,I Fiumi Di Navona,Piazza Navona,Pantheon, Roma, Roma ,183,183,508,520,0.9,0.0,"8,3","8,5",Ottimo ,Fantastico,566,595.0,1.0,2.0,01-08-25,02-08-25
+533#96,1.0,Hotel Villa San Lorenzo Maria,Hotel Villa San Lorenzo Maria,San Lorenzo,Stazione centrale Roma Termini, Roma, Roma ,197,166,533,96,2.9,0.4,"8,2","8,2",Ottimo ,Fantastico,2720,3684.0,1.0,2.0,01-08-25,02-08-25
+535#508,0.95625,Garner Hotel Rome Aurelia by IHG,Garner Hotel Rome Aurelia,Aurelio,Aurelio e Monteverde, Roma, Roma ,151,149,535,508,5.4,3.1,"8,1","8,1",Ottimo ,Fantastico,1434,1750.0,1.0,2.0,01-08-25,02-08-25
+536#272,0.9583333333333333,Hotel Centro Cavour Roma,Hotel Centro Cavour,Rione Monti,Monti, Roma, Roma ,172,172,536,272,0.8,0.0,"8,9","9,0",Favoloso ,Eccezionale,2914,5035.0,1.0,2.0,01-08-25,02-08-25
+538#326,1.0,Marcella Royal Hotel - Rooftop Garden,MARCELLA ROYAL HOTEL – ROOFTOP GARDEN,Centro di Roma,Via Veneto, Roma, Roma ,270,237,538,326,1.8,0.0,"8,6","8,5",Favoloso ,Fantastico,503,744.0,1.0,2.0,01-08-25,02-08-25
+539#154,1.0,c-hotels Club House Roma,C-hotels Club House Roma,Aurelio,Trionfale, Roma, Roma ,151,141,539,154,4.7,2.1,"8,9","8,9",Favoloso ,Fantastico,6185,6773.0,1.0,2.0,01-08-25,02-08-25
+540#421,1.0,Hotel Barocco,Hotel Barocco,Via Veneto,Via Veneto, Roma, Roma ,349,349,540,421,1.0,0.0,"9,0","9,2",Eccellente ,Eccezionale,1420,1584.0,1.0,2.0,01-08-25,02-08-25
+541#97,1.0,Adesso Hotel,Adesso Hotel,Nomentano,Nomentano, Roma, Roma ,195,161,541,97,4.2,1.9,"9,0","9,1",Eccellente ,Eccezionale,2789,3375.0,1.0,2.0,01-08-25,02-08-25
+549#158,1.0,NH Roma Villa Carpegna,NH Roma Villa Carpegna,Aurelio,Trastevere, Roma, Roma ,194,194,549,158,3.6,1.9,"8,3","8,4",Ottimo ,Fantastico,2572,2816.0,1.0,2.0,01-08-25,02-08-25
+552#238,1.0,Villa Eur Parco Dei Pini,Villa Eur Parco Dei Pini,Eur,Eur e Garbatella, Roma, Roma ,145,129,552,238,8.2,6.6,"7,8","7,9",Buono ,Ottimo,4712,4784.0,1.0,2.0,01-08-25,02-08-25
+559#259,1.0,Hotel Villa Pinciana,Hotel Villa Pinciana,Via Veneto,Via Veneto, Roma, Roma ,253,165,559,259,1.7,0.0,"8,8","8,9",Favoloso ,Fantastico,568,799.0,1.0,2.0,01-08-25,02-08-25
+560#490,1.0,InnsideRome,InnsideRome,Aurelio,Città del Vaticano, Roma, Roma ,158,139,560,490,2.3,0.3,"8,5","8,8",Ottimo ,Fantastico,295,379.0,1.0,2.0,01-08-25,02-08-25
+562#128,1.0,Relais Monti,Relais Monti,Rione Monti,Monti, Roma, Roma ,252,214,562,128,1.0,0.0,"8,6","8,7",Favoloso ,Fantastico,1366,1784.0,1.0,2.0,01-08-25,02-08-25
+564#318,1.0,A&C Much More II,A&C Much More II,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,188,188,564,318,2.1,0.0,"7,6","7,9",Buono ,Ottimo,690,758.0,1.0,2.0,01-08-25,02-08-25
+565#323,0.9510489510489512,Hotel Labelle,Hotel Lella,Rione Monti,Stazione centrale Roma Termini, Roma, Roma ,164,106,565,323,0.6,0.0,"8,8","6,4",Favoloso ,Buono,1211,1380.0,1.0,2.0,01-08-25,02-08-25
+565#367,1.0,Hotel Labelle,Hotel Labelle,Rione Monti,Colosseo e Foro Romano, Roma, Roma ,164,164,565,367,0.6,0.0,"8,8","8,9",Favoloso ,Fantastico,1211,1254.0,1.0,2.0,01-08-25,02-08-25
+566#188,1.0,Hotel Domidea,Hotel Domidea,Roma,Roma Est,, Roma ,207,174,566,188,9.0,6.8,"9,1","8,9",Eccellente ,Fantastico,1009,1240.0,1.0,2.0,01-08-25,02-08-25
+567#145,1.0,Grand Hotel Tiberio,Grand Hotel Tiberio,Trionfale,Trionfale, Roma, Roma ,141,114,567,145,4.0,1.0,"8,4","8,3",Ottimo ,Fantastico,2589,2843.0,1.0,2.0,01-08-25,02-08-25
+568#134,1.0,Argentina Residenza Style Hotel,Argentina Residenza Style Hotel,Pantheon,Pantheon, Roma, Roma ,260,208,568,134,0.5,0.0,"8,9","9,2",Favoloso ,Eccezionale,1292,463.0,1.0,2.0,01-08-25,02-08-25
+570#434,1.0,UNA HOTELS Empire Roma,UNA HOTELS Empire Roma,Via Veneto,Via Veneto, Roma, Roma ,201,165,570,434,1.6,0.0,"8,4","8,5",Ottimo ,Fantastico,2171,2505.0,1.0,2.0,01-08-25,02-08-25
+572#213,1.0,Hotel Rimini,Hotel Rimini,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,104,96,572,213,1.9,0.0,"7,4","7,8",Buono ,Ottimo,1366,1636.0,1.0,2.0,01-08-25,02-08-25
+573#50,0.9818181818181818,Hotel Agorà,Hotel Agora,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,122,92,573,50,1.9,0.0,"7,1","7,5",Buono ,Ottimo,2422,2638.0,1.0,2.0,01-08-25,02-08-25
+574#118,1.0,Urban Garden Hotel,Urban Garden Hotel,Tiburtino,Roma Est, Roma, Roma ,171,154,574,118,7.9,5.7,"7,9","7,9",Buono ,Ottimo,1313,1501.0,1.0,2.0,01-08-25,02-08-25
+577#225,1.0,Hotel Arcangelo,Hotel Arcangelo,Vaticano Prati,Città del Vaticano, Roma, Roma ,215,153,577,225,1.9,0.0,"8,1","8,3",Ottimo ,Fantastico,1452,1560.0,1.0,2.0,01-08-25,02-08-25
+581#512,1.0,Alpi Hotel,Alpi Hotel,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,204,204,581,512,2.0,0.0,"8,7","8,8",Favoloso ,Fantastico,2235,2511.0,1.0,2.0,01-08-25,02-08-25
+584#365,1.0,Hotel Julia,Hotel Julia,Trevi,Fontana di Trevi, Roma, Roma ,155,128,584,365,0.9,0.0,"7,8","8,1",Buono ,Fantastico,1819,1944.0,1.0,2.0,01-08-25,02-08-25
+586#360,1.0,MEININGER Roma Termini,MEININGER Roma Termini,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,159,159,586,360,2.0,0.0,"8,4","8,7",Ottimo ,Fantastico,2583,142.0,1.0,2.0,01-08-25,02-08-25
+588#493,1.0,"Hotel Canada, BW Premier Collection","Hotel Canada, BW Premier Collection",Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,177,177,588,493,2.1,0.0,"9,0","9,0",Eccellente ,Eccezionale,1789,2002.0,1.0,2.0,01-08-25,02-08-25
+594#76,1.0,BV Hotel Oly,BV Hotel Oly,Ostiense,Eur e Garbatella, Roma, Roma ,189,130,594,76,4.9,3.3,"7,8","7,8",Buono ,Ottimo,1564,1745.0,1.0,2.0,01-08-25,02-08-25
+595#306,1.0,Radio Hotel,Radio Hotel,Portuense,Eur e Garbatella, Roma, Roma ,107,107,595,306,3.0,1.6,"7,4","7,8",Buono ,Ottimo,2320,2599.0,1.0,2.0,01-08-25,02-08-25
+603#528,1.0,River Chateau Hotel,River Chateau Hotel,Tor Di Quinto,Flaminio e Parioli, Roma, Roma ,192,143,603,528,5.0,2.8,"8,7","8,7",Favoloso ,Fantastico,1024,1148.0,1.0,2.0,01-08-25,02-08-25
+611#329,1.0,Hotel Caravita,Hotel Caravita,Pantheon,Pantheon, Roma, Roma ,377,311,611,329,0.4,0.0,"8,8","8,9",Favoloso ,Fantastico,987,1091.0,1.0,2.0,01-08-25,02-08-25
+618#359,1.0,Hotel Patria,Hotel Patria,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,164,125,618,359,1.2,0.0,"8,3","8,6",Ottimo ,Fantastico,1669,1841.0,1.0,2.0,01-08-25,02-08-25
+618#459,0.9651515151515152,Hotel Patria,Hotel Prati,Stazione Termini,Città del Vaticano, Roma, Roma ,164,129,618,459,1.2,0.0,"8,3","8,2",Ottimo ,Fantastico,1669,2129.0,1.0,2.0,01-08-25,02-08-25
+619#92,1.0,Precise House Mantegna Roma,Precise House Mantegna Roma,Ardeatino,Eur e Garbatella, Roma, Roma ,177,177,619,92,5.0,3.0,"8,9","8,8",Favoloso ,Fantastico,1917,1968.0,1.0,2.0,01-08-25,02-08-25
+626#183,1.0,Hotel Mozart,Hotel Mozart,Spagna,Piazza di Spagna, Roma, Roma ,254,232,626,183,1.3,0.0,"8,4","8,6",Ottimo ,Fantastico,1935,294.0,1.0,2.0,01-08-25,02-08-25
+631#438,1.0,Gasometer Urban Suites,Gasometer Urban Suites,Ostiense,Eur e Garbatella, Roma, Roma ,209,209,631,438,2.7,1.5,"9,1","9,1",Eccellente ,Eccezionale,1247,1363.0,1.0,2.0,01-08-25,02-08-25
+636#89,1.0,Palazzo Sant'Antonio,Palazzo Sant'Antonio,Aurelio,Trionfale, Roma, Roma ,85,63,636,89,5.1,2.3,"8,3","8,4",Ottimo ,Fantastico,1280,1362.0,1.0,2.0,01-08-25,02-08-25
+644#84,1.0,Colonna Palace Hotel,Colonna Palace Hotel,Pantheon,Pantheon, Roma, Roma ,331,203,644,84,0.6,0.0,"8,0","8,5",Ottimo ,Fantastico,718,840.0,1.0,2.0,01-08-25,02-08-25
+645#201,1.0,Flower Garden Hotel,Flower Garden Hotel,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,177,177,645,201,1.3,0.0,"8,0","8,3",Ottimo ,Fantastico,1765,2367.0,1.0,2.0,01-08-25,02-08-25
+649#59,1.0,Hotel Cilicia,Hotel Cilicia,San Giovanni,Appio Latino, Roma, Roma ,110,110,649,59,3.1,1.1,"7,0","7,6",Buono ,Ottimo,2090,168.0,1.0,2.0,01-08-25,02-08-25
+651#532,1.0,Hotel Mosaic Central Rome,Hotel Mosaic Central Rome,Rione Monti,Monti, Roma, Roma ,156,156,651,532,1.0,0.0,"7,4","7,7",Buono ,Ottimo,2982,3082.0,1.0,2.0,01-08-25,02-08-25
+653#352,1.0,Hotel White,Hotel White,Trevi,Fontana di Trevi, Roma, Roma ,322,279,653,352,0.7,0.0,"8,5","8,6",Ottimo ,Fantastico,569,944.0,1.0,2.0,01-08-25,02-08-25
+654#397,1.0,Starhotels Michelangelo Rome,Starhotels Michelangelo Rome,Aurelio,Città del Vaticano, Roma, Roma ,219,211,654,397,2.3,1.5,"8,8","8,9",Favoloso ,Fantastico,1799,2299.0,1.0,2.0,01-08-25,02-08-25
+659#20,1.0,Hotel Oriente,Hotel Oriente,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,158,80,659,20,1.5,0.0,"7,1","7,2",Buono ,Ottimo,271,444.0,1.0,2.0,01-08-25,02-08-25
+659#249,0.9525641025641025,Hotel Oriente,Hotel Tritone,Stazione Termini,Fontana di Trevi, Roma, Roma ,158,382,659,249,1.5,0.0,"7,1","8,5",Buono ,Fantastico,271,788.0,1.0,2.0,01-08-25,02-08-25
+660#27,1.0,Hotel Raganelli,Hotel Raganelli,Aurelio,Aurelio e Monteverde, Roma, Roma ,116,92,660,27,5.7,3.6,"8,2","8,3",Ottimo ,Fantastico,1072,1250.0,1.0,2.0,01-08-25,02-08-25
+674#533,1.0,Mosaic Central Guest House,Mosaic Central Guest House,Rione Monti,Monti, Roma, Roma ,136,136,674,533,1.0,0.0,"7,4","8,5",Buono ,Fantastico,452,31.0,1.0,2.0,01-08-25,02-08-25
+676#461,1.0,Hotel Virginia,Hotel Virginia,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,107,107,676,461,1.9,0.0,"7,8","8,0",Buono ,Fantastico,2257,2460.0,1.0,2.0,01-08-25,02-08-25
+678#499,1.0,tagliaferri lucia,tagliaferri lucia,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,132,132,678,499,2.0,0.0,"8,3","8,6",Ottimo ,Fantastico,1262,1283.0,1.0,2.0,01-08-25,02-08-25
+689#177,1.0,SuiteSistina for Brave Lovers,SuiteSistina for Brave Lovers,Spagna,Piazza di Spagna, Roma, Roma ,255,228,689,177,1.1,0.0,"9,1","9,1",Eccellente ,Eccezionale,1767,2165.0,1.0,2.0,01-08-25,02-08-25
+692#300,1.0,The Republic,THE REPUBLIC,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,316,269,692,300,1.7,0.0,"8,7","8,9",Favoloso ,Fantastico,1053,1364.0,1.0,2.0,01-08-25,02-08-25
+697#250,1.0,Hilton Rome Eur La Lama,Hilton Rome Eur La Lama,Eur,Eur e Garbatella, Roma, Roma ,172,172,697,250,7.3,5.9,"8,6","8,5",Favoloso ,Fantastico,1969,2144.0,1.0,2.0,01-08-25,02-08-25
+699#362,1.0,Hotel Nardizzi Americana,Hotel Nardizzi Americana,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,240,240,699,362,1.2,0.0,"8,4","8,6",Ottimo ,Fantastico,1379,1568.0,1.0,2.0,01-08-25,02-08-25
+701#146,1.0,Hotel Marcantonio,Hotel Marcantonio,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,180,155,701,146,1.4,0.0,"7,8","8,4",Buono ,Fantastico,1468,1142.0,1.0,2.0,01-08-25,02-08-25
+702#104,1.0,Hotel Buenos Aires,Hotel Buenos Aires,Roma,Nomentano,, Roma ,165,128,702,104,3.2,1.2,"7,7","7,9",Buono ,Ottimo,998,1084.0,1.0,2.0,01-08-25,02-08-25
+703#121,1.0,Hotel IMPERATORI,Hotel Imperatori,Tiburtino,Roma Nord, Roma, Roma ,96,77,703,121,10.5,8.2,"7,5","7,7",Buono ,Ottimo,697,845.0,1.0,2.0,01-08-25,02-08-25
+707#3,1.0,"Rome Cavalieri, A Waldorf Astoria Hotel",Rome Cavalieri A Waldorf Astoria Hotel,Trionfale,Trionfale, Roma, Roma ,1620,1620,707,3,4.0,1.2,"8,9","8,9",Favoloso ,Fantastico,795,1161.0,1.0,2.0,01-08-25,02-08-25
+709#205,0.9636363636363636,Hotel Genio,Hotel Geo,Piazza Navona,Roma Est, Roma, Roma ,213,92,709,205,1.0,1.4,"7,7","7,5",Buono ,Ottimo,530,456.0,1.0,2.0,01-08-25,02-08-25
+711#179,1.0,Hotel Santa Costanza by OMNIA hotels,Hotel Santa Costanza by OMNIA hotels,Nomentano,Nomentano, Roma, Roma ,228,133,711,179,4.0,1.8,"7,5","7,7",Buono ,Ottimo,462,547.0,1.0,2.0,01-08-25,02-08-25
+726#455,1.0,nhow Roma,nhow Roma,Via Veneto,Via Veneto, Roma, Roma ,250,248,726,455,1.7,0.0,"8,3","8,3",Ottimo ,Fantastico,840,1080.0,1.0,2.0,01-08-25,02-08-25
+728#293,1.0,Relais Palazzo Taverna,Relais Palazzo Taverna,Piazza Navona,Piazza Navona, Roma, Roma ,135,135,728,293,1.2,0.0,"7,7","8,0",Buono ,Fantastico,597,703.0,1.0,2.0,01-08-25,02-08-25
+730#540,0.9723809523809525,Hotel Aventino,Hotel Valentino,Aventino,Terni, Roma, Terni ,241,258,730,540,1.4,,"8,7","9,0",Favoloso ,Eccezionale,1036,2.0,1.0,2.0,01-08-25,02-08-25
+732#90,1.0,Hotel Best Roma,Hotel Best Roma,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,188,126,732,90,2.4,0.049,"7,1","7,4",Buono ,Ottimo,570,112.0,1.0,2.0,01-08-25,02-08-25
+735#207,1.0,Hotel Virgilio,Hotel Virgilio,Rione Monti,Monti, Roma, Roma ,163,156,735,207,0.9,0.0,"8,6","8,9",Favoloso ,Fantastico,3311,39.0,1.0,2.0,01-08-25,02-08-25
+740#28,0.9571428571428571,Trevi 41 Hotel,Trevi Hotel,Trevi,Fontana di Trevi, Roma, Roma ,210,154,740,28,0.7,0.0,"7,8","8,1",Buono ,Fantastico,1746,2050.0,1.0,2.0,01-08-25,02-08-25
+740#427,1.0,Trevi 41 Hotel,Trevi 41 Hotel,Trevi,Fontana di Trevi, Roma, Roma ,210,177,740,427,0.7,0.0,"7,8","8,4",Buono ,Fantastico,1746,96.0,1.0,2.0,01-08-25,02-08-25
+742#506,1.0,Residenza Frattina,Residenza Frattina,Spagna,Piazza di Spagna, Roma, Roma ,210,172,742,506,0.9,0.0,"8,5","8,7",Ottimo ,Fantastico,728,919.0,1.0,2.0,01-08-25,02-08-25
+745#348,1.0,Hotel Della Torre Argentina,Hotel Della Torre Argentina,Pantheon,Pantheon, Roma, Roma ,294,294,745,348,0.6,0.0,"8,6","8,9",Favoloso ,Fantastico,4397,4418.0,1.0,2.0,01-08-25,02-08-25
+751#282,1.0,Hotel Balilla,Hotel Balilla,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,160,139,751,282,2.4,0.0,"8,8","8,8",Favoloso ,Fantastico,830,970.0,1.0,2.0,01-08-25,02-08-25
+759#346,1.0,MF Hotel,MF Hotel,Roma,Nomentano,, Roma ,125,125,759,346,2.3,0.2,"7,5","7,8",Buono ,Ottimo,883,1007.0,1.0,2.0,01-08-25,02-08-25
+760#160,1.0,Warmthotel,Warmthotel,Fonte Ostiense,Eur e Garbatella, Roma, Roma ,164,128,760,160,9.3,7.6,"8,5","8,5",Ottimo ,Fantastico,2630,2778.0,1.0,2.0,01-08-25,02-08-25
+765#111,1.0,Hotel Dei Congressi,Hotel Dei Congressi,Eur,Eur e Garbatella, Roma, Roma ,197,172,765,111,7.3,5.8,"8,7","8,7",Favoloso ,Fantastico,3078,3304.0,1.0,2.0,01-08-25,02-08-25
+769#274,1.0,Trevi Palace Luxury Inn,Trevi Palace Luxury Inn,Trevi,Fontana di Trevi, Roma, Roma ,416,266,769,274,0.6,0.0,"8,1","8,6",Ottimo ,Fantastico,613,188.0,1.0,2.0,01-08-25,02-08-25
+770#181,1.0,Hotel Saint John,Hotel Saint John,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,228,167,770,181,2.0,0.0,"7,5","7,8",Buono ,Ottimo,1642,375.0,1.0,2.0,01-08-25,02-08-25
+774#62,1.0,Aparthotel Colombo Roma,Aparthotel Colombo Roma,Ostiense,Eur e Garbatella, Roma, Roma ,172,172,774,62,3.5,1.6,"8,8","8,9",Favoloso ,Fantastico,2030,78.0,1.0,2.0,01-08-25,02-08-25
+775#53,1.0,The Independent Hotel,THE INDEPENDENT HOTEL,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,275,162,775,53,1.7,0.0,"8,5","8,8",Ottimo ,Fantastico,637,2496.0,1.0,2.0,01-08-25,02-08-25
+779#364,1.0,Hotel Kent,Hotel Kent,Roma,Nomentano,, Roma ,150,120,779,364,2.5,0.3,"7,9","8,1",Buono ,Fantastico,1237,1333.0,1.0,2.0,01-08-25,02-08-25
+783#273,0.990909090909091,Hotel Giardino d'Europa,Hotel Giardino Europa,Appio Latino,Appio Latino, Roma, Roma ,123,113,783,273,11.2,8.8,"8,0","8,0",Ottimo ,Fantastico,1469,1556.0,1.0,2.0,01-08-25,02-08-25
+792#64,1.0,The Cross Hotel,The Cross hotel,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,283,222,792,64,2.5,0.2,"8,4","8,5",Ottimo ,Fantastico,3830,4188.0,1.0,2.0,01-08-25,02-08-25
+793#232,1.0,UNA HOTELS Trastevere Roma,UNA HOTELS Trastevere Roma,Trastevere,Trastevere, Roma, Roma ,289,244,793,232,1.5,0.0,"8,7","8,8",Favoloso ,Fantastico,2353,2543.0,1.0,2.0,01-08-25,02-08-25
+798#110,1.0,Albergo Ottocento,Albergo Ottocento,Via Veneto,Via Veneto, Roma, Roma ,248,213,798,110,1.0,0.0,"8,4","8,7",Ottimo ,Fantastico,1931,244.0,1.0,2.0,01-08-25,02-08-25
+800#439,1.0,Grand Hotel Palace Rome,Grand Hotel Palace Rome,Via Veneto,Via Veneto, Roma, Roma ,332,332,800,439,1.4,0.0,"8,4","8,6",Ottimo ,Fantastico,673,50.0,1.0,2.0,01-08-25,02-08-25
+804#43,1.0,Hotel Napoleon,Hotel Napoleon,Stazione Termini,Stazione centrale Roma Termini, Roma, Roma ,256,122,804,43,1.8,0.0,"8,0","8,1",Ottimo ,Fantastico,456,1187.0,1.0,2.0,01-08-25,02-08-25
+811#515,1.0,Boutique Hotel Campo de' Fiori,Boutique Hotel Campo de' Fiori,Piazza Navona,Piazza Navona, Roma, Roma ,499,470,811,515,0.8,0.0,"8,8","9,3",Favoloso ,Eccezionale,805,7.0,1.0,2.0,01-08-25,02-08-25
+816#544,1.0,Hotel De Paris,Hotel De Paris,Terni,Terni,Terni, Terni ,69,69,816,544,0.9,,"7,2","8,1",Buono ,Fantastico,869,11.0,1.0,2.0,01-08-25,02-08-25
+817#545,1.0,Cospea B&B,Cospea B&B,Terni,Terni,Terni, Terni ,55,55,817,545,1.7,,"9,0","9,6",Eccellente ,Eccezionale,674,1.0,1.0,2.0,01-08-25,02-08-25
+818#624,1.0,Rosy Bed&Breakfast,Rosy Bed&Breakfast,Terni,Terni,Terni, Terni ,77,77,818,624,1.0,,"9,0","9,3",Eccellente ,Eccezionale,330,328.0,1.0,2.0,01-08-25,02-08-25
+819#566,1.0,B&B Angolo Verde,B&B Angolo Verde,Terni,Terni,Terni, Terni ,69,69,819,566,2.6,,"8,6","9,6",Favoloso ,Eccezionale,219,1.0,1.0,2.0,01-08-25,02-08-25
+820#668,1.0,Santa Filomena Guest House,Santa Filomena Guest House,Terni,Terni,Terni, Terni ,74,74,820,668,1.0,,"9,7","9,1",Eccezionale ,Eccezionale,11,4.0,1.0,2.0,01-08-25,02-08-25
+821#596,1.0,Asso Residence,Asso Residence,Terni,Terni,Terni, Terni ,79,79,821,596,2.1,,"8,2","8,3",Ottimo ,Fantastico,1341,1407.0,1.0,2.0,01-08-25,02-08-25
+822#552,1.0,Asso Residence Ospedale,Asso Residence Ospedale,Terni,Terni,Terni, Terni ,89,89,822,552,1.9,,"8,8","8,9",Favoloso ,Fantastico,1297,1300.0,1.0,2.0,01-08-25,02-08-25
+824#574,1.0,Asso Residence GOLD,Asso Residence GOLD,Terni,Terni,Terni, Terni ,94,94,824,574,1.9,,"8,4","8,6",Ottimo ,Fantastico,17,10.0,1.0,2.0,01-08-25,02-08-25
+825#561,1.0,Asso Residence Centro,Asso Residence Centro,Terni,Terni,Terni, Terni ,81,81,825,561,0.04,,"7,9","9,2",Buono ,Eccezionale,980,1.0,1.0,2.0,01-08-25,02-08-25
+826#621,1.0,Residence Viviverde,Residence Viviverde,Terni,Terni,Terni, Terni ,76,76,826,621,3.6,,"8,8","8,9",Favoloso ,Fantastico,620,643.0,1.0,2.0,01-08-25,02-08-25
+827#572,1.0,Civico 100,Civico 100,Terni,Terni,Terni, Terni ,72,72,827,572,0.8,,"8,4","8,7",Ottimo ,Fantastico,49,47.0,1.0,2.0,01-08-25,02-08-25
+828#543,1.0,Classic Hotel Tulipano,Classic Hotel Tulipano,Terni,Terni,Terni, Terni ,128,98,828,543,1.7,,"7,5","7,6",Buono ,Ottimo,406,453.0,1.0,2.0,01-08-25,02-08-25
+829#657,1.0,angolo verde,angolo verde,Terni,Terni,Terni, Terni ,63,63,829,657,2.6,,"8,0","8,0",Ottimo ,Fantastico,7,4.0,1.0,2.0,01-08-25,02-08-25
+830#587,1.0,Via Roma,Via Roma,Terni,Terni,Terni, Terni ,84,84,830,587,0.7,,"9,2","9,4",Eccellente ,Eccezionale,76,77.0,1.0,2.0,01-08-25,02-08-25
+831#623,1.0,A casa di Alma,A casa di Alma,Terni,Terni,Terni, Terni ,81,81,831,623,1.2,,"9,2","9,4",Eccellente ,Eccezionale,101,106.0,1.0,2.0,01-08-25,02-08-25
+832#557,1.0,Welcome home,Welcome home,Terni,Terni,Terni, Terni ,87,87,832,557,0.6,,"9,6","9,6",Eccezionale ,Eccezionale,56,56.0,1.0,2.0,01-08-25,02-08-25
+833#542,1.0,Hotel Michelangelo Palace & SPA,Hotel Michelangelo Palace & SPA,Terni,Terni,Terni, Terni ,174,174,833,542,1.0,,"7,8","8,0",Buono ,Fantastico,669,718.0,1.0,2.0,01-08-25,02-08-25
+834#540,1.0,Hotel Valentino,Hotel Valentino,Terni,Terni,Terni, Terni ,258,258,834,540,0.9,,"8,5","9,0",Ottimo ,Eccezionale,754,2.0,1.0,2.0,01-08-25,02-08-25
+835#629,1.0,Le Camere di Ettore,Le Camere di Ettore,Terni,Terni,Terni, Terni ,79,79,835,629,1.1,,"8,9","9,1",Favoloso ,Eccezionale,103,99.0,1.0,2.0,01-08-25,02-08-25
+836#640,1.0,as maison,as maison,Terni,Terni,Terni, Terni ,89,89,836,640,2.3,,"9,5","9,6",Eccezionale ,Eccezionale,109,106.0,1.0,2.0,01-08-25,02-08-25
+837#632,1.0,La casa di Alan,La casa di Alan,Terni,Terni,Terni, Terni ,80,80,837,632,1.6,,"7,8","8,2",Buono ,Fantastico,257,251.0,1.0,2.0,01-08-25,02-08-25
+838#615,1.0,Appartamenti Il Cerqueto 2,Appartamenti Il Cerqueto 2,Terni,Terni,Terni, Terni ,74,74,838,615,1.7,,"8,2","8,4",Ottimo ,Fantastico,153,160.0,1.0,2.0,01-08-25,02-08-25
+840#567,1.0,White,White,Terni,Terni,Terni, Terni ,67,67,840,567,0.6,,"8,6","8,8",Favoloso ,Fantastico,218,223.0,1.0,2.0,01-08-25,02-08-25
+841#541,1.0,Hotel Garden Terni,Hotel Garden Terni,Terni,Terni,Terni, Terni ,138,138,841,541,1.2,,"7,8","7,9",Buono ,Ottimo,477,505.0,1.0,2.0,01-08-25,02-08-25
+842#675,1.0,Aryhouse,Aryhouse,Terni,Terni,Terni, Terni ,85,85,842,675,1.1,,"9,8","9,8",Eccezionale ,Eccezionale,27,16.0,1.0,2.0,01-08-25,02-08-25
+843#554,1.0,Tre Colonne,Tre Colonne,Terni,Terni,Terni, Terni ,76,76,843,554,0.5,,"9,1","9,3",Eccellente ,Eccezionale,21,18.0,1.0,2.0,01-08-25,02-08-25
+844#663,1.0,Asso Residence Stazione,Asso Residence Stazione,Terni,Terni,Terni, Terni ,94,94,844,663,1.1,,"7,9","8,1",Buono ,Fantastico,61,58.0,1.0,2.0,01-08-25,02-08-25
+845#593,1.0,G&Gapartment,G&Gapartment,Terni,Terni,Terni, Terni ,129,129,845,593,1.5,,"7,8","7,9",Buono ,Ottimo,89,91.0,1.0,2.0,01-08-25,02-08-25
+846#588,1.0,Il Giardino di Venere,Il Giardino di Venere,Terni,Terni,Terni, Terni ,74,74,846,588,5.5,,"8,1","9,6",Ottimo ,Eccezionale,86,1.0,1.0,2.0,01-08-25,02-08-25
+847#550,1.0,Casa nel Verde,Casa nel Verde,Terni,Terni,Terni, Terni ,59,59,847,550,2.8,,"7,8","8,1",Buono ,Fantastico,141,142.0,1.0,2.0,01-08-25,02-08-25
+848#622,1.0,La Casetta- Bilocale con giardino privato,La Casetta- Bilocale con giardino privato,Terni,Terni,Terni, Terni ,109,109,848,622,1.3,,"9,4","9,4",Eccellente ,Eccezionale,56,55.0,1.0,2.0,01-08-25,02-08-25
+849#594,1.0,M&M’s Home,M&M’s Home,Terni,Terni,Terni, Terni ,85,85,849,594,1.0,,"9,2","10,0",Eccellente ,Eccezionale,168,1.0,1.0,2.0,01-08-25,02-08-25
+850#669,1.0,Appartamenti Natura e Terra Marmore,Appartamenti Natura e Terra Marmore,Terni,Terni,Terni, Terni ,113,113,850,669,5.5,,"8,9","9,1",Favoloso ,Eccezionale,134,130.0,1.0,2.0,01-08-25,02-08-25
+851#575,1.0,San Francesco Home,San Francesco Home,Terni,Terni,Terni, Terni ,84,84,851,575,0.4,,"8,8","9,4",Favoloso ,Eccezionale,17,10.0,1.0,2.0,01-08-25,02-08-25
+852#582,1.0,Tre Monumenti Luxury Suites,Tre Monumenti Luxury Suites,Terni,Terni,Terni, Terni ,113,113,852,582,1.0,,10,"9,6",Eccezionale ,Eccezionale,3,0.0,1.0,2.0,01-08-25,02-08-25
+853#641,1.0,IL TEATRO ALLOGGI,IL TEATRO ALLOGGI,Terni,Terni,Terni, Terni ,93,93,853,641,0.8,,"8,6","8,9",Favoloso ,Fantastico,112,114.0,1.0,2.0,01-08-25,02-08-25
+854#608,1.0,Palmira House - delizioso bilocale for two,Palmira House - delizioso bilocale for two,Terni,Terni,Terni, Terni ,94,94,854,608,0.4,,"9,7","9,8",Eccezionale ,Eccezionale,113,109.0,1.0,2.0,01-08-25,02-08-25
+855#626,1.0,WHITE 2,WHITE 2,Terni,Terni,Terni, Terni ,73,73,855,626,0.8,,"8,8","9,0",Favoloso ,Eccezionale,19,16.0,1.0,2.0,01-08-25,02-08-25
+856#635,1.0,La Casa nella Contea,La Casa nella Contea,Terni,Terni,Terni, Terni ,92,92,856,635,5.4,,"9,9","9,8",Eccezionale ,Eccezionale,21,21.0,1.0,2.0,01-08-25,02-08-25
+857#645,1.0,La casa di Emma,La casa di Emma,Terni,Terni,Terni, Terni ,94,94,857,645,2.6,,"9,1","9,4",Eccellente ,Eccezionale,90,88.0,1.0,2.0,01-08-25,02-08-25
+858#625,1.0,"Interamna House, intero appartamento exclusive use","Interamna House, intero appartamento exclusive use",Terni,Terni,Terni, Terni ,97,97,858,625,0.5,,"9,0","9,0",Eccellente ,Eccezionale,3,1.0,1.0,2.0,01-08-25,02-08-25
+859#609,1.0,La Collina Dei Castagni,La Collina Dei Castagni,Terni,Terni,Terni, Terni ,134,134,859,609,7.9,,"9,0","9,8",Eccellente ,Eccezionale,1,0.0,1.0,2.0,01-08-25,02-08-25
+860#583,1.0,Civico Sessantasei,Civico Sessantasei,Terni,Terni,Terni, Terni ,104,104,860,583,0.8,,"9,8","9,8",Eccezionale ,Eccezionale,6,2.0,1.0,2.0,01-08-25,02-08-25
+861#618,1.0,Civico 66,Civico 66,Terni,Terni,Terni, Terni ,100,100,861,618,0.8,,"9,3","9,9",Eccellente ,Eccezionale,9,6.0,1.0,2.0,01-08-25,02-08-25
+862#611,1.0,Alloggi Primavera Matilde,Alloggi Primavera Matilde,Terni,Papigno,Terni, Papigno ,115,115,862,611,2.8,,10,"9,4",Eccezionale ,Eccezionale,1,0.0,1.0,2.0,01-08-25,02-08-25
+863#578,1.0,RIO bed,RIO bed,Terni,Terni,Terni, Terni ,94,94,863,578,0.9,,"9,7","10,0",Eccezionale ,Eccezionale,4,2.0,1.0,2.0,01-08-25,02-08-25
+864#584,1.0,A&F House,A&F House,Terni,Terni,Terni, Terni ,107,107,864,584,2.2,,"8,7","9,0",Favoloso ,Eccezionale,6,4.0,1.0,2.0,01-08-25,02-08-25
+865#649,1.0,The Lover House,The Lover House,Terni,Terni,Terni, Terni ,82,82,865,649,8.3,,"8,8","8,5",Favoloso ,Fantastico,6,8.0,1.0,2.0,01-08-25,02-08-25
+866#579,1.0,Tana per gli ospiti,Tana per gli ospiti,Terni,Terni,Terni, Terni ,81,81,866,579,2.3,,"8,8","9,0",Favoloso ,Eccezionale,66,68.0,1.0,2.0,01-08-25,02-08-25
+867#660,1.0,Terni In Centro,Terni In Centro,Terni,Terni,Terni, Terni ,124,124,867,660,0.8,,"7,5","7,7",Buono ,Ottimo,51,52.0,1.0,2.0,01-08-25,02-08-25
+868#606,1.0,Alloggi Primavera Anna,Alloggi Primavera Anna,Terni,Papigno,Terni, Papigno ,141,141,868,606,2.8,,,"8,4",,Fantastico,0,0.0,1.0,2.0,01-08-25,02-08-25
+869#637,1.0,Casa di milly,Casa di milly,Terni,Papigno,Terni, Papigno ,80,80,869,637,2.1,,10,"9,8",Eccezionale ,Eccezionale,1,0.0,1.0,2.0,01-08-25,02-08-25
+870#605,0.9636363636363636,La Severa,La Severa 2,Terni,Terni,Terni, Terni ,94,96,870,605,1.4,,"9,3","8,4",Eccellente ,Fantastico,51,11.0,1.0,2.0,01-08-25,02-08-25
+870#634,1.0,La Severa,La Severa,Terni,Terni,Terni, Terni ,94,94,870,634,1.4,,"9,3","9,5",Eccellente ,Eccezionale,51,49.0,1.0,2.0,01-08-25,02-08-25
+871#564,1.0,Bed and Breakfast San Valentino,Bed and Breakfast San Valentino,Terni,Terni,Terni, Terni ,99,99,871,564,2.2,,"7,1","7,7",Buono ,Ottimo,46,48.0,1.0,2.0,01-08-25,02-08-25
+872#559,1.0,Acqua Marmore,Acqua Marmore,Terni,Terni,Terni, Terni ,125,125,872,559,5.5,,"8,8","9,0",Favoloso ,Eccezionale,82,81.0,1.0,2.0,01-08-25,02-08-25
+873#560,1.0,Bice house,Bice house,Terni,Terni,Terni, Terni ,144,144,873,560,5.3,,"9,2","8,9",Eccellente ,Fantastico,20,19.0,1.0,2.0,01-08-25,02-08-25
+874#589,1.0,Belvedere Valenza,Belvedere Valenza,Terni,Terni,Terni, Terni ,97,97,874,589,3.8,,"6,8","7,9",Punteggio medio ,Ottimo,14,15.0,1.0,2.0,01-08-25,02-08-25
+875#647,1.0,Alloggio tra Terni e Narni,Alloggio tra Terni e Narni,Terni,Terni,Terni, Terni ,128,128,875,647,3.9,,"9,5","9,5",Eccezionale ,Eccezionale,19,19.0,1.0,2.0,01-08-25,02-08-25
+876#580,1.0,Casa Vacanze Chiara,Casa Vacanze Chiara,Terni,Terni,Terni, Terni ,104,104,876,580,3.5,,"9,7","9,0",Eccezionale ,Eccezionale,3,0.0,1.0,2.0,01-08-25,02-08-25
+877#595,1.0,La casa di Glenda bis - alloggio zona ospedale,La casa di Glenda bis - alloggio zona ospedale,Terni,Terni,Terni, Terni ,94,94,877,595,2.2,,"9,5","9,7",Eccezionale ,Eccezionale,36,34.0,1.0,2.0,01-08-25,02-08-25
+879#639,1.0,La casa di Glenda ospedale,La casa di Glenda ospedale,Terni,Terni,Terni, Terni ,90,90,879,639,2.2,,"9,2","9,3",Eccellente ,Eccezionale,23,23.0,1.0,2.0,01-08-25,02-08-25
+880#674,1.0,Bilocale degli Innamorati,Bilocale degli Innamorati,Terni,Terni,Terni, Terni ,107,107,880,674,0.8,,"8,2","8,9",Ottimo ,Fantastico,57,56.0,1.0,2.0,01-08-25,02-08-25
+883#633,1.0,"Favolosa ""Dimora del Capriolo"" con Giardino e Parcheggio","Favolosa ""Dimora del Capriolo"" con Giardino e Parcheggio",Terni,Terni,Terni, Terni ,216,228,883,633,2.9,,"9,3","9,5",Eccellente ,Eccezionale,13,13.0,1.0,2.0,01-08-25,02-08-25
+884#605,1.0,La Severa 2,La Severa 2,Terni,Terni,Terni, Terni ,96,96,884,605,1.4,,"8,4","8,4",Ottimo ,Fantastico,11,11.0,1.0,2.0,01-08-25,02-08-25
+884#634,0.9636363636363636,La Severa 2,La Severa,Terni,Terni,Terni, Terni ,96,94,884,634,1.4,,"8,4","9,5",Ottimo ,Eccezionale,11,49.0,1.0,2.0,01-08-25,02-08-25
