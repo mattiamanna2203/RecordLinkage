@@ -21,15 +21,10 @@ def record_linkage_title(copia_agoda : pd.DataFrame(),
    # Aggiungere le colonne ID: 
    copia_booking['id_booking'] = copia_booking.index
    copia_agoda['id_agoda'] = copia_agoda.index
+   
 
-   # Pulizia titoli, si utilizza la funzione clean del pacchetto record linkage.
-   # In particolare, clean() fa le seguenti operazioni:
-   #  - Rende il testo minuscolo (lowercase).
-   #  - Rimuove punteggiatura, simboli e caratteri speciali.
-   #  - Rimuove spazi in eccesso (trimma e normalizza spazi multipli).
-   #  - Sostituisce caratteri accentati con equivalenti ASCII (es. "é" → "e").
-   copia_booking['titolo_booking'] = clean(copia_booking['titolo'])
-   copia_agoda['titolo_agoda'] = clean(copia_agoda['titolo'])
+   copia_booking = copia_booking.rename(columns={"titolo_processed":"titolo_booking"})
+   copia_agoda = copia_agoda.rename(columns={"titolo_processed":"titolo_agoda"})
 
    # Blocking sulla prima lettera (Il blocking sulla prima lettera è una tecnica di record linkage usata per ridurre il numero di confronti tra record che devono essere effettuati.)
    #  Nel record linkage, si confrontano record da due (o più) set di dati per trovare duplicati o corrispondenze. Confrontare ogni record con tutti gli altri è computazionalmente costoso, soprattutto con set grandi complessità. 

@@ -17,7 +17,7 @@ def alfabeto(x: str) -> str:
       raise TypeError("'x' deve essere una stringa.")
 
    # Tutto minuscolo subito
-   x = x.lower()
+   x = x.title()
 
    # Rimuovere caratteri speciali, punteggiatura & ecc...,
    # https://stackoverflow.com/questions/23996118/replace-special-characters-in-a-string-in-python
