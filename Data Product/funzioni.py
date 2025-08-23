@@ -8,7 +8,7 @@ import dateparser
 def alfabeto(x: str) -> str:
    """ Funzione che presa una stringa in input:
       - Ordina le parole all'interno di essa;
-      - Tutte le parole minuscole;
+      - Tutte le parole in formato title, ogni iniziale maiuscola;
       - Rimosso ogni carattere speciali;
       - Rimossi eventuali spazi aggiuntivi.
       Infine restituisce la stringa pulita in output.
