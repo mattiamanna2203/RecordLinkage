@@ -1,11 +1,11 @@
 import pandas as pd 
 import recordlinkage
-from recordlinkage.preprocessing import clean
 
 
-def record_linkage_title(copia_agoda : pd.DataFrame(),
-                         copia_booking : pd.DataFrame(),
-                         soglia : float ) -> pd.DataFrame():
+
+def record_linkage_title(copia_agoda : pd.DataFrame,
+                         copia_booking : pd.DataFrame,
+                         soglia : float ) -> pd.DataFrame:
    """Funzione per praticare il record linkage tra due dataframe, selezione tramite threshold. 
       Non si tratta di una vera e propria funzione in quanto i parametri sono molti e non tutti selezionabili, è solo un modo per risparmiare codice e rendere tutto più chiaro e semplice.
       Input:
@@ -154,11 +154,11 @@ def record_linkage_title(copia_agoda : pd.DataFrame(),
    match.drop_duplicates(inplace=True) # Rimuovere righe duplicate
    return match
 
-def record_linkage_city_title(dataframe_booking : pd.DataFrame(),
-                              dataframe_agoda : pd.DataFrame(),
+def record_linkage_city_title(dataframe_booking : pd.DataFrame,
+                              dataframe_agoda : pd.DataFrame,
                               soglia_titolo : float,
                               soglia_città : float
-                              ) -> pd.DataFrame():
+                              ) -> pd.DataFrame:
    """Funzione per praticare il record linkage tra due dataframe. 
       Utilizza il metodo: 'Fellegi-Sunter'.
       Input:
