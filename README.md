@@ -9,3 +9,7 @@ Questo progetto ha come obiettivo...
   - La seconda nella quale si puliscono i dati 
   - Terza si effettua il record linkage
   - La quarta di analisi dei risultati del record linkage.
+
+
+
+Web scraping..
