@@ -1,0 +1,19 @@
+{  
+   "path_selenium_driver": "/Users/mattia/opt/chromedriver137",
+
+   "path_html_agoda": "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Web Scraping/Scraping-from-Agoda/html",
+
+   "path_funzioni_agoda": "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Web Scraping/Scraping-from-Agoda/funzioni",
+
+   "path_html_booking": "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Web Scraping/Scraping-from-booking/html",
+
+   "path_funzioni_booking": "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Web Scraping/Scraping-from-booking/funzioni",
+
+   "path_data_lake": "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Data Lake",
+
+   "path_data_product" : "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Data Product",
+
+   "path_results": "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Results",
+
+   "path_funzioni": "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Funzioni"
+}
