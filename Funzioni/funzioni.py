@@ -2,7 +2,6 @@ import pandas as pd
 import recordlinkage
 
 
-
 def record_linkage_title(copia_agoda : pd.DataFrame,
                          copia_booking : pd.DataFrame,
                          soglia : float ) -> pd.DataFrame:

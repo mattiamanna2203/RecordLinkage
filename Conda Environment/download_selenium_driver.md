@@ -6,3 +6,7 @@ La pagina principale al link: https://developer.chrome.com/docs/chromedriver/dow
 Bisogna effettuare il download del driver corrispondente alla propria versione di chrome ed al proprio sistema operativo:  
 - Mac con processore silicon: mac-arm64
 - Mac con processore intel: mac-x64
+
+Esempio: 
+
+https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.215/mac-arm64/chromedriver-mac-arm64.zip

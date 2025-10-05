@@ -17,16 +17,16 @@ Web scraping..
 Se si vuole riutilizzare lo script i percorsi file vanno specificati nel file **config**, mentre i pacchetti python necessari possono essere trovati nella cartella **Conda Environment**. 
 
 Nel dettaglio:
-- ***"path_selenium_driver"*** percorso file del selenium driver
+-  ***"path_selenium_driver"*** percorso file del selenium driver;
 
--  ***"path_html_agoda"*** percorso file della cartella nella quale salvare gli html 
-   risultato del webscraping al sito web agoda; 
+-  ***"path_progetto"*** percorso file della directory che contiene il progetto;
+
+-  ***"path_scraper_agoda"*** percorso file scraper agoda;
 
 -  ***"path_funzioni_agoda"*** percorso file della cartella contenente le funzioni per il 
    bot selenium per lo scraping del sito web agoda;
 
--  ***"path_html_booking"*** percorso file della cartella nella quale salvare gli html 
-   risultato del webscraping al sito web booking; 
+-  ***"path_scraper_booking"*** percorso file scraper booking;
 
 -  ***"path_funzioni_booking"*** percorso file della cartella contenente le funzioni per il 
    bot selenium per lo scraping del sito web booking;

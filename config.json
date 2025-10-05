@@ -1,19 +1,22 @@
-{  
-   "path_selenium_driver": "/Users/mattia/opt/chromedriver137",
+{  "_comment": "Modificare solamente i path: path_selenium_driver, path_progetto.  Gli altri path vanno modificati solo se si apportano modifiche alla struttura del progetto, praticata sconsigliata.",
 
-   "path_html_agoda": "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Web Scraping/Scraping-from-Agoda/html",
+   "path_selenium_driver": "/Users/mattia/opt/chromedriver140",
 
-   "path_funzioni_agoda": "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Web Scraping/Scraping-from-Agoda/funzioni",
+   "path_progetto" : "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto",
 
-   "path_html_booking": "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Web Scraping/Scraping-from-booking/html",
+   "path_scraper_agoda" : "/Web Scraping/Scraping-from-Agoda",
 
-   "path_funzioni_booking": "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Web Scraping/Scraping-from-booking/funzioni",
+   "path_funzioni_agoda": "/Web Scraping/Scraping-from-Agoda/funzioni",
 
-   "path_data_lake": "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Data Lake",
+   "path_scraper_booking" : "/Web Scraping/Scraping-from-booking",
 
-   "path_data_product" : "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Data Product",
+   "path_funzioni_booking": "/Web Scraping/Scraping-from-booking/funzioni",
 
-   "path_results": "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Results",
+   "path_data_lake": "/Data Lake",
 
-   "path_funzioni": "/Users/mattia/Desktop/Università/Data Science in Python/_Progetti/MatchAnalysis_Imputation/Progetto/Funzioni"
+   "path_data_product" : "/Data Product",
+
+   "path_results": "/Results",
+
+   "path_funzioni": "/Funzioni"
 }
