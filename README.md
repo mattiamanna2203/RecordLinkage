@@ -1,12 +1,17 @@
+# Descrizione del progetto
+
+## Obiettivo
 Questo progetto ha come obiettivo l'applicazione del record linkage su dati reali.  
 I dati reali sono stati ottenuti tramite tecniche di **web scraping**.   
 
+## Pipeline del progetto
 Il progetto è diviso in quattro fasi:
   1. Fase di scraping (ottentimento dati);
   2. Pulizia i dati;
   3. Record linkage;
   4. Analisi dei risultati ottenuti e delle differenze tra booking e agoda.
 
+### 1. Fase di scraping (ottentimento dati);
 
 Dalle piattaforme  ***agoda*** e ***booking*** tramite scraping sono stati estratti dati relativi a location di diverso tipo:
 - hotel
@@ -14,11 +19,21 @@ Dalle piattaforme  ***agoda*** e ***booking*** tramite scraping sono stati estra
 - affitti a breve termine
 
 Questi dati sono stati raccolti per location di Terni e di Roma.  
+
+### 2,3 Fase di pulizia dati e record linkage
 Successivamente tramite tecniche di **record linkage** supportate da un corretto **preprocessing** dei dati sono stati identificate e matchate le stesse location presenti sia in booking che in agoda.
+
+### 4. Analisi dei risultati
 
 Infine sono stati analizzati i dati per le location presenti in entrambi i dataset così da 
 capire quale piattaforma presenta offerte migliori.   
 
+
+
+# Descrizione delle cartelle e dei file
+
+
+# Riutilizzare il codice
 
 Se si vuole riutilizzare lo script i percorsi file vanno specificati nel file **config**, mentre i pacchetti python necessari possono essere trovati nella cartella **Conda Environment**. 
 
@@ -49,5 +64,7 @@ essere modificati:
 -  ***"path_results"*** percorso file della cartella nella quale i risultati vengono salvati;
 
 -  ***"path_funzioni"*** percorso file della cartella contenente le funzioni.
+
+
 
 
