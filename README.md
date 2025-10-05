@@ -29,88 +29,6 @@ Infine sono stati analizzati i dati per le location presenti in entrambi i datas
 capire quale piattaforma presenta offerte migliori.   
 
 
-
-# Descrizione delle cartelle e dei file
-
-```
-├── AnalisiRisultati.ipynb  # 
-├── Conda Environment
-├── Data Lake
-├── Data Product
-├── Funzionamento_jarowinkler_jellyfish.ipynb
-├── Funzioni
-├── OriginaleLinkage.ipynb
-├── Presentazione
-├── README.md
-├── RecordLinkage.ipynb
-├── Results
-├── Web Scraping
-└── config.json
-```
-
-
-Più nel dettaglio:
-
-```
-.
-├── .DS_Store
-├── .gitattributes
-├── .gitignore
-├── AnalisiRisultati.ipynb
-├── Conda Environment
-│   ├── create_env.sh
-│   ├── download_selenium_driver.md
-│   └── setup-env.yml
-├── Data Lake
-│   ├── agoda_Roma.csv
-│   ├── agoda_Terni.csv
-│   ├── booking_Roma.csv
-│   └── booking_Terni.csv
-├── Data Product
-│   ├── Cleaning_pipeline.ipynb
-│   ├── agoda.csv
-│   ├── booking.csv
-│   └── funzioni.py
-├── Funzionamento_jarowinkler_jellyfish.ipynb
-├── Funzioni
-│   ├── .DS_Store
-│   └── funzioni.py
-├── OriginaleLinkage.ipynb
-├── Presentazione
-│   ├── Record linkage.ppt
-│   └── Slide.ppt
-├── README.md
-├── RecordLinkage.ipynb
-├── Results
-│   ├── matches_titolo_095.csv
-│   └── matches_titolo_095_città_08.csv
-├── Web Scraping
-│   ├── .DS_Store
-│   ├── Scraping-from-Agoda
-│   │   ├── .DS_Store
-│   │   ├── 01)_Get_HTML.ipynb
-│   │   ├── 02)_Get_Info.ipynb
-│   │   ├── funzioni
-│   │   │   └── funzioni_selenium_bot_agoda.py
-│   │   └── html
-│   │       ├── .DS_Store
-│   │       ├── html_final_pagina1.txt
-│   │       └── html_final_pagina2.txt
-│   └── Scraping-from-booking
-│       ├── .DS_Store
-│       ├── 01)_Get_HTML.ipynb
-│       ├── 02)_Get_Info.ipynb
-│       ├── funzioni
-│       │   └── funzioni_selenium_bot_booking.py
-│       └── html
-│           └── html_final.txt
-└── config.json
-```
-
-
-
-
-
 # Riutilizzare il codice
 
 Se si vuole riutilizzare lo script i percorsi file vanno specificati nel file **config**, mentre i pacchetti python necessari possono essere trovati nella cartella **Conda Environment**. 
@@ -145,4 +63,80 @@ essere modificati:
 
 
 
+# Descrizione delle cartelle e dei file
 
+## Tree 
+
+
+
+```
+├── AnalisiRisultati.ipynb  # Python notebook per analizzare i risultati del record linkage
+├── Conda Environment       # Cartella contenente informazioni sui pacchetti python e driver 
+                              # necessari per il corretto funzionamento del progetto
+├── Data Lake               # Folder contenente i dati grezzi
+├── Data Product            # Folder contenente dati puliti e script che li hanno puliti
+├── Funzionamento_jarowinkler_jellyfish.ipynb # Python notebook per capire il funzionamento di
+                                              # jarowinkler e jellyfish (record linkage)     
+├── Funzioni                # Folder contenente le funzioni necessari per il record linkage
+├── README.md               # File readme che si sta leggendo in questo momento
+├── RecordLinkage.ipynb     # Python notebook per applicare le tecniche di record linkage 
+├── Results                 # Folder ove salvare i risultati del record linkage
+├── Web Scraping            # Folder contenenti le funzioni ed i bot selenium per effettuare 
+                              # il web scraping
+└── config.json             # File json contenente i path necessari per il corretto    
+                              # funzionamento degli script
+```
+
+
+### Tre più nel dettaglio
+
+```
+.
+├── AnalisiRisultati.ipynb # Python notebook per analizzare i risultati del record linkage
+├── Conda Environment      # Cartella contenente informazioni sui pacchetti python e driver 
+                              # necessari per il corretto funzionamento del progetto
+│   ├── create_env.sh      # bash script  per la creazione del conda environment necessario  
+                           # per un corretto funzionamento di python
+│   ├── download_selenium_driver.md # Informazioni su come effettuare il download del giusto 
+                                    # selenium chrome driver 
+│   └── setup-env.yml      # Lista dei pacchetti python necessari nel conda environment 
+├── Data Lake              # Folder contenente i dati grezzi
+│   ├── agoda_Roma.csv     # Dataframe contenente location relative a roma sulla piattaforma agoda
+│   ├── agoda_Terni.csv    # Dataframe contenente location relative a terni sulla piattaforma agoda
+│   ├── booking_Roma.csv   # Dataframe contenente location relative a roma sulla piattaforma booking
+│   └── booking_Terni.csv  # Dataframe contenente location relative a terni sulla piattaforma booking
+├── Data Product           # Folder contenente dati puliti e script che li hanno puliti
+│   ├── Cleaning_pipeline.ipynb # Python notebook per preprocessare i dati 
+│   ├── agoda.csv               # Dati preprocessati per la piattaforma agoda
+│   ├── booking.csv             # Dati preprocessati per la piattaforma booking
+│   └── funzioni.py             # Funzioni per il preprocessing dei dati
+├── Funzionamento_jarowinkler_jellyfish.ipynb # Python notebook per capire il funzionamento di
+                                                # jarowinkler e jellyfish (record linkage)     
+├── Funzioni               # Folder contenente le funzioni necessari per il record linkage
+│   └── funzioni.py        # funzioni
+├── README.md              # File readme che si sta leggendo in questo momento
+├── RecordLinkage.ipynb    # Python notebook per applicare le tecniche di record linkage 
+├── Results                # Folder ove salvare i risultati del record linkage
+│   ├── matches_titolo_095.csv          # match ottenuti utilizzando solo la variabile titolo
+│   └── matches_titolo_095_città_08.csv # match ottenuti utilizzando la variabile 
+                                          # titolo e città
+├── Web Scraping           # Folder contenenti le funzioni ed i bot selenium per effettuare 
+                              # il web scraping
+│   ├── Scraping-from-Agoda # Contiente il bot per lo scraping al sito agoda
+│   │   ├── 01)_Get_HTML.ipynb # Python notebook per l'ottenimento degli html tramite bot selenium
+│   │   ├── 02)_Get_Info.ipynb # Python notebook per l'estrazione dati dagli html
+│   │   ├── funzioni # Folder contenente le funzioni per il funzionamento del bot selenium per agoda
+│   │   │   └── funzioni_selenium_bot_agoda.py 
+│   │   └── html # Folder nel quale salvare gli html ottenuti tramite scraping
+│   │       ├── html_final_pagina1.txt
+│   │       └── html_final_pagina2.txt
+│   └── Scraping-from-booking  # Contiente il bot per lo scraping al sito booking
+│       ├── 01)_Get_HTML.ipynb # Python notebook per l'ottenimento degli html tramite bot selenium
+│       ├── 02)_Get_Info.ipynb # Python notebook per l'estrazione dati dagli html
+│       ├── funzioni # Folder contenente le funzioni per il funzionamento del bot selenium per booking
+│       │   └── funzioni_selenium_bot_booking.py
+│       └── html # Folder nel quale salvare gli html ottenuti tramite scraping
+│           └── html_final.txt
+└── config.json              # File json contenente i path necessari per il corretto    
+                              # funzionamento degli script
+```
