@@ -72,17 +72,17 @@ essere modificati:
 ```
 ├── AnalisiRisultati.ipynb  # Python notebook per analizzare i risultati del record linkage
 ├── Conda Environment       # Cartella contenente informazioni sui pacchetti python e driver 
-                              # necessari per il corretto funzionamento del progetto
+|                              # necessari per il corretto funzionamento del progetto
 ├── Data Lake               # Folder contenente i dati grezzi
 ├── Data Product            # Folder contenente dati puliti e script che li hanno puliti
 ├── Funzionamento_jarowinkler_jellyfish.ipynb # Python notebook per capire il funzionamento di
-                                              # jarowinkler e jellyfish (record linkage)     
+|                                              # jarowinkler e jellyfish (record linkage)     
 ├── Funzioni                # Folder contenente le funzioni necessari per il record linkage
 ├── README.md               # File readme che si sta leggendo in questo momento
 ├── RecordLinkage.ipynb     # Python notebook per applicare le tecniche di record linkage 
 ├── Results                 # Folder ove salvare i risultati del record linkage
 ├── Web Scraping            # Folder contenenti le funzioni ed i bot selenium per effettuare 
-                              # il web scraping
+|                              # il web scraping
 └── config.json             # File json contenente i path necessari per il corretto    
                               # funzionamento degli script
 ```
@@ -94,11 +94,11 @@ essere modificati:
 .
 ├── AnalisiRisultati.ipynb # Python notebook per analizzare i risultati del record linkage
 ├── Conda Environment      # Cartella contenente informazioni sui pacchetti python e driver 
-                              # necessari per il corretto funzionamento del progetto
+|   |                           # necessari per il corretto funzionamento del progetto
 │   ├── create_env.sh      # bash script  per la creazione del conda environment necessario  
-                           # per un corretto funzionamento di python
+|   |                        # per un corretto funzionamento di python
 │   ├── download_selenium_driver.md # Informazioni su come effettuare il download del giusto 
-                                    # selenium chrome driver 
+|   |                                 # selenium chrome driver 
 │   └── setup-env.yml      # Lista dei pacchetti python necessari nel conda environment 
 ├── Data Lake              # Folder contenente i dati grezzi
 │   ├── agoda_Roma.csv     # Dataframe contenente location relative a roma sulla piattaforma agoda
@@ -111,7 +111,7 @@ essere modificati:
 │   ├── booking.csv             # Dati preprocessati per la piattaforma booking
 │   └── funzioni.py             # Funzioni per il preprocessing dei dati
 ├── Funzionamento_jarowinkler_jellyfish.ipynb # Python notebook per capire il funzionamento di
-                                                # jarowinkler e jellyfish (record linkage)     
+|                                                # jarowinkler e jellyfish (record linkage)     
 ├── Funzioni               # Folder contenente le funzioni necessari per il record linkage
 │   └── funzioni.py        # funzioni
 ├── README.md              # File readme che si sta leggendo in questo momento
@@ -119,9 +119,9 @@ essere modificati:
 ├── Results                # Folder ove salvare i risultati del record linkage
 │   ├── matches_titolo_095.csv          # match ottenuti utilizzando solo la variabile titolo
 │   └── matches_titolo_095_città_08.csv # match ottenuti utilizzando la variabile 
-                                          # titolo e città
+|                                          # titolo e città
 ├── Web Scraping           # Folder contenenti le funzioni ed i bot selenium per effettuare 
-                              # il web scraping
+|   |                           # il web scraping
 │   ├── Scraping-from-Agoda # Contiente il bot per lo scraping al sito agoda
 │   │   ├── 01)_Get_HTML.ipynb # Python notebook per l'ottenimento degli html tramite bot selenium
 │   │   ├── 02)_Get_Info.ipynb # Python notebook per l'estrazione dati dagli html
@@ -130,7 +130,7 @@ essere modificati:
 │   │   └── html # Folder nel quale salvare gli html ottenuti tramite scraping
 │   │       ├── html_final_pagina1.txt
 │   │       └── html_final_pagina2.txt
-│   └── Scraping-from-booking  # Contiente il bot per lo scraping al sito booking
+│   └── Scraping-from-booking # Contiente il bot per lo scraping al sito booking
 │       ├── 01)_Get_HTML.ipynb # Python notebook per l'ottenimento degli html tramite bot selenium
 │       ├── 02)_Get_Info.ipynb # Python notebook per l'estrazione dati dagli html
 │       ├── funzioni # Folder contenente le funzioni per il funzionamento del bot selenium per booking
