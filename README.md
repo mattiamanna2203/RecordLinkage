@@ -32,6 +32,84 @@ capire quale piattaforma presenta offerte migliori.
 
 # Descrizione delle cartelle e dei file
 
+```
+├── AnalisiRisultati.ipynb  # 
+├── Conda Environment
+├── Data Lake
+├── Data Product
+├── Funzionamento_jarowinkler_jellyfish.ipynb
+├── Funzioni
+├── OriginaleLinkage.ipynb
+├── Presentazione
+├── README.md
+├── RecordLinkage.ipynb
+├── Results
+├── Web Scraping
+└── config.json
+```
+
+
+Più nel dettaglio:
+
+```
+.
+├── .DS_Store
+├── .gitattributes
+├── .gitignore
+├── AnalisiRisultati.ipynb
+├── Conda Environment
+│   ├── create_env.sh
+│   ├── download_selenium_driver.md
+│   └── setup-env.yml
+├── Data Lake
+│   ├── agoda_Roma.csv
+│   ├── agoda_Terni.csv
+│   ├── booking_Roma.csv
+│   └── booking_Terni.csv
+├── Data Product
+│   ├── Cleaning_pipeline.ipynb
+│   ├── agoda.csv
+│   ├── booking.csv
+│   └── funzioni.py
+├── Funzionamento_jarowinkler_jellyfish.ipynb
+├── Funzioni
+│   ├── .DS_Store
+│   └── funzioni.py
+├── OriginaleLinkage.ipynb
+├── Presentazione
+│   ├── Record linkage.ppt
+│   └── Slide.ppt
+├── README.md
+├── RecordLinkage.ipynb
+├── Results
+│   ├── matches_titolo_095.csv
+│   └── matches_titolo_095_città_08.csv
+├── Web Scraping
+│   ├── .DS_Store
+│   ├── Scraping-from-Agoda
+│   │   ├── .DS_Store
+│   │   ├── 01)_Get_HTML.ipynb
+│   │   ├── 02)_Get_Info.ipynb
+│   │   ├── funzioni
+│   │   │   └── funzioni_selenium_bot_agoda.py
+│   │   └── html
+│   │       ├── .DS_Store
+│   │       ├── html_final_pagina1.txt
+│   │       └── html_final_pagina2.txt
+│   └── Scraping-from-booking
+│       ├── .DS_Store
+│       ├── 01)_Get_HTML.ipynb
+│       ├── 02)_Get_Info.ipynb
+│       ├── funzioni
+│       │   └── funzioni_selenium_bot_booking.py
+│       └── html
+│           └── html_final.txt
+└── config.json
+```
+
+
+
+
 
 # Riutilizzare il codice
 
